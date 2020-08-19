@@ -2,3 +2,7 @@ baseURL = "https://1134.netlify.app/"
 languageCode = "en-us"
 theme = "book"
 title = "1134: Reading Poetry"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

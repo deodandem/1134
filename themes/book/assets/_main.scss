@@ -8,18 +8,25 @@ body {
   min-width: $body-min-width;
   color: $body-font-color;
   background: $body-background;
-
   letter-spacing: 0.33px;
   font-weight: $body-font-weight;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  margin-top: 1.25em;
+  margin: 0em 1.5em 1.5em;
   box-sizing: border-box;
   * {
     box-sizing: inherit;
   }
+}
+
+ul {
+    margin-left: 2em;
+}
+
+p {
+  margin-left: 2em;
 }
 
 h1,
@@ -76,6 +83,10 @@ ul.pagination {
   }
 }
 
+.yellow {
+  background-color: yellow;
+  font-weight: bold;
+}
 .container {
   max-width: $container-max-width;
   margin: 0 auto;
@@ -86,7 +97,7 @@ ul.pagination {
 }
 
 .book-brand {
-  margin-top: 1.25em;
+  margin-top: 0em;
 
   img {
     height: 1.5em;
@@ -300,6 +311,7 @@ aside nav,
 .book-page,
 .book-header aside,
 .markdown {
+  margin-top:1em;
   transition: 0.2s ease-in-out;
   transition-property: transform, margin, opacity, visibility;
   will-change: transform, margin, opacity;
@@ -359,6 +371,7 @@ aside nav,
   }
 
   #toc-control:checked ~ main {
+
     .book-header aside {
       display: block;
     }
