@@ -1,3 +1,10 @@
+---
+title: "Criticism"
+date: 2020-08-21T21:24:40-04:00
+lastmod: 2020-08-21
+draft: true
+---
+
 # Expand
 
 Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.

@@ -1,5 +1,8 @@
 # Readings
 
+<p style="margin-left:0">
+Longer list of recommended readings not covered in class.
+</p>
 
 {{< details "Week 2" close >}}
 

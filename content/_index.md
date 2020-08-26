@@ -31,46 +31,48 @@ We will regularly work on transforming the thoughts, ideas, and discussions we h
 <li>Two individual meetings with the instructor
 <li>Timely completion of essay assignments
 </ul>
+
 There will be five essays, four will be given a letter grade.
 
-* Essay 0 — 2 pages (September 7)
-* Essay 1 — 4 pages (October 2)
-* Essay 2 — 4 pages (October 23)
-* Essay 3 — 4 pages (November 13)
-* Essay 4 — 8-10 pages (December 15)
+* Essay 0 — "Diagnostic" — 2 pages (September 7)
+* Essay 1 — "Line" — 3 pages (September 21)
+* Essay 2 — "Ritual vs. Fiction" - 4 pages (October 5)
+* Essay 3 — "Punctum" 4 pages (October 26)
+* Essay 4 — "Question" - 4 pages (November 16)
+* Essay 5 - "Final" 8-12 pages (December 15)
 
-Essays should follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html">MLA style guidelines,</a> with the following added specifications:
-Use 1.5 line spacing, and Charter font. Turn in papers as PDFs on Canvas.
+Each assignment prompt will be released at least one week in advance of the due date. Listed page counts are useful guidelines, but you may write more if it feels important to do so.
+Essays should follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html">MLA citation and style guidelines,</a> with Times New Roman font and 1.5 line spacing. Turn in all papers as PDFs on Canvas. Submit a copy of the poem in the front matter of your paper (see template on Canvas). Separately attach a voice recording of you reading the poem. Your recitation is not going to be evaluated, but it is a useful enough practice to warrant official submission and may be helpful for observing aspects of a poem that are not apparent through silent reading.
 
 
 ## Course Materials
 
-All course materials will be available on Canvas.  
-You are encouraged to purchase one or two books in hard copy.
+All course materials will be available on Canvas.
+
+Since many poems are digitized and access to printing is limited, you are encouraged to bring electronic devices to class for the sake of viewing PDFs or ebooks, and for doing in-class writing activities. It is perfectly acceptable to do everything with pen and paper, but only if you are able to transcribe or print readings.
+
+You are encouraged to purchase one or two books in hard copy, especially from Abebooks, Powell's, or the local Buffalo Street Books. It's easier to flip to a random page of a book and keep it around as a physical invitation to re-read and reference it.
+
+Tablets are very useful for marking up texts and tend to be less distracting than using a PDF viewer on a computer to read from.
 
 ## Grading
 
 The minimum expected grade, B- will be given to those who
 1. Miss no more than three classes*
-2. Participate in all class activities**
-3. Complete all assignments on time***
+2. Participate in all class activities
+3. Complete all assignments on time**
 
-Grades above this depend on the quality of your essay assignments.  
-Essays 1-3 count for 20% each, Essay 4 counts for 40%.  
-See individual rubrics as they are released for exact grading criteria.
+Grades above this depend on quality of essay assignments. Essays 1-4 count for 15% each, Essay 5 counts for 40%. Essay 0 is purely diagnostic and not graded. See individual rubrics for each essay as they are released for exact grading criteria.
 
-Scale: 98-100% (A+), 93-97% (A), 90-92% (A-), 88-89% (Β+), 83-87% (B), …
+Numerical scale: 98-100% (A+), 93-97% (A), 90-92% (A-), 88-89% (Β+), 83-87% (B), …
 
-*Being more than 15 minutes late to class counts as an absence, and being more than 5 minutes late three times counts as an absence.  
-**This includes discussion board posts and presentations.  
-**I cannot give credit for essays turned in more than 48 hours late, with the exception of Essay 4, for which you may request a personalized due date. This is mostly to help you stay on schedule, and to make sure you’re prepared to deal with more stringent deadlines in other future classes and life situations. Essays must also be on topic to receive credit.
+*&nbsp;Being more than 15 minutes late to class counts as an absence. Being more than 5 minutes late three times counts as an absence. Absences beyond three will not negatively affect your grade if they are due to a medical emergency or quarantine mandate.
+
+** Essays must respond to the prompt to receive credit. I cannot give credit for essays turned in more than 48 hours late, with the exception of Essay 5, for which you may request a personalized due date. Adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations.
 
 ## Policy
 
-* Writing submitted for this course may be read and shared among other members of the class.
-* Writing submitted for this course must have been written for this course and not another and must originate with you in form and content with all contributory sources fully and specifically acknowledged. See Cornell’s <a href="https://theuniversityfaculty.cornell.edu/academic-integrity/">Guide to Academic Integrity</a>. In this course, the normal penalty for a violation of the code is an 'F' for the term.
-* This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to the physically handicapped, visually and/or hearing impaired student; plagiarism; sexual harassment; and racial or ethnic discrimination. All students are advised to become familiar with the respective <a href="https://www.dfa.cornell.edu/sites/default/files/vol6_4.pdf">University regulations</a> and are encouraged to bring any questions or concerns to the attention of the instructor.
-* If you have a disability-related need for reasonable academic adjustments in this course, provide the instructor with an accommodation notification letter from Student Disability Services. Students are expected to give two weeks’ notice of the need for accommodations. If you need immediate accommodations or physical access, please arrange to meet with the instructor within the first two class meetings.
-
-
-(Statements adapted from https://knight.as.cornell.edu/fws-syllabus-info-include)
+* Writing submitted for this course may be read and shared among other members of the class with student permission, typically for peer review exercises.
+* Writing submitted for this course must have been written for this course and not another and must originate with you in form and content with all contributory sources fully and specifically acknowledged. See Cornell’s <a href="https://theuniversityfaculty.cornell.edu/academic-integrity/">Guide to Academic Integrity</a>. Penalty for a violation of the code is normally an 'F' for the term.
+* This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to the physically handicapped, visually and/or hearing impaired student; sexual harassment; discrimination based on race, ethnicity, and gender identity. Students are advised to become familiar with the respective <a href="https://www.dfa.cornell.edu/sites/default/files/vol6_4.pdf">University regulations</a> and are encouraged to bring any questions or concerns to the attention of the instructor.
+* If you have a disability-related need for this course, provide the instructor with an accommodation notification letter from Student Disability Services. Students are expected to give two weeks’ notice for requested accommodations. If you need immediate accommodations sooner, please speak to the instructor about your need by the end of the first week.
