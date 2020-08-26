@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>assignment on 1134: Reading Poetry</title>
+    <link>https://1134.netlify.app/categories/assignment/</link>
+    <description>Recent content in assignment on 1134: Reading Poetry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://1134.netlify.app/categories/assignment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assignment 0</title>
+      <link>https://1134.netlify.app/posts/assignment-0/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://1134.netlify.app/posts/assignment-0/</guid>
+      <description>Prompt #  Consider the following passages from Octavio Paz’s essay “Poetry and Poem”:
+ Poetry is knowledge, salvation, power, abandonment. An operation capable of changing the world, poetic activity is revolutionary by nature; a spiritual exercise, it is a means of interior liberation. Poetry reveals this world; it creates another. Bread of the chosen; accursed food. It isolates; it unites. Invitation to the journey; return to the homeland. Inspiration, respiration, muscular exercise.</description>
+    </item>
+    
+  </channel>
+</rss>

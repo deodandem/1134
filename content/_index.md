@@ -4,10 +4,13 @@ type: docs
 ---
 
 # Welcome!
+<div style="text-align:right">
+Didi Chang-Park (he)<br>
+dp625@cornell.edu<br>
+<a href="https://calendly.com/dp625">Office Hours</a>
+</div>
 
 ## COML 1134: Reading Poetry (FWS)                      
-
-**Instructor: Didi Chang-Park (he/him); dp625; <a href="https://calendly.com/dp625">Office Hours</a>**
 
 Poems are puzzles, or are they plants? In this class, we will respond to key questions like "How does this poem work?" or "Why do I like it?" Poems are often thought of as infinite in the possibilities of perception and wonder they produce. We will grapple with the paradox of writing about poetry in a closed, concise form without domesticating it, by investigating how reading poetry can teach us how to write anew. How are lines and stanzas related to sentences and paragraphs? Can ideas "rhyme?" Are notions such as deixis, voice, metaphor, apostrophe, prosody, and the "lyric I" essential to producing a cogent and truthful argument in any discipline?
 

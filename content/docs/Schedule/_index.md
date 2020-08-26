@@ -1,4 +1,5 @@
 ---
+weight: 1
 bookFlatSection: false
 ---
 
@@ -41,9 +42,10 @@ What's the relationship between sonic repetition and sonic variation?<br>
 How does sound relate to the formation of visual images?<br>
 </p>
 
-Discussion board: <p class="descript">
-During class this week, keep a record of moments of discussion that either seemed especially coherent and helpful, or on something that seemed overlooked. On Friday, after class, make a brief note on one such moment. By Monday, respond to two other posts.
-</p>
+{{< details "Discussion Board" close >}}
+Keep a record of moments in this week's discussions that either seemed especially coherent and helpful, or on something that seemed overlooked. By the end of the week (Friday, 22:00) make a brief note on one such moment. By Monday, respond to two other posts.
+{{< /details >}}
+
 
 ### Week 3: Sept 14, 16, 18 — Line
 
@@ -64,17 +66,19 @@ Identify some single lines, couplets, triplets in Whitman and talk about how the
 Pay attention to numerical units
 </p>
 
-Discussion board: Comment on a line
+{{< details "Discussion Board" close >}}
+Share some ideas on what you will write for Essay 1.
+{{< /details >}}
 
 <span class="yellow">Essay 1 "Line" (Due 9/21, 22:00)</span>
 
-### Week 4, Sept 21, 23, 25 — Sonnet
+### Week 4: Sept 21, 23, 25 — Sonnet
 
 Key terms: Sonnet, Meter, Rhyme  
 
 9/21: Post-Petrarchism, Chapter 1
 <p class="descript">
-Don't read everything carefully, but look out for key terms and concepts.
+Look out for key terms and concepts. You are not responsible for reading carefully all the references and quotations of outside sources.
 </p>
 
 9/23: Terrance Hayes, *American Sonnets for my Past and Future Assassin*
@@ -84,10 +88,12 @@ Don't read everything carefully, but look out for key terms and concepts.
 Think about and trace deictics. Figure out what the postures are, and how the sonnets develop over time.
 </p>
 
-Discussion board: Comment on a sonnet
+{{< details "Discussion Board" close >}}
+Comment on a sonnet you have found elsewhere or which we did not talk about much in class. How does it interact with the sonnet tradition?
+{{< /details >}}
 
 
-### Week 5, Sept 28, 30, Oct 2 — Ode
+### Week 5: Sept 28, 30, Oct 2 — Ode
 
 9/28: Marianne Moore, "The Octopus"
 
@@ -96,13 +102,14 @@ Discussion board: Comment on a sonnet
 10/2: Self-Portrait in a Convex Mirror
 
 
-Discussion board: Identify the “Third Voice” in a poem
-
+{{< details "Discussion Board" close >}}
+Identify an instance of the "third voice" in a poem. Make a brief argument for why that moment constitutes the "third" voice and not the first or second.
+{{< /details >}}
 
 <span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/5, 22:00)</span>
 
 
-### Week 6, Oct 5, Oct 7, Oct 9 — Georgic
+### Week 6: Oct 5, Oct 7, Oct 9 — Georgic
 
 
 Oct 5 - Robert Hass, A Little Book on Form  
@@ -112,68 +119,66 @@ Oct 7 - Césaire
 
 Oct 9 - The Xenotext
 
-### Week 7, Oct 12, 16 — Image
+{{< details "Discussion Board" close >}}
+What have you learned from this week's readings? Choose a moment from Césaire or Bök in which you were exposed to new knowledge. Discuss how this piece of knowledge relates to the poem/book's overall program.
+{{< /details >}}
 
-<div style="margin-left:2em">
+### Week 7: Oct 12, 16 — Image
+
 {{< hint info >}}
 No classes on October 14.
 {{< /hint >}}
-</div>
-
-Key terms: Metaphor, Metonymy, Imagism  
-Readings: H.D., Hart Crane, Archibald Macleish,  
-Secondary: Samuel Levin, Roman Jakobson (?)  
-Discussion board: Comment on a word or image
-
-Oct 12 - Tranströmer, Celan, Trakl,
-
-Oct 16 - H.D., Archibald MacLeish, Ezra Pound, ABCs of Reading; Imagist manifesto
-
-
 
 <span class="yellow">Individual Conference I</span>
 
-### Week 8, Oct 19, 21, 23 — Metaphor
+Oct 12 - Barthes, Camera Lucida
+
+Oct 16 - Tranströmer, Celan, Trakl, "metaphor," "metonymy,"
+
+{{< details "Discussion Board" close >}}
+Comment on a favorite "image" you read this week.
+{{< /details >}}
 
 
-Oct 19 - Dickinson,
+### Week 8: Oct 19, 21, 23 — Image
 
-Oct 21 - Hart Crane
+Oct 19 -  H.D., Archibald MacLeish, Ezra Pound, "A Retrospect"
 
-Oct 23 - Barthes, Camera Lucida
+Oct 21 - Levin, Aristotle's Theory of Metaphor
+
+Oct 23 - Dickinson, Crane
 
 <span class="yellow">Essay 3 “Punctum” (Due 10/26, 22:00)</span>
 
 
-### Week 9, Oct 26, 28, 30 — Sequences
+### Week 9: Oct 26, 28, 30 — Sequences
 
-<span class="yellow">Individual Conference I</span>
 
-Oct 26 - Mullen, Sleeping with the Dictionary
+Oct 26 - De Campos, Galáxias
 
-Oct 28 - De Campos, Galáxias
+Oct 28 - Mullen, Sleeping with the Dictionary
 
 Oct 30 - Pessoa, from *A Little Larger than the Universe*
 
-### Week 10, Nov 2, 4, 6 — Sequence
+### Week 10: Nov 2, 4, 6 — Sequence
 
 Discussion board:
 
-Nov 2 -
+Nov 2 - Ben Lerner, *The Lichtenberg Figures*
 
 Nov 4 - Rilke, Duino Elegies
 
 Nov 6 - Rilke, Sonnets to Orpheus
 
-### Week 11, Nov 9, 11, 13 — Sequence
+### Week 11: Nov 9, 11, 13 — Sequence
 
 Nov 9: Jos Charles, *Feeld*
 
 Nov 11: Jos Charles, *Feeld*
 
-Nov 13:
+Nov 13: Celan, *Breathturn into Timestead*
 
-<span class="yellow">Essay 4 "Question" (Due 11/16, 22:00)</span>
+<span class="yellow">Essay 4 "Trade" (Due 11/16, 22:00)</span>
 
 <hr>
 
@@ -181,29 +186,40 @@ Nov 13:
 
 <mark>**Individual Conference II**</mark>  
 (Schedule between 11/16 and 11/29)
-<div style="margin-left:2em">
+
 {{< hint info >}}
 No class from 11/16--11/29. Classes resume online on 11/30.
 {{< /hint >}}
-</div>
+
 
 ### Week 14: Nov 30, Dec 2, 4 — Review
 
 We will revisit a poem, poet, or topic from previous weeks.
 
+Dec 2:
+
+Dec 4:
 
 <span class="yellow">Essay 5 “Final” (Draft) (Due 12/7, 22:00)</span>
 
-### Week 15, Presentations - Dec 7, 9, 11
+### Week 15: Presentations - Dec 7, 9, 11
+
+Dec 7:
+
+Dec 9:
+
+Dec 11:
 
 
 ### Week 16: Presentations - Dec 14, 16
 
-* <span class="yellow">Essay 5 “Final” (Due 12/17, 22:00)</span>
-* Course-Teacher Evaluations due (online)
+Dec 14:
 
-<div style="margin-left:2em">
+Dec 16:
+
+<span class="yellow">Essay 5 “Final” (Due 12/17, 22:00)</span>  
+Course-Teacher Evaluations due (online)
+
 {{< hint info >}}
 Final exam period runs from December 17-20.
 {{< /hint >}}
-</div>

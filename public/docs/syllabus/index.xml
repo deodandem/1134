@@ -6,71 +6,38 @@
     <description>Recent content on 1134: Reading Poetry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 21 Aug 2020 21:24:40 -0400</lastBuildDate>
     
 	<atom:link href="https://1134.netlify.app/docs/syllabus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://1134.netlify.app/docs/syllabus/buttons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Q F A</title>
+      <link>https://1134.netlify.app/docs/syllabus/qfa/</link>
+      <pubDate>Fri, 21 Aug 2020 21:24:40 -0400</pubDate>
       
-      <guid>https://1134.netlify.app/docs/syllabus/buttons/</guid>
-      <description>Buttons #  Buttons are styled links that can lead to local page or external link.
-Example #  {{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}}  Get Home  Contribute  </description>
+      <guid>https://1134.netlify.app/docs/syllabus/qfa/</guid>
+      <description>QFA* #  *Questions to Frequently Ask
+(1) What&amp;rsquo;s the purpose of this class? #  The broad mandate of learning to write better is addressed by every FWS, but poetry is a particularly keen source of knowledge for writers and thinkers in any domain. The artifice and extremity of poetic language gives rise to various insights about how language works and what its capacities are more generally.
+Our focus on &amp;ldquo;lyric poetry&amp;rdquo; means that you will be encouraged to read poems closely and repeatedly.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://1134.netlify.app/docs/syllabus/columns/</link>
+      <link>https://1134.netlify.app/docs/syllabus/essay-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://1134.netlify.app/docs/syllabus/columns/</guid>
-      <description>Columns #  Columns help organize shorter pieces of content horizontally for readability.
-{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic sparator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic sparator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example #  Left Content Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+      <guid>https://1134.netlify.app/docs/syllabus/essay-guide/</guid>
+      <description>Essay #  There are various genres and styles of academic writing </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://1134.netlify.app/docs/syllabus/details/</link>
+      <link>https://1134.netlify.app/docs/syllabus/readings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://1134.netlify.app/docs/syllabus/details/</guid>
-      <description>Details #  Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
-Example #  {{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} Title Markdown content Lorem markdownum insigne&amp;hellip;   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://1134.netlify.app/docs/syllabus/expand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://1134.netlify.app/docs/syllabus/expand/</guid>
-      <description>Expand #  Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
-Example #  Default #  {{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}}   Expand ↕  Markdown content Lorem markdownum insigne&amp;hellip;    With Custom Label #  {{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://1134.netlify.app/docs/syllabus/hints/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://1134.netlify.app/docs/syllabus/hints/</guid>
-      <description>Hints #  Hint shortcode can be used as hint/alerts/notification block.
-There are 3 colors to choose: info, warning and danger.
-{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example #  Markdown content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa  Markdown content</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://1134.netlify.app/docs/syllabus/tabs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://1134.netlify.app/docs/syllabus/tabs/</guid>
-      <description>Tabs #  Tabs let you organize content by context, for example installation instructions for each supported platform.
-{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example #  MacOS MacOS This is tab MacOS content.
-Lorem markdownum insigne. Olympo signis Delphis!</description>
+      <guid>https://1134.netlify.app/docs/syllabus/readings/</guid>
+      <description>Readings #  Longer list of recommended readings not covered in class. Week 2 Monday Christian Bök, Eunoia  Wednesday Christian Bök, Eunoia  Friday Christian Bök, Eunoia     </description>
     </item>
     
   </channel>
