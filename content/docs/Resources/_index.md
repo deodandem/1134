@@ -23,10 +23,13 @@ Theory:
 * Post-Petrarchism
 * Structuralist Poetics
 * Practical Criticism
+* Poetry and Mind: Tractatus Poetico-Philosophicus
 
 Essays:
-* Roman Jakobson
-* "What is This Thing Called Lyric?"
+*
+* The Hatred of Poetry, Ben Lerner
+* "What is This Thing Called Lyric?," Stephanie Burt
+* "Wager as Essay," Joan Retallack
 
 
 Miscellaneous:

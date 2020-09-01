@@ -88,7 +88,7 @@
   blockquote {
     margin-left: 2em;
     rt: 5px solid #cf060c;
-    padding: 8px;
+    padding: 1px;
     border-radius: $border-radius;
 
     :first-child {
@@ -126,7 +126,7 @@
 
   ul,
   ol {
-    padding-inline-start: $padding-16 * 2;
+    padding-inline-start: $padding-16;
   }
 
   dl {
@@ -154,24 +154,39 @@
   }
 
   details {
-    padding: $padding-16;
-    border: $padding-1 solid $gray-200;
+    padding: 15px;
+    padding-left:1em;
     border-radius: $border-radius;
     margin-left: 2em;
-    margin-right:2em;
+    margin-right:2.5em;
+    padding-right: 30px;
     font-size:95%;
+    line-height: 1.25em;
+    background-color: #eee;
+
+    p {
+      font-family: 'Times';
+      margin-bottom: .5em;
+    }
+
+    ol, ul {
+      margin-top: 0em;
+      font-family: 'Times';
+    }
 
     summary {
       line-height: 1;
-      padding: $padding-16;
-      margin: -$padding-16;
+      padding: 5px;
       cursor: pointer;
+      font-family: 'Charter';
     }
 
     &[open] summary {
-      margin-bottom: 0;
+      margin-bottom: 1em;
+      animation: open 1s ease-in-out;
     }
   }
+
 
   figure {
     margin: $padding-16 0;

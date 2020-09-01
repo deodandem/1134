@@ -2,10 +2,36 @@
 
 // @import "plugins/numbered";
 
+.tooltip {
+    text-decoration:none;
+    position:relative;
+    cursor: crosshair;
+    word-wrap: break-word;
+}
 
+.tooltip span {
+    display:none;
+}
+
+.tooltip:hover span {
+    display:block;
+    position:fixed;
+    overflow:hidden;
+    background:rgb(0, 0, 0);
+    max-width: 350px;
+    padding: 10px;
+    font-size: 90%;
+    line-height: 1.5em;
+    border-radius: 5px;
+    color: rgb(200,200,200);
+    border-color: rgb(200,200,200);
+    border-style:solid;
+    border-width:1px;
+    z-index: 2;
+}
 
 ul, ol {
-    margin-left: 2em;
+    margin-left: 1em;
 }
 
 p {
