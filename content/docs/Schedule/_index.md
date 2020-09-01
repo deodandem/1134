@@ -113,11 +113,11 @@ Identify an instance of the "third voice" in a poem. Make a brief argument for w
 
 ### Week 6: Oct 5, Oct 7, Oct 9 – Ode
 
-Oct 5 - Marianne Moore, *The Octopus*
+Oct 5 - Marianne Moore, *An Octopus*
 
 Oct 7 - Pablo Neruda, Odes
 
-Oct 9 - Donne's Holy Sonnets
+Oct 9 - Derek Walcott, "A Tropical Bestiary"
 
 <span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/12, 22:00)</span>
 
