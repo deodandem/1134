@@ -24,7 +24,7 @@ This course is focused on developing skills for attentive reading. We will carry
 We will discuss the definition of “lyric poetry,” and its relationship to various “ritual” and “fictional” elements. Being able to define and identify poetic elements accurately and precisely will allow you to more fully appreciate how individual poems innovate or diverge from pre-established traditions.
 
 ### Writing
-Writing is revising, but the best revisions arise from collaborative efforts. You will learn to approach writing as a kind of dialogue with yourself, poems, poets, peers, scholars, and the world. The essay sequence is meant to guide you toward writing a final paper that is much more meaningful and surprising than anything you could have accomplished in isolation.
+Writing is revising, and the best revisions arise from collaborative efforts. You will learn to approach writing as a kind of dialogue with yourself, poems, poets, peers, scholars, and the world. The essay sequence is meant to guide you toward writing a final paper that is much more meaningful and surprising than anything you could have accomplished in isolation.
 </div>
 
 ## Requirements
