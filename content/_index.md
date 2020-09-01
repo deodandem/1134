@@ -17,13 +17,13 @@ Poems are puzzles, or are they plants? In this class, we will respond to key que
 ## Learning Outcomes
 <div style="margin-left:2em">
 
-### Attentive Reading
+### Method
 This course is focused on developing skills for attentive reading. We will carry out exercises that make reading an enjoyable and dynamic process that can be used to discover the structures, patterns, meaning, and linguistic innovation in poems. Such an observational acumen is crucial to success in other fields.
 
-### Norms and Exceptions
+### Theory
 We will discuss the definition of “lyric poetry,” and its relationship to various “ritual” and “fictional” elements. Being able to define and identify poetic elements accurately and precisely will allow you to more fully appreciate how individual poems innovate or diverge from pre-established traditions.
 
-### Writing as Dialogue
+### Writing
 Writing is revising, but the best revisions arise from collaborative efforts. You will learn to approach writing as a kind of dialogue with yourself, poems, poets, peers, scholars, and the world. The essay sequence is meant to guide you toward writing a final paper that is much more meaningful and surprising than anything you could have accomplished in isolation.
 </div>
 
@@ -39,9 +39,9 @@ There will be five essays, four will be given a letter grade.
 
 * Essay 0 — "Diagnostic" — 1-2 pages (September 7)
 * Essay 1 — "Line" — 3-4 pages (September 21)
-* Essay 2 — "Ritual vs. Fiction" - 3-4 pages (October 5)
+* Essay 2 — "Ritual vs. Fiction" - 3-4 pages (October 12)
 * Essay 3 — "Punctum" 3-4 pages (October 26)
-* Essay 4 — "Final" 8-12 pages (December 15)
+* Essay 4 — "Final" 6-10 pages (December 17)
 
 The final version of each assignment prompt will be available at least one week in advance of the due date. Listed page counts are useful guidelines, but you may write more if it feels important to do so.
 Essays should follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html">MLA citation and style guidelines,</a> with Times New Roman font and 1.5 line spacing. Turn in all papers as PDFs on Canvas. Submit a copy of the poem in the front matter of your paper (see template on Canvas). Separately attach a voice recording of you reading the poem. Your recitation is not going to be evaluated, but may be helpful for observing aspects of a poem that are not apparent through silent reading.
@@ -74,7 +74,7 @@ Numerical scale: 98-100% (A+), 93-97% (A), 90-92% (A-), 88-89% (Β+), 83-87% (B)
 
 ## Zoom
 
-When classes move online, reference the Canvas "Zoom" tab for access. Do not share the Zoom meeting information with outside parties. Keep your camera on, as it improves the quality of conversation. Mute your microphone when not speaking.
+If you need to access class online, reference the Canvas "Zoom" tab for access. Do not share the Zoom meeting information with outside parties. Keep your camera on, as it improves the quality of conversation. Mute your microphone when not speaking.
 
 ## Policy
 
