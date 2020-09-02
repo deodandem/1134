@@ -5,7 +5,7 @@ bookFlatSection: false
 
 # Resources
 
-* Oxford English Dictionary
+* [Oxford English Dictionary](http://encompass.library.cornell.edu.proxy.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%&url=https://www.oed.com/)
 * https://www.library.cornell.edu/research/citation
 * https://www.library.cornell.edu/services/apps/passkey
 
