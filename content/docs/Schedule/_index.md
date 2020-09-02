@@ -11,10 +11,18 @@ bookFlatSection: false
 <p class="descript">
 What's your relationship to reading? What does it feel like to read different kinds of texts: news articles, long-form journalism, poetry, fiction, code, mathematical proofs, tweets, emails?</p>
 
-9/4: Selections from 9/2, "Recitation" (PE[^1], 1149), "Repetition" (<span class="tooltip"> PE<span class="tooltip-reveal">Princeton</span></span>, 1324)
+9/4: Selections from 9/2
 <p class="descript">
-Based on a class vote, we will focus on two of the poem excerpts from the first day's slides.
+Make the introduction post to the Discussion Board.<br>
+We will continue with poems on the slides from Day 1.<br>  
+Come to class with questions about the syllabus or schedule.
 
+{{< details "Discussion Board" close >}}
+1. Name (what you would like to be called), pronouns, where you're from, something you like or are interested in that's not poetry.
+2. Did you have trouble hearing the instructor or classmates?
+3. Ask any questions you may have about the course syllabus/schedule. I will respond next class. </p>
+
+{{< /details >}}
 
 <span class="yellow">Essay 0 - "First Day" (Due 9/7, 22:00)</span>
 
