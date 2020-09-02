@@ -37,11 +37,11 @@ Writing is revising, and the best revisions arise from collaborative efforts. Yo
 
 There will be five essays, four will be given a letter grade.
 
-* Essay 0 — "First Day" — 1-2 pages (September 7)
-* Essay 1 — "Line" — 3-4 pages (September 21)
+* Essay 0 — "First Day" - 1-2 pages (September 7)
+* Essay 1 — "Line" - 3-4 pages (September 21)
 * Essay 2 — "Ritual vs. Fiction" - 3-4 pages (October 12)
-* Essay 3 — "Punctum" 3-4 pages (October 26)
-* Essay 4 — "Final" 6-10 pages (December 17)
+* Essay 3 — "Punctum" - 3-4 pages (October 26)
+* Essay 4 — "Final" - 6-10 pages (December 17)
 
 The final version of each assignment prompt will be available at least one week in advance of the due date. Listed page counts are useful guidelines, but you may write more if it feels important to do so.
 Essays should follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html">MLA citation and style guidelines,</a> with Times New Roman font and 1.5 line spacing. Turn in all papers as PDFs on Canvas. Submit a copy of the poem in the front matter of your paper (see template on Canvas). Separately attach a voice recording of you reading the poem. Your recitation is not going to be evaluated, but may be helpful for observing aspects of a poem that are not apparent through silent reading.
