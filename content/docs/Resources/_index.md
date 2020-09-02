@@ -10,12 +10,13 @@ bookFlatSection: false
 * Pennsound  
 * Oxford English Dictionary
 * https://www.library.cornell.edu/research/citation
+* https://www.library.cornell.edu/services/apps/passkey
 
 <div style="margin-left:0; margin-bottom:-.5em;">Poetry books</div>
 
 * Norton Anthology of Poetry
 * The Making of a Sonnet, ed. Boland and Hirsch, 2008
-
+* arquivopessoa.net
 
 
 <div style="margin-left:0; margin-bottom:-.5em;">Theory</div>
@@ -30,12 +31,13 @@ bookFlatSection: false
 * Practical Criticism
 * Poetry and Mind: Tractatus Poetico-Philosophicus
 * Forms of Poetic Attention
+* [Linguistics and Poetics](https://monoskop.org/images/8/84/Jakobson_Roman_1960_Closing_statement_Linguistics_and_Poetics.pdf)
 
 <div style="margin-left:0; margin-bottom:-.5em;">Other non-fiction</div>
 
 * The Hatred of Poetry, Ben Lerner
 * "Wager as Essay," Joan Retallack
-
+* [The Most Dangerous Writing App](https://www.squibler.io/dangerous-writing-prompt-app)
 
 <div style="margin-left:0; margin-bottom:-.5em;">Miscellaneous</div>
 <div style="margin-left:2em">

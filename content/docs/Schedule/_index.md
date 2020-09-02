@@ -92,6 +92,8 @@ Comment on a sonnet you have found elsewhere or which we did not talk about much
 
 ### Week 5: Sept 28, 30, Oct 2 – Sonnet
 
+<span class="yellow">Individual Conference I</span>
+
 9/28: Shakespeare, Sonnets 1-13
 <p class="descript">
 Why is the speaker urging a man to procreate?
@@ -117,13 +119,11 @@ Oct 5 - Marianne Moore, "An Octopus"
 
 Oct 7 - Pablo Neruda, Odes
 
-Oct 9 - Derek Walcott, "A Tropical Bestiary"
+Oct 9 - Derek Walcott, "A Tropical Bestiary"; Hart Crane, "O Carib Isle!"
 
 <span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/12, 22:00)</span>
 
 ### Week 7: Oct 12, 16 – Georgic
-
-<span class="yellow">Individual Conference I</span>
 
 Oct 12 - *A Little Book on Form,* "Georgic," Virgil, *Georgics,* Book 1
 
@@ -153,7 +153,7 @@ Oct 23 - Aimé Césaire, *Ferraments*
 ### Week 9: Oct 26, 28, 30 – Sequence
 
 
-Oct 26 - Self-Portrait in a Convex Mirror
+Oct 26 - Ashbery, "Self-Portrait in a Convex Mirror"
 
 
 Oct 28 - Rilke, Duino Elegies
