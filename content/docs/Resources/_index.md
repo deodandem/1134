@@ -18,6 +18,15 @@ bookFlatSection: false
 * Norton Anthology of Poetry
 * The Making of a Sonnet, ed. Boland and Hirsch, 2008
 
+Procedural poetry
+
+* Uncreative Writing (Kenneth Goldsmith)
+* Duchamp is My Lawyer (Kenneth Goldsmith, 2020)
+* http://chesspoetry.com
+
+Documentary poetry
+* The Manhattan Project (Ken Hunt)
+* The Connection of Everyone With Lungs (Juliana Spahr)
 
 <div style="margin-left:0; margin-bottom:-.5em;">Theory</div>
 

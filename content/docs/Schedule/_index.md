@@ -29,12 +29,12 @@ Come to class with questions about the syllabus or schedule.
 
 ### Week 2: Sept 7, 9, 11 – Sound
 
-9/7: Gertrude Stein, "Susie Asado," *Tender Buttons*, "Repetition" (PE, 1324)
+9/7: Gertrude Stein, "Susie Asado" (p. 125) *Tender Buttons* ("Roastbeef," p. 143 ), "Repetition" (PE, 1168)
 <p class="descript">
 What's the role of repetition in Stein's poetry? Does the meaning of each word "matter"?
 </p>
 
-9/9: Harryette Mullen, *Sleeping with the Dictionary*
+9/9: Stein continued, Harryette Mullen, *Sleeping with the Dictionary*
 <p class="descript">
 
 </p>
