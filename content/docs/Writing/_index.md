@@ -7,6 +7,13 @@ bookFlatSection: false
 
 <p style="margin-left:0; margin-top:2em;">
 The essay sequence is designed to lead you to a final paper.<br>
-If you have ideas for the final paper you'd like to share, email me.<br>
-I may share some tips for writing here in the future.
+You may use a combination of prompts 0-3 to design the fourth.<br>
+Here are some questions that may help you locate your interests:
+
+* What expectations do I have about a poem?
+* Do I prefer the poetic or hermeneutic approach?
+* Are there other media or practices I'd like to involve in my study of poetry: painting, photography, song, science, sports, ...?
+* Do I gravitate towards certain schools: romantic, modernist, avant-garde, conceptual, metaphysical, ...?
+* [...]
+
 </p>

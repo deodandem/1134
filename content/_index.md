@@ -60,9 +60,11 @@ Tablets are highly recommended for marking up texts and tend to be more conduciv
 ## Grading
 
 The minimum expected grade, B- will be given to those who
-1. Miss no more than three classes*
-2. Participate in all class activities
+<ol style="margin-left:2em">
+1. Miss no more than three classes*<br>
+2. Participate in all class activities<br>
 3. Complete all assignments on time**
+</ol>
 
 Grades above this depend on quality of essay assignments. Essays 1-3 count for 20% each, Essay 5 counts for 40%. Essay 0 is purely diagnostic and not graded. See individual rubrics for each essay as they are released for exact grading criteria.
 
@@ -70,7 +72,7 @@ Numerical scale: 98-100% (A+), 93-97% (A), 90-92% (A-), 88-89% (Β+), 83-87% (B)
 
 *&nbsp;Being more than 15 minutes late to class counts as an absence. Being more than 5 minutes late three times counts as an absence. Absences beyond three will not negatively affect your grade if they are due to a medical emergency or quarantine mandate.
 
-** Essays must respond to the prompt to receive credit. I cannot give credit for essays turned in more than 48 hours late, with the exception of Essay 5, for which you may request a personalized due date. Adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations.
+** Essays must respond to the prompt to receive credit. I cannot give credit for essays turned in more than 36 hours late, with the exception of Essay 5, for which you may request a personalized due date. If you are experiencing significant mental health issues and need more lenient deadlines, contact me and we'll work something out. Otherwise, adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations.
 
 ## Zoom
 

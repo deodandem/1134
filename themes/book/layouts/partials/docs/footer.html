@@ -3,6 +3,7 @@
   {{ partial "docs/languages" . }}
 {{ end }}
 
+
 {{ if and .GitInfo .Site.Params.BookRepo }}
   <div>
     {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
@@ -21,4 +22,11 @@
     </a>
   </div>
 {{ end }}
+</div>
+
+<div style="text-align:center; margin-top:3em; margin-bottom:2em; font-family: 'Times'; color:rgb(150,150,150)">
+Last update: {{ now.Format "1/02/2006 at 15:04"}}<br>
+
+Powered by <a href="https://gohugo.io">Hugo</a>
+<a href="https://github.com/alex-shpak/hugo-book">Book</a>
 </div>

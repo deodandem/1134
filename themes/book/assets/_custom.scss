@@ -2,6 +2,12 @@
 
 // @import "plugins/numbered";
 
+
+q.descript {
+  quotes: "“" "”" "‘" "’";
+}
+
+
 .tooltip {
     text-decoration:none;
     position:relative;
@@ -39,11 +45,22 @@ p {
 }
 
 p.descript {
-  font-family:Times;
+  font-family: 'Times', serif;
   line-height:1.25em;
   margin-left:2.5em;
   font-size: 90%
 }
+
+ul.descript {
+  list-style-type: square;
+  font-family:Times;
+  line-height:1.25em;
+  margin-left:3em;
+  padding-right: 1em;
+  font-size: 90%;
+  margin-bottom:-.5em;
+}
+
 blockquote {
   font-family: Helvetica;
   font-size: 90%;

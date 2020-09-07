@@ -27,26 +27,42 @@ Come to class with questions about the syllabus or schedule.
 <span class="yellow">Essay 0 - "First Day" (Due 9/7, 22:00)</span>
 
 
-### Week 2: Sept 7, 9, 11 – Sound
+### Week 2: Sept 7, 9, 11 – Objects
 
-9/7: Gertrude Stein, "Susie Asado" (p. 125) *Tender Buttons* ("Roastbeef," p. 143 ), "Repetition" (PE, 1168)
+9/7: Gertrude Stein, "Susie Asado" (p. 125) *Tender Buttons* ("Roastbeef," p. 143 ), "Repetition" (PE[^*], 1168)
 <p class="descript">
-What's the role of repetition in Stein's poetry? Does the meaning of each word "matter"?
+What's the role of <u>repetition</u> in Stein's poetry?<br>
+Does the <u>meaning</u> of each word "matter"?<br>
+<i>Poetics</i> vs. <i>hermeneutics</i><br>
+Poetry + {song, painting, science, politics}
 </p>
 
-9/9: Stein continued, Harryette Mullen, *Sleeping with the Dictionary*
+9/9: Gertrude Stein (cont.), Harryette Mullen ([Recyclopedia](https://newcatalog.library.cornell.edu/catalog/5966641))
+<p class="descript">
+Mullen's <i>S*PeRM**K*T</i> directly corresponds to the &ldquo;Food&rdquo; section of <i>Tender Buttons.</i> How does it differentiate itself from the source text?
+</p>
+
+9/11: Francis Ponge, "The Carnation" ("L'œillet"), excerpts from *Unfinished Ode to Mud,* Andrew Epstein,["The Rhapsody of Things as They Are"](http://www.jstor.com/stable/44885307)
+
+<p class="descript">
+Let's try to identify specific rhetorical patterns, techniques, and tropes in Ponge&rsquo;s writing which we might employ in our own.
+</p>
 <p class="descript">
 
 </p>
 
-9/11: Francis Ponge, "The Carnation" ("L'œillet"),  
-Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true),* "Introduction"
-<p class="descript">
+{{< details "Discussion Board" open >}}
+<p class = "descript">
+Write a description of an everyday object or phenomenon that you've had direct experience with recently, using Gertrude Stein, Harryette Mullen, or Francis Ponge as a model. In order to do this effectively, identify one specific technique your poet uses and be sure to employ it in your piece. Use a "template text" to roughly define its length.</p>
 
+<ul class="descript">
+  <li> Ponge: You may want to develop small lexicons for words you associate with the object in question, use verbless noun phrases, re-invent words...
+  <li> Mullen: Consider her use of colloquial idioms, especially those coming from advertising, vernacular English, ...
+  <li> Stein: Consider the use of repetition, homonyms, ungrammatical constructions, ...
+</ul>
+<p class = "descript">
+  Post by Sunday at 22:00. On Monday, we will look at some of the responses and try to figure out which aspect of the poet's style you are working with, and how your piece distinguishes itself from its original source of inspiration.
 </p>
-
-{{< details "Discussion Board" close >}}
-<p> What kinds of "poetic attention" do the three poets of the week invoke or encourage? Make a post by 22:00 on Saturday, respond to a post by 22:00 on Sunday.</p>
 
 {{< /details >}}
 
@@ -55,7 +71,7 @@ Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.co
 
 9/14: Robert Hass: Preface, Chapter 1, 2, from *A Little Book on Form*
 <p class="descript">
-Keep a list of favorite lines mentioned in these chapters, in previous readings, or in poems you have independently found. Try to figure out why you like a given line. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?
+Keep a list of favorite lines mentioned in these chapters, in previous readings, or in poems you have independently found. Hass gives many poem recommendations, and you may find it helpful to look up some of the ones he only quotes excerpts from. Try to figure out why you like a given line of poetry. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?
 </p>
 
 9/16: Whitman, "Song of Myself"; Hass: Ch 3
@@ -71,119 +87,156 @@ Pay attention to numerical units in this poem. How might the lines be grouped? H
 </p>
 
 {{< details "Discussion Board" close >}}
-Share some ideas on what you will write for Essay 1.
+<p class="descript">
+Share the poem you will be writing about for Essay 1. First write about what you notice (this does not have to be about the lineation of the poem). Then share a quote from the Hass reading you'd like to reference in the essay. You do not have to make an argument about how that quote on lineation relates to what you noticed (that's for you to elaborate in the essay). Post by Sunday at 22:00; read what your classmates have written over the course of the following week. </p>
 {{< /details >}}
 
-<span class="yellow">Essay 1 "Line" (Due 9/21, 22:00)</span>
+<span class="yellow">Essay 1 "Line" (Due 9/23, 22:00)</span>
+<p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on September 28.</p>
 
 ### Week 4: Sept 21, 23, 25 – Sonnet
 
-9/21: *Theory of the Lyric*, Chapter 1
+9/21: Selected sonnets, *Post-Petrarchism,* Chapter 1
 <p class="descript">
-You will be assigned to briefly present on one of the nine poems presented in the chapter and Culler's interpretation of that poem. Also bring in another poem discussed in previous weeks; we will spend some time in class writing about how it involves the "four parameters."
+We will take an &ldquo;inductive&rdquo; approach by reading a wide range of sonnets today by Rilke, Donne, Petrarch, Toomer, Hopkins, Sor Juana, Shakespeare, etc. Ask yourself: What do sonnets do? What makes this form so robust?
 </p>
 
-9/23: Terrance Hayes, *American Sonnets for my Past and Future Assassin*
+9/23: Selected sonnets (cont.)
 <p class="descript">
-We will continue to apply the four parameters to poems in this book (again, choose one to focus on).
+Preparation: TBA; will probably pay closer attention to rhyme, meter
 </p>
 
-9/25: Gerard Manley Hopkins, "Pied Beauty," "The Windhover," "That Nature is a Heraclitean Fire and of the comfort of Resurrection"
+
+9/25: Terrance Hayes, *American Sonnets for my Past and Future Assassin*
+
 <p class="descript">
-Why are the first and last considered sonnets when they are not 14 lines in length?
+Preparation: TBA
 </p>
 
 {{< details "Discussion Board" close >}}
-Comment on a sonnet you have found elsewhere or which we did not talk about much in class. How does it interact with the sonnet tradition?
+Comment on a sonnet covered in class or one you have found elsewhere—How does it interact with the sonnet tradition?
 {{< /details >}}
 
 
-### Week 5: Sept 28, 30, Oct 2 – Sonnet
+### Week 5: Sept 28, 30, Oct 2 – Ode
 
 <span class="yellow">Individual Conference I</span>
 
-9/28: Shakespeare, Sonnets 1-13
+9/28: *Theory of the Lyric*, Chapter 1
 <p class="descript">
-Why is the speaker urging a man to procreate?
+You will be assigned to briefly present on one of the nine poems presented in the chapter and Culler&rsquo;s interpretation of that poem. Also bring in another poem discussed in previous weeks; we will spend some time in class writing about how it involves the <q>four parameters.</q>
 </p>
 
-9/30: Ben Lerner, *The Lichtenberg Figures*
+9/30: Marianne Moore, "An Octopus"
+
 <p class="descript">
-What are the registers of this speech? Who is "I"?
+We will try to apply Culler&rsquo;s four parameters to this poem.
 </p>
 
-10/2: T.S. Eliot, "The Three Voices of Poetry" (LTR[^2], 192)
+10/2: T.S. Eliot, "The Three Voices of Poetry" (LTR[^**], 192)
 <p class="descript">
-Think about how you might apply this to any poem we have read thus far.
+Can we identify instances of the &ldquo;third voice&rdquo; in &ldquo;The Octopus&rdquo; or other texts?
 </p>
 
 {{< details "Discussion Board" close >}}
+<p class="descript">
 Identify an instance of the "third voice" in a poem. Make a brief argument for why that moment constitutes the "third" voice and not the first or second.
+</p>
 {{< /details >}}
 
-### Week 6: Oct 5, Oct 7, Oct 9 – Ode
+### Week 6: Oct 5, Oct 7, Oct 9 – Address
 
-Oct 5 - Marianne Moore, "An Octopus"
+<p class="descript">
+This week involves a mixture of forms, including sonnets and longer poems that involve interesting modes of address.
+</p>
 
-Oct 7 - Pablo Neruda, Odes
+Oct 5 - John Ashbery, "Self-Portrait in a Convex Mirror"
 
-Oct 9 - Derek Walcott, "A Tropical Bestiary"; Hart Crane, "O Carib Isle!"
+Oct 7 - Ben Lerner, *The Lichtenberg Figures,* "The Media"
+<p class="descript">
+What are the registers of this speech? Who is <q>I</q>?
+</p>
 
-<span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/12, 22:00)</span>
+Oct 9 - Shakespeare, Sonnets 1-13
+<p class="descript">
+How does the mode of address relate to each poem's syntax?
+</p>
+
+<span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/14, 22:00)</span>
+<p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 21.</p>
 
 ### Week 7: Oct 12, 16 – Georgic
 
-Oct 12 - *A Little Book on Form,* "Georgic," Virgil, *Georgics,* Book 1
+<p class="descript">
+This week involves poems of <q>instruction</q> or <q>information,</q> as well as longer descriptive poems.
+</p>
+
+Oct 12 - Virgil, "Book 1," *Georgics,* "Georgic," (*A Little Book on Form*)
 
 {{< hint info >}}
 No classes on October 14.
 {{< /hint >}}
 
-Oct 16 -  Christian Bök, *The Xenotext, Book 1*
+Oct 16 -  Aimé Césaire, "Notebook of a Return to the Native Land"
+
+<p class="descript">
+You may also be interested in Christian Bök&rsquo;s <i>The Xenotext, Book 1</i>.</p>
 
 {{< details "Discussion Board" close >}}
-What knowledge have you gained from this week's readings? Choose a moment from Césaire or Bök in which you were exposed to new knowledge. Discuss how this piece of knowledge relates to the poem/book's overall program.
+<p class="descript">
+What knowledge have you gained from this week&rsquo;s readings? Choose a moment from Césaire or Bök in which you were exposed to new knowledge. Discuss how this piece of knowledge relates to the poem/book's overall program.
+</p>
 {{< /details >}}
 
+{{< hint danger >}}
+Readings are tentative from here on out. Check for updates.
+{{< /hint >}}
 
-### Week 8: Oct 19, 21, 23 – Image
+### Week 8: Oct 19, 21, 23 – Georgic, cont.
 
-Oct 19 -  Barthes, *Camera Lucida*
+Oct 19 -  William Carlos Williams, *Paterson*
+<p class="descript">
+Preparation: TBA
+</p>
 
-Oct 21 - Ezra Pound, "A Retrospect," H.D., Archibald MacLeish
+Oct 21 - Barthes, *Camera Lucida* (First part)
+<p class="descript">
+We will practice identifying <i>puncta</i> in class and discuss the validity of identifying poetry with photography.
+</p>
+
+Oct 23 -
+
+<span class="yellow">Essay 3 “Punctum” (Due 10/30, 22:00)</span>
 
 
-Oct 23 - Aimé Césaire, *Ferraments*
+### Week 9: Oct 26, 28, 30 – Attention
 
-<span class="yellow">Essay 3 “Punctum” (Due 10/26, 22:00)</span>
+<p class="descript">
+This week is focused on a recent theoretical development, but we will incorporate miscellaneous poems into the slides.
+</p>
 
+Oct 26 - Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true),* "Introduction"
 
-### Week 9: Oct 26, 28, 30 – Sequence
-
-
-Oct 26 - Ashbery, "Self-Portrait in a Convex Mirror"
-
-
-Oct 28 - Rilke, Duino Elegies
+Oct 28 - Ezra Pound, "A Retrospect," *ABCs of Reading*, H.D., Archibald MacLeish
 
 Oct 30 - Rilke, Sonnets to Orpheus
 
-### Week 10: Nov 2, 4, 6 — Sequence
+### Week 10: Nov 2, 4, 6 — Value
 
 
-Nov 2 - Robert Hass, *Praise*
+Nov 2 - Rilke, Duino Elegies
 
-Nov 4 - Jos Charles, *Feeld*
+Nov 4 - Dickinson, selected poems
 
-Nov 6 - Jos Charles, *Feeld*
+Nov 6 - Robert Hass, *Praise* (and/or *Field Guide*)
 
-### Week 11: Nov 9, 11, 13 — Sequence
+### Week 11: Nov 9, 11, 13 — The Lyric "I"
 
-Nov 9: Celan, *Breathturn into Timestead*
+Nov 9: Celan, *Breathturn into Timestead*, Allen Grossman, *Summa Lyrica* (LTR, 418)
 
-Nov 11: Vallejo, *Trilce*
+Nov 11: Jos Charles, *Feeld*
 
-Nov 13: Vallejo, *Poemas Humanos*
+Nov 13: Vallejo, *Trilce*
 
 <span class="yellow">Essay 4 "Final" (Draft) (Due 11/16, 22:00)</span>
 
@@ -218,9 +271,11 @@ These are simply suggestions. Your presentation may be a blend of these options 
 
 {{< /details >}}
 
-Dec 2: One, Two, Three
+Nov 30: One, Two
 
-Dec 4: Four, Five, Six
+Dec 2: Three, Four
+
+Dec 4: Five, Six
 
 ### Week 15: Dec 7, 9, 11 — Presentations
 
@@ -244,9 +299,9 @@ Course-Teacher Evaluations due (online)
 Final exam period runs from December 17-20.
 {{< /hint >}}
 
-[^1]: Princeton Encyclopedia of Poetry and Poetics
+[^*]: Princeton Encyclopedia of Poetry and Poetics
 
-[^2]: The Lyric Theory Reader
+[^**]: The Lyric Theory Reader
 
 <script>
   var tooltipSpan = document.getElementsByClassName("tooltip-reveal");

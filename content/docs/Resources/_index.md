@@ -18,15 +18,19 @@ bookFlatSection: false
 * Norton Anthology of Poetry
 * The Making of a Sonnet, ed. Boland and Hirsch, 2008
 
-Procedural poetry
+<div style="margin-left:0; margin-bottom:-.5em;">Procedural poetry</div>
 
 * Uncreative Writing (Kenneth Goldsmith)
 * Duchamp is My Lawyer (Kenneth Goldsmith, 2020)
 * http://chesspoetry.com
+* [Cent mille millards de poèmes](http://www.bevrowe.info/Queneau/QueneauRandom_v4.html)
+* ...
 
-Documentary poetry
+<div style="margin-left:0; margin-bottom:-.5em;">Documentary poetry</div>
+
 * The Manhattan Project (Ken Hunt)
 * The Connection of Everyone With Lungs (Juliana Spahr)
+*  ...
 
 <div style="margin-left:0; margin-bottom:-.5em;">Theory</div>
 
@@ -49,8 +53,6 @@ Documentary poetry
 * https://meanjin.com.au/essays/capitalism-and-the-uselessness-of-the-poem/
 
 <div style="margin-left:0; margin-bottom:-.5em;">Miscellaneous</div>
-<div style="margin-left:2em">
-
 
 * [The Most Dangerous Writing App](https://www.squibler.io/dangerous-writing-prompt-app)
 <hr>
