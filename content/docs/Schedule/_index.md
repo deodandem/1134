@@ -29,7 +29,7 @@ Come to class with questions about the syllabus or schedule.
 
 ### Week 2: Sept 7, 9, 11 – Objects
 
-9/7: Gertrude Stein, "Susie Asado" (p. 125) *Tender Buttons* ("Roastbeef," p. 143 ), "Repetition" (PE[^*], 1168)
+9/7: Gertrude Stein, "Susie Asado" (p. 125), "Repetition" (PE[^*], 1168)
 <p class="descript">
 What's the role of <u>repetition</u> in Stein's poetry?<br>
 Does the <u>meaning</u> of each word "matter"?<br>
@@ -37,9 +37,9 @@ Does the <u>meaning</u> of each word "matter"?<br>
 Poetry + {song, painting, science, politics}
 </p>
 
-9/9: Gertrude Stein (cont.), Harryette Mullen ([Recyclopedia](https://newcatalog.library.cornell.edu/catalog/5966641))
+9/9: Gertrude Stein, *Tender Buttons*, Harryette Mullen, [*Recyclopedia*](https://newcatalog.library.cornell.edu/catalog/5966641)
 <p class="descript">
-Mullen's <i>S*PeRM**K*T</i> directly corresponds to the &ldquo;Food&rdquo; section of <i>Tender Buttons.</i> How does it differentiate itself from the source text?
+Read as much of <i>S*PeRM**K*T</i> in <i>Recyclopedia</i> as you can. Focus on <q>Roastbeef</q> in <i>Tender Buttons,</i> explore whatever else catches your eye. Mullen's <i>S*PeRM**K*T</i> directly corresponds to Stein's &ldquo;Food&rdquo; section of <i>Tender Buttons.</i> How does it differentiate itself from its source of inspiration?
 </p>
 
 9/11: Francis Ponge, "The Carnation" ("L'œillet"), excerpts from *Unfinished Ode to Mud,* Andrew Epstein,["The Rhapsody of Things as They Are"](http://www.jstor.com/stable/44885307)
