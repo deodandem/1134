@@ -76,8 +76,21 @@ ul.pagination {
 }
 
 .yellow {
-  background-color: yellow;
+  background-color: #fff28c;
   font-weight: bold;
+  padding-left:.5em;
+  padding-right:.5em;
+  padding-top: .2em;
+  padding-bottom: .2em;
+}
+
+.blue {
+  background-color: rgb(214,230,245);
+  font-weight: normal;
+  padding-left:.5em;
+  padding-right:.5em;
+  padding-top: .2em;
+  padding-bottom: .2em;
 }
 .container {
   max-width: $container-max-width;

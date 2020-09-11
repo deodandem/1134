@@ -7,9 +7,12 @@ bookFlatSection: false
 
 ### Week 1: Sept 2, 4 – Introduction
 
-9/2: Introduction: What is Reading?
+{{< expand "What do you notice?" >}}
+
+9/2: Introduction
 <p class="descript">
-What's your relationship to reading? What does it feel like to read different kinds of texts: news articles, long-form journalism, poetry, fiction, code, mathematical proofs, tweets, emails?</p>
+What's your relationship to reading? What does it feel like to read different kinds of texts? This week we will read five poems by A.R. Ammons, Christian Bök, H.D., Reginald Shepherd, and Juliana Spahr. What do you notice in each?
+</p>
 
 9/4: Selections from 9/2
 <p class="descript">
@@ -21,15 +24,20 @@ Come to class with questions about the syllabus or schedule.
 1. Name (what you would like to be called), pronouns, where you're from, something you like or are interested in that's not poetry.
 2. Did you have trouble hearing the instructor or classmates?
 3. Ask any questions you may have about the course syllabus/schedule. I will respond next class. </p>
-
 {{< /details >}}
+
+{{< /expand >}}
 
 <span class="yellow">Essay 0 - "First Day" (Due 9/7, 22:00)</span>
 
-
 ### Week 2: Sept 7, 9, 11 – Objects
 
-9/7: Gertrude Stein, "Susie Asado" (p. 125), "Repetition" (PE[^*], 1168)
+
+<span class="blue" style="margin-left:0em">**Individual Conference I**</span>
+
+{{< expand "How does it mean?" >}}
+
+9/7: Gertrude Stein, "Susie Asado" (p. 125), "Repetition" (PEPP, 1168)
 <p class="descript">
 What's the role of <u>repetition</u> in Stein's poetry?<br>
 Does the <u>meaning</u> of each word "matter"?<br>
@@ -56,9 +64,10 @@ Let's try to identify specific rhetorical patterns, techniques, and tropes in Po
 Write a description of an everyday object or phenomenon that you've had direct experience with recently, using Gertrude Stein, Harryette Mullen, or Francis Ponge as a model. In order to do this effectively, identify one specific technique your poet uses and be sure to employ it in your piece. Use a "template text" to roughly define its length.</p>
 
 <ul class="descript">
-  <li> Ponge: You may want to develop small lexicons for words you associate with the object in question, use verbless noun phrases, re-invent words...
-  <li> Mullen: Consider her use of colloquial idioms, especially those coming from advertising, vernacular English, ...
-  <li> Stein: Consider the use of repetition, homonyms, ungrammatical constructions, ...
+  <li> Ponge: You may want to develop small lexicons for words you associate with the object in question, or write a "scrambled" set of poems that use similar phrases in different order.
+  <li> Mullen: Consider her use of colloquial idioms, especially those coming from advertising, vernacular English. Try to use registers of speech or "found linguistic materials" (like stuff from a COVID-related news report?)...
+  <li> Stein: Write something highly repetitive and rhythmic, using words that sonically bring to mind the object in question without denoting it directly.
+  <li> Fourth option: don't copy any of the poets consciously, just write about an object. Then add a paragraph of commentary afterwards on how you feel your poetics relates to the past week's poets—are you doing something completely different? Are there any similarities?
 </ul>
 <p class = "descript">
   Post by Sunday at 22:00. On Monday, we will look at some of the responses and try to figure out which aspect of the poet's style you are working with, and how your piece distinguishes itself from its original source of inspiration.
@@ -66,24 +75,26 @@ Write a description of an everyday object or phenomenon that you've had direct e
 
 {{< /details >}}
 
+{{< /expand >}}
 
 ### Week 3: Sept 14, 16, 18 – Line
 
-9/14: Robert Hass: Preface, Chapter 1, 2, from *A Little Book on Form*
+9/14: Robert Hass: Introduction, Chapters 1-3, from *A Little Book on Form*
+<ul class="descript">
+<li>Prior to class, put in the "line" slack channel a favorite quote from Hass or favorite quoted poem from the reading. Briefly comment on why you chose it, or not (in which case I will probably call on you in class to comment further).
+<li>Keep a list of favorite lines mentioned in these chapters, in previous or future readings, and in poems you may have independently found. Try to figure out why you like a given line, couplet, or tercet of poetry. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?  Put your thoughts in the "line" slack channel by Wednesday.
+</ul>
+
+9/16: Whitman, "Song of Myself"; Hass: "A Note on Stress," "How to Scan a Poem"
+
 <p class="descript">
-Keep a list of favorite lines mentioned in these chapters, in previous readings, or in poems you have independently found. Hass gives many poem recommendations, and you may find it helpful to look up some of the ones he only quotes excerpts from. Try to figure out why you like a given line of poetry. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?
+Keep a list of favorite lines from Whitman, adding to the "line" slack channel one excerpt that you are particularly drawn to, with or without commentary. You might want to scan it and discuss what you find. Add to slack by Friday.
 </p>
 
-9/16: Whitman, "Song of Myself"; Hass: Ch 3
+9/18: Whitman cont., A.R. Ammons: Corsons Inlet; Hass: "How Free Verse Works"
 
 <p class="descript">
-What stanza lengths are you finding? Is there a logic to these numbers? Continue to keep a list of favorite lines.
-</p>
-
-9/18: A.R. Ammons: Corsons Inlet, Hass: Ch 4
-
-<p class="descript">
-Pay attention to numerical units in this poem. How might the lines be grouped? How does the lineation relate to the motion of thought represented in the poem?
+Just read: Ammons, Hass, and any material cited by Hass that interests you. Start drafting your discussion board post, which is essentially a draft or proposal for Essay 1, "Line."
 </p>
 
 {{< details "Discussion Board" close >}}
@@ -96,31 +107,29 @@ Share the poem you will be writing about for Essay 1. First write about what you
 
 ### Week 4: Sept 21, 23, 25 – Sonnet
 
+<p class="descript">
+We will take an &ldquo;inductive&rdquo; approach by reading a wide range of sonnets today by Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, etc. A small "reader" will be linked here soon. This week we will ask, what do sonnets do? What makes this form so robust and versatile?
+</p>
+
 9/21: Selected sonnets, *Post-Petrarchism,* Chapter 1
 <p class="descript">
-We will take an &ldquo;inductive&rdquo; approach by reading a wide range of sonnets today by Rilke, Donne, Petrarch, Toomer, Hopkins, Sor Juana, Shakespeare, etc. Ask yourself: What do sonnets do? What makes this form so robust?
+Before class, read the chapter from <i>Post-Petrarchism.</i> In slack, share some lines that were interesting to you, and ask a question about something that was confusing or unclear. This reading is quite dense, so start early.
 </p>
 
 9/23: Selected sonnets (cont.)
 <p class="descript">
-Preparation: TBA; will probably pay closer attention to rhyme, meter
+Let's work on identifying deixis in sonnets. What kinds of deictics are present, and which ones stick out most to you? Are you observing important "internal" deictics? You may want to review Monday's slides in preparation for this class, but focus on finishing up Essay 1.
 </p>
 
 
-9/25: Terrance Hayes, *American Sonnets for my Past and Future Assassin*
-
+9/25: Shakespeare, Sonnets 1-30
 <p class="descript">
-Preparation: TBA
+How are the sonnets sequenced? What "kinds" of sonnets do you find? Prior to class, share in slack which sonnet stood out to you the most, and highlight a few lines in it that seemed particularly good. Again, commentary is optional.
 </p>
-
-{{< details "Discussion Board" close >}}
-Comment on a sonnet covered in class or one you have found elsewhere—How does it interact with the sonnet tradition?
-{{< /details >}}
 
 
 ### Week 5: Sept 28, 30, Oct 2 – Ode
-
-<span class="yellow">Individual Conference I</span>
+<span class="blue" style="margin-left:0em">**Individual Conference II**</span>
 
 9/28: *Theory of the Lyric*, Chapter 1
 <p class="descript">
@@ -130,19 +139,21 @@ You will be assigned to briefly present on one of the nine poems presented in th
 9/30: Marianne Moore, "An Octopus"
 
 <p class="descript">
-We will try to apply Culler&rsquo;s four parameters to this poem.
+We will try to apply Culler&rsquo;s four parameters to this poem. Please share an annotated copy of some excerpt of the poem on slack (as image file, screenshot).
 </p>
 
-10/2: T.S. Eliot, "The Three Voices of Poetry" (LTR[^**], 192)
+10/2: T.S. Eliot, "The Three Voices of Poetry"
 <p class="descript">
-Can we identify instances of the &ldquo;third voice&rdquo; in &ldquo;The Octopus&rdquo; or other texts?
+Identify an instance of the "third voice" in any of the past or next week's readings. Make a brief argument for why that moment constitutes the "third" voice and not the first or second.
 </p>
+
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
-Identify an instance of the "third voice" in a poem. Make a brief argument for why that moment constitutes the "third" voice and not the first or second.
+Start Essay 2. Post two paragraphs. These can be from the body of the essay or the beginning. Due Sunday, 22:00.
 </p>
 {{< /details >}}
+</p>
 
 ### Week 6: Oct 5, Oct 7, Oct 9 – Address
 
@@ -152,12 +163,17 @@ This week involves a mixture of forms, including sonnets and longer poems that i
 
 Oct 5 - John Ashbery, "Self-Portrait in a Convex Mirror"
 
-Oct 7 - Ben Lerner, *The Lichtenberg Figures,* "The Media"
+<p class="descript">
+This is a challenging poem to "grasp," in spite of its use of fairly ordinary language. Can you identify points of clarity and points of confusion? What deictic markers help orient or disorient you?
+</p>
+
+
+Oct 7 - Ben Lerner, selections from *The Lichtenberg Figures*, "The Media"
 <p class="descript">
 What are the registers of this speech? Who is <q>I</q>?
 </p>
 
-Oct 9 - Shakespeare, Sonnets 1-13
+Oct 9 - John Donne, Holy Sonnets
 <p class="descript">
 How does the mode of address relate to each poem's syntax?
 </p>
@@ -165,78 +181,83 @@ How does the mode of address relate to each poem's syntax?
 <span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/14, 22:00)</span>
 <p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 21.</p>
 
-### Week 7: Oct 12, 16 – Georgic
+### Week 7: Oct 12, 16 – Address
 
 <p class="descript">
 This week involves poems of <q>instruction</q> or <q>information,</q> as well as longer descriptive poems.
 </p>
 
-Oct 12 - Virgil, "Book 1," *Georgics,* "Georgic," (*A Little Book on Form*)
+Oct 12 - Rilke, Sonnets to Orpheus; Letters to a Young Poet
 
 {{< hint info >}}
 No classes on October 14.
 {{< /hint >}}
 
-Oct 16 -  Aimé Césaire, "Notebook of a Return to the Native Land"
+Oct 16 -  Rilke cont., Duino Elegies
 
 <p class="descript">
-You may also be interested in Christian Bök&rsquo;s <i>The Xenotext, Book 1</i>.</p>
+Preparation: TBA. You may also be interested in Christian Bök&rsquo;s <i>The Xenotext, Book 1</i>, or Dionne Brand's <i>The Blue Clerk.</i></p>
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
-What knowledge have you gained from this week&rsquo;s readings? Choose a moment from Césaire or Bök in which you were exposed to new knowledge. Discuss how this piece of knowledge relates to the poem/book's overall program.
+What knowledge have you gained from this week&rsquo;s readings? Choose a moment from Césaire in which you were exposed to new knowledge. Discuss how this piece of knowledge relates to the poem/book's overall program.
 </p>
 {{< /details >}}
 
-{{< hint danger >}}
-Readings are tentative from here on out. Check for updates.
-{{< /hint >}}
 
-### Week 8: Oct 19, 21, 23 – Georgic, cont.
+### Week 8: Oct 19, 21, 23 – Image
 
-Oct 19 -  William Carlos Williams, *Paterson*
 <p class="descript">
-Preparation: TBA
+What's the difference between imagism and symbolism? How about metaphor and metonymy? How do images interact with the ritual and fictional dimensions of the lyric?
 </p>
 
-Oct 21 - Barthes, *Camera Lucida* (First part)
+Oct 19 -  Barthes, *Camera Lucida* (First part); Selected poems by Stéphane Mallarmé, Jean Cocteau
 <p class="descript">
 We will practice identifying <i>puncta</i> in class and discuss the validity of identifying poetry with photography.
 </p>
 
-Oct 23 -
+Oct 21 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)"
+<p class="descript">
+Preparation: TBA
+</p>
+
+Oct 23 - Aimé Césaire
+<p class="descript">
+Preparation: TBA
+</p>
 
 <span class="yellow">Essay 3 “Punctum” (Due 10/30, 22:00)</span>
 
 
-### Week 9: Oct 26, 28, 30 – Attention
+### Week 9: Oct 26, 28, 30 – Value
 
 <p class="descript">
-This week is focused on a recent theoretical development, but we will incorporate miscellaneous poems into the slides.
+We will talk about poetry's "value" but also how poems are valued, what kinds of expectation, forms of attention, modes of engagement allow for the appreciation of poetry.
 </p>
 
 Oct 26 - Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true),* "Introduction"
 
-Oct 28 - Ezra Pound, "A Retrospect," *ABCs of Reading*, H.D., Archibald MacLeish
+Oct 28 - Robert Hass, *Praise* (and/or *Field Guide*)
 
-Oct 30 - Rilke, Sonnets to Orpheus
+Oct 30 - Ben Lerner, *The Hatred of Poetry*
 
 ### Week 10: Nov 2, 4, 6 — Value
 
 
-Nov 2 - Rilke, Duino Elegies
+Nov 2 - Frank Lentricchia, from *The Modernist Quartet,* Wallace Stevens
 
-Nov 4 - Dickinson, selected poems
+Nov 4 - Ezra Pound, "A Retrospect," selections from *ABCs of Reading*, *Personae*, more from H.D., Archibald Macleish
 
-Nov 6 - Robert Hass, *Praise* (and/or *Field Guide*)
+Nov 6 - Eugenio Montale
+
 
 ### Week 11: Nov 9, 11, 13 — The Lyric "I"
 
-Nov 9: Celan, *Breathturn into Timestead*, Allen Grossman, *Summa Lyrica* (LTR, 418)
+Nov 9: Vallejo, *Trilce*; Allen Grossman, *Summa Lyrica* (LTR, 418)
 
-Nov 11: Jos Charles, *Feeld*
+Nov 11: Celan, *Breathturn into Timestead*,
 
-Nov 13: Vallejo, *Trilce*
+Nov 13: Jos Charles, *Feeld*
 
 <span class="yellow">Essay 4 "Final" (Draft) (Due 11/16, 22:00)</span>
 
@@ -244,7 +265,7 @@ Nov 13: Vallejo, *Trilce*
 
 ### Week 12, 13: Semi-Finals, Thanksgiving
 
-<mark>**Individual Conference II**</mark>  
+<span class="blue" style="margin-left:0em">**Individual Conference III**</span>  
 (Schedule between 11/16 and 11/29)
 
 {{< hint info >}}

@@ -31,7 +31,7 @@ Writing is revising, and the best revisions arise from collaborative efforts. Yo
 
 <ul>
 <li>Attendance and participation in class and online
-<li>Two individual meetings with the instructor
+<li>Three individual meetings with the instructor
 <li>Timely completion of essay assignments
 </ul>
 

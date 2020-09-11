@@ -4,13 +4,17 @@
     margin-top: $padding-16;
     margin-bottom: $padding-16;
     margin-left:2em;
-    border: $padding-1 solid $gray-200;
+    border: none;
     border-radius: $border-radius;
-
     overflow: hidden;
 
     .book-expand-head {
-      background: $gray-100;
+      font-size:100%;
+      background: white;
+      border-width:1px;
+      border-style: solid;
+      border-radius: 4px;
+      border-color:rgb(200,200,200);
       padding: $padding-8 $padding-16;
       cursor: pointer;
     }
@@ -18,11 +22,13 @@
     .book-expand-content {
       display: none;
       padding: $padding-16;
+      margin-left:-2em;
     }
 
     input[type="checkbox"]:checked + .book-expand-content {
       display: block;
     }
+
   }
 
   // {{< tabs >}}
