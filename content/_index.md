@@ -31,20 +31,20 @@ Writing is revising, and the best revisions arise from collaborative efforts. Yo
 
 <ul>
 <li>Attendance and participation in class and online
-<li>Three individual meetings with the instructor
+<li>Two individual meetings with the instructor
 <li>Timely completion of essay assignments
 </ul>
 
 There will be five essays, four will be given a letter grade.
 
-* Essay 0 — "First Day" - 1-2 pages (September 7)
-* Essay 1 — "Line" - 3-4 pages (September 21)
-* Essay 2 — "Ritual vs. Fiction" - 3-4 pages (October 12)
-* Essay 3 — "Punctum" - 3-4 pages (October 26)
-* Essay 4 — "Final" - 6-10 pages (December 17)
+* Essay 0 – "First Day" – 1-2 pages (September 7)
+* Essay 1 – "Line" – 3-4 pages (September 23)
+* Essay 2 – "Ritual vs. Fiction" – 4-5 pages (October 14)
+* Essay 3 – "Punctum" – 3-4 pages (October 30)
+* Essay 4 – "Final" – 8-12 pages (December 17)
 
 The final version of each assignment prompt will be available at least one week in advance of the due date. Listed page counts are useful guidelines, but you may write more if it feels important to do so.
-Essays should follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html">MLA citation and style guidelines,</a> with Times New Roman font and 1.5 line spacing. Turn in all papers as PDFs on Canvas. Submit a copy of the poem in the front matter of your paper (see template on Canvas). Separately attach a voice recording of you reading the poem. Your recitation is not going to be evaluated, but may be helpful for observing aspects of a poem that are not apparent through silent reading.
+Essays should follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html">MLA citation and style guidelines,</a> with Times New Roman font and **1.7** line spacing.[^1] Turn in all papers as PDFs on Canvas. Submit a copy of the poem in the front matter of your paper (see template on Canvas). Separately attach a voice recording of you reading the poem. Your recitation is not going to be evaluated, but may be helpful for observing aspects of a poem that are not apparent through silent reading.
 
 
 ## Course Materials
@@ -66,13 +66,13 @@ The minimum expected grade, B- will be given to those who
 3. Complete all assignments on time**
 </ol>
 
-Grades above this depend on quality of essay assignments. Essays 1-3 count for 20% each, Essay 5 counts for 40%. Essay 0 is purely diagnostic and not graded. See individual rubrics for each essay as they are released for exact grading criteria.
+Grades above this depend on quality of essay assignments. Essays 1-3 count for 20% each, Essay 4 counts for 40%. Essay 0 is purely diagnostic and not graded. See individual rubrics for each essay as they are released for exact grading criteria.
 
 Numerical scale: 98-100% (A+), 93-97% (A), 90-92% (A-), 88-89% (Β+), 83-87% (B), …
 
 *&nbsp;Being more than 15 minutes late to class counts as an absence. Being more than 5 minutes late three times counts as an absence. Absences beyond three will not negatively affect your grade if they are due to a medical emergency or quarantine mandate.
 
-** Essays must respond to the prompt to receive credit. I cannot give credit for essays turned in more than 36 hours late, with the exception of Essay 5, for which you may request a personalized due date. If you are experiencing significant mental health issues and need more lenient deadlines, contact me and we'll work something out. Otherwise, adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations.
+** Essays must respond to the prompt to receive credit. I cannot give credit to essays turned in more than 36 hours late, with the exception of Essay 4, for which you may request a personalized due date. If you are experiencing significant mental health issues and need more lenient deadlines, contact me and we'll work something out. Otherwise, adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations, so it is important to start following them now.
 
 ## Zoom
 
@@ -85,3 +85,5 @@ If you need to access class online, reference the Canvas "Zoom" tab for access. 
 * This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to the physically handicapped, visually and/or hearing impaired student; sexual harassment; discrimination based on race, ethnicity, and gender identity. Students are advised to become familiar with the respective <a href="https://www.dfa.cornell.edu/sites/default/files/vol6_4.pdf">University regulations</a> and are encouraged to bring any questions or concerns to the attention of the instructor.
 * If you have a disability-related need for this course, provide the instructor with an accommodation notification letter from Student Disability Services. Students are expected to give two weeks’ notice for requested accommodations. If you need immediate accommodations sooner, please speak to the instructor about your need by the end of the first week.
 * This webpage is subject to change at all times. Substantive edits will be announced via Canvas.
+
+[^1]: The total minimum page count, 1+3+4+3+8=19, converted to the standard double spacing, amounts to a little over the 20-page minimum mandated by the Knight institute.
