@@ -82,19 +82,19 @@ Write a description of an everyday object or phenomenon that you've had direct e
 9/14: Robert Hass: Introduction, Chapters 1-3, from *A Little Book on Form*
 <ul class="descript">
 <li>Prior to class, put in the "line" slack channel a favorite quote from Hass or favorite quoted poem from the reading. Briefly comment on why you chose it, or not (in which case I will probably call on you in class to comment further).
-<li>Keep a list of favorite lines mentioned in these chapters, in previous or future readings, and in poems you may have independently found. Try to figure out why you like a given line, couplet, or tercet of poetry. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?  Put your thoughts in the "line" slack channel by Wednesday.
+<li>Keep a list of favorite lines mentioned in these chapters, in previous or future readings, and in poems you may have independently found. Try to figure out why you like a given line, couplet, or tercet of poetry. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?
 </ul>
 
 9/16: Whitman, "Song of Myself"; Hass: "A Note on Stress," "How to Scan a Poem"
 
 <p class="descript">
-Keep a list of favorite lines from Whitman, adding to the "line" slack channel one excerpt that you are particularly drawn to, with or without commentary. You might want to scan it and discuss what you find. Add to slack by Friday.
+Prior to class, keep a list of favorite lines from Whitman, adding to the "Whitman" slack channel one excerpt that you are particularly drawn to, with or without commentary by Tuesday at 22:00. You might want to scan it and discuss what you find. Also put one excerpt from the Hass reading in the "meter" channel by Tuesday night.
 </p>
 
 9/18: Whitman cont., A.R. Ammons: Corsons Inlet; Hass: "How Free Verse Works"
 
 <p class="descript">
-Just read: Ammons, Hass, and any material cited by Hass that interests you. Start drafting your discussion board post, which is essentially a draft or proposal for Essay 1, "Line."
+Prior to class, do the same slack posting with "Corsons Inlet" and "How Free Verse Works," in the #freeverse channel (post by Thursday, 22:00). After class, start drafting your discussion board post, which is essentially a draft or proposal for Essay 1, "Line."
 </p>
 
 {{< details "Discussion Board" close >}}
