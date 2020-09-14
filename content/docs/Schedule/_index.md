@@ -124,7 +124,7 @@ Let's work on identifying deixis in sonnets, focusing on the ones you chose to c
 
 9/25: Shakespeare, Sonnets 1-30
 <p class="descript">
-How are the sonnets sequenced? What "kinds" of sonnets do you find? Prior to class, share in slack which sonnet(s) stood out to you the most, and how they relate to the sonnets which come before or after.
+How are the sonnets sequenced? What "kinds" of sonnets do you find? Prior to class, share in slack which of the Shakespeare sonnet(s) stood out to you the most, and how they relate to the overall sequence.
 </p>
 
 
