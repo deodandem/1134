@@ -111,9 +111,9 @@ Share the poem you will be writing about for Essay 1. First write about what you
 We will take an &ldquo;inductive&rdquo; approach by reading a wide range of sonnets today by Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, etc. A small "reader" will be linked here soon. This week we will ask, what do sonnets do? What makes this form so robust and versatile?
 </p>
 
-9/21: Selected sonnets; Roland Greene, *Post-Petrarchism,* Chapter 1
+9/21: Selected sonnets; Roland Greene, *Post-Petrarchism,* Chapter 1 (p. 22-33)
 <p class="descript">
-Before class, read the chapter from <i>Post-Petrarchism.</i> In slack, share some lines that were interesting to you, and ask a question about something that was confusing or unclear. This reading is quite dense, so start early. Take a quick look at the sonnets in the reader. Prior to class, copy out an excerpt from <i>Post-Petrarchism</i> that is confusing or interesting in slack. After class, comment on a sonnet or two that you liked, connecting it to some idea from the reading (deixis, temporality).
+Before class, read the given page range from <i>Post-Petrarchism</i> and take a look at the sonnets in the reader. Choose a sonnet from the reader to comment on, and connect it to some quote from *Post-Petrarchism.* Put your comments in the #sonnet slack channel.
 </p>
 
 9/23: Selected sonnets (cont.)
