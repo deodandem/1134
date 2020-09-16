@@ -88,18 +88,31 @@ Write a description of an everyday object or phenomenon that you've had direct e
 9/16: Whitman, "Song of Myself"; Hass: "A Note on Stress," "How to Scan a Poem"
 
 <p class="descript">
-Prior to class, keep a list of favorite lines from Whitman, adding to the "Whitman" slack channel one excerpt that you are particularly drawn to, with or without commentary by Tuesday at 22:00. You might want to scan it and discuss what you find. Also put one excerpt from the Hass reading in the "meter" channel by Tuesday night.
+Prior to class, keep a list of favorite lines from Whitman, adding to the #whitman slack channel one excerpt that you are particularly drawn to, with or without commentary by Tuesday at 22:00. You might want to scan it and discuss what you find. Also put one excerpt from the Hass reading in the "meter" channel by Tuesday night.
 </p>
 
 9/18: Whitman cont., A.R. Ammons: Corsons Inlet; Hass: "How Free Verse Works"
 
 <p class="descript">
-Prior to class, do the same slack posting with "Corsons Inlet" and "How Free Verse Works," in the #freeverse channel (post by Thursday, 22:00). After class, start drafting your discussion board post, which is essentially a draft or proposal for Essay 1, "Line."
+
+<ul class="descript">
+<li> Prior to class, make a post in the #freeverse channel. Comment on how line groupings and/or meter some excerpt of A.R. Ammons's "Corsons Inlet" or Robert Hass's "Meditation at Lagunitas" relate to your more immediate reaction to the poem's expression. Post by Thursday @ 22:00. Earlier is better!
+<li> After class, start looking at the Sonnet reader and begin drafting your discussion board post, which is essentially a draft or proposal for Essay 1, "Line."
+</ul>
 </p>
 
-{{< details "Discussion Board" close >}}
+{{< details "Discussion Board" open >}}
 <p class="descript">
-Share the poem you will be writing about for Essay 1. First write about what you notice (this does not have to be about the lineation of the poem). Then share a quote from the Hass reading you'd like to reference in the essay. You do not have to make an argument about how that quote on lineation relates to what you noticed (that's for you to elaborate in the essay). Post by Sunday at 22:00; read what your classmates have written over the course of the following week. </p>
+Pick a poem to write about for Essay 1. I suggest you choose any of the poems we've read so far, anything you've written a comment on, or any sonnet* from the Sonnet Reader (1134-sonnets.pdf). As with all future assignments, you're free to find something else on your own. First write about what you notice, with regards to the meaning or expressive effects of the poem. Then scan it and look for stanzas or line groupings** that stand out to you. Comment on any interesting patterns you find and try to connect these observations with your earlier observations on meaning/expression. Then ask a question or make a comment on how your post could be further developed. Post by Sunday at 22:00. This is a sketch for Essay 1.</p>
+
+<p class="descript">
+*Pick a sonnet in English if you prefer to focus on meter. Otherwise you will have to scan the poem in its original language, which can be tough if you're not well-versed in its phonology.
+</p>
+
+<p class="descript">
+**A line grouping can be a stanza, or a group of lines within a stanza. While you may be interested in a group containing five or more lines, focus on identifying single lines, or groups of 2, 3, and at maximum 4 within that group. As we discussed in class, numbers larger than 4 are difficult, if not impossible to "subitize," so we invariably chunk them into smaller portions.
+</p>
+
 {{< /details >}}
 
 <span class="yellow">Essay 1 "Line" (Due 9/23, 22:00)</span>
@@ -111,12 +124,12 @@ Share the poem you will be writing about for Essay 1. First write about what you
 We will take an &ldquo;inductive&rdquo; approach by reading a wide range of sonnets today by Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, etc. A small "reader" will be linked here soon. This week we will ask, what do sonnets do? What makes this form so robust and versatile?
 </p>
 
-9/21: Selected sonnets; Roland Greene, *Post-Petrarchism,* Chapter 1 (p. 22-33)
+9/21: Selected sonnets; Discussion board posts
 <p class="descript">
 Before class, read the given page range from <i>Post-Petrarchism</i> and take a look at the sonnets in the reader. Choose a sonnet from the reader to comment on, and connect it to some quote from *Post-Petrarchism.* Put your comments in the #sonnet slack channel.
 </p>
 
-9/23: Selected sonnets (cont.)
+9/23: Selected sonnets (cont.), Roland Greene, *Post-Petrarchism,* Chapter 1 (p. 22-33)
 <p class="descript">
 Let's work on identifying deixis in sonnets, focusing on the ones you chose to comment on. What kinds of deictics are present, and which ones stick out most to you? Are you observing important "internal" deictics?
 </p>
