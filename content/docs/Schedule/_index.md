@@ -115,7 +115,7 @@ Pick a poem to write about for Essay 1. I suggest you choose any of the poems we
 
 {{< /details >}}
 
-<span class="yellow">Essay 1 "Line" (Due 9/23, 22:00)</span>
+<span class="yellow">Essay 1 "Line" (Due 9/25, 22:00)</span>
 <p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on September 30.</p>
 
 ### Week 4: Sept 21, 23, 25 – Sonnet
@@ -124,26 +124,25 @@ Pick a poem to write about for Essay 1. I suggest you choose any of the poems we
 We will take an &ldquo;inductive&rdquo; approach by reading a wide range of sonnets today by Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, etc. A small "reader" will be linked here soon. This week we will ask, what do sonnets do? What makes this form so robust and versatile?
 </p>
 
-9/21: Selected sonnets; Discussion board posts
+9/21: Sonnet reader; Discussion board posts
 <p class="descript">
-Before class, read the given page range from <i>Post-Petrarchism</i> and take a look at the sonnets in the reader. Choose a sonnet from the reader to comment on, and connect it to some quote from *Post-Petrarchism.* Put your comments in the #sonnet slack channel.
+Before class, take a look at the sonnets in the reader (1134-sonnets.pdf). Choose a sonnet from the reader to comment on in the #sonnet slack channel. You may give general impressions, but be sure to also comment on an interesting aspect of the poem's meter.
 </p>
 
-9/23: Selected sonnets (cont.), Roland Greene, *Post-Petrarchism,* Chapter 1 (p. 22-33)
+9/23: Sonnet reader (cont.); Roland Greene, *Post-Petrarchism,* Chapter 1 (p. 22-33)
 <p class="descript">
-Let's work on identifying deixis in sonnets, focusing on the ones you chose to comment on. What kinds of deictics are present, and which ones stick out most to you? Are you observing important "internal" deictics?
+Read the given page range from <i>Post-Petrarchism</i> prior to class and put a quote that stood out to you in #sonnet, alongside a sonnet which seems to relate to that quote. In class, we will work on identifying deixis in sonnets, focusing on the ones you included in the slack channel.
 </p>
 
 
-9/25: Shakespeare, Sonnets 1-30
+9/25: Sonnet reader (cont.)
 <p class="descript">
-How are the sonnets sequenced? What "kinds" of sonnets do you find? Prior to class, share in slack which of the Shakespeare sonnet(s) stood out to you the most, and how they relate to the overall sequence.
-</p>
+We will continue to practice identifying metrical patterns, syntactic patterns, interesting line groupings, uses of deixis, and general thematic alliances in the sonnets. Prior to class, focus on finishing Essay 1. No additional preparation required.
 
 
 ### Week 5: Sept 28, 30, Oct 2 – Ode + Sonnet
 
-9/28: *Theory of the Lyric*, Chapter 1
+9/28: Jonathan Culler, *Theory of the Lyric*, Chapter 1
 <p class="descript">
 Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem) discussed in previous weeks; write a sentence or two in slack on how it involves the <q>four parameters.</q> We will discuss what you have noted on the poems you have chosen, and discuss Culler's readings briefly as well.
 </p>
@@ -154,9 +153,9 @@ Pay close attention to how the nine poems presented in the chapter are analyzed.
 Before class, read the entire poem, and try to apply Culler&rsquo;s four parameters to some excerpt of approximately fourteen lines. Share an annotated copy of that excerpt on slack, as an image file. You can copy out the excerpt on paper and annotate it, do inline annotations using some document editor, or write comments on cited line numbers separately. We'll discuss your annotations and comments in class.
 </p>
 
-10/2: Rilke, Sonnets to Orpheus
+10/2: T.S. Eliot, "The Three Voices of Poetry"; Rilke, Duino Elegies
 <p class="descript">
-We will try to make a catalogue of different parameters of poetry we've learned to pay attention to over the past two weeks, and discuss how <i>Post-Petrarchism</i> and <i>Theory of the Lyric</i> apply to this sonnet sequence. Prior to class, share in slack a list of poems that stood out to you, as well as an annotated copy of one poem.
+We will try to apply the notion of the "third voice" to poems we've recently read, especially some of the Duino elegies. Prior to class, share in slack an excerpt from one of the Duino Elegies that you think exemplifies the first, second, or third voice.
 </p>
 
 
@@ -173,7 +172,7 @@ Start Essay 2. Post two paragraphs. These can be from the body of the essay or t
 This week involves a mixture of forms, including sonnets and longer poems that involve interesting modes of address.
 </p>
 
-Oct 5 - T.S. Eliot, "The Three Voices of Poetry"; John Ashbery, "Self-Portrait in a Convex Mirror"; Larissa Macfarquhar, "Present Waking Life: Becoming John Ashbery"
+Oct 5 - John Ashbery, "Self-Portrait in a Convex Mirror"; Larissa Macfarquhar, "Present Waking Life: Becoming John Ashbery"
 
 <p class="descript">
 Try to identify the "third voice" in Ashbery's poem. After class, write a comment in Slack on a segment of the poem which felt particularly vivid to you and one which felt confusing or vague. Then write about whether or not those points of vividness and vagueness have anything to do with the "three voices" of poetry. The third reading, a New Yorker profile of Ashbery, is optional, but helpful if you're having trouble "getting into" the poem.
@@ -197,12 +196,12 @@ Oct 9 - Robert Hass, selected poems from *Praise* and *Field Guide*
 ### Week 7: Oct 12, 16 – Image
 
 <span class="blue" style="margin-left:0em">**Individual Conference II**</span>
-Tr
+
 <p class="descript">
 What's the difference between imagism and symbolism? How about metaphor and metonymy? How do images arise from or relate to the ritual and fictional dimensions of the lyric?
 </p>
 
-Oct 12 - Barthes, *Camera Lucida* (First part); Selected poems by Stéphane Mallarmé, Jean Cocteau, Tomas Tranströmer, Paul Celan
+Oct 12 - Barthes, *Camera Lucida* (First part); Selected poems by Stéphane Mallarmé, Jean Cocteau, Tomas Tranströmer, Paul Celan, Mina Loy, Aimé Césaire
 <p class="descript">
 We will practice identifying <i>puncta</i> in class and discuss the validity of identifying poetry with photography.
 </p>
@@ -213,8 +212,6 @@ No classes on October 14.
 
 Oct 16 -  José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)"
 
-<p class="descript">
-Preparation: TBA. You may also be interested in Christian Bök&rsquo;s <i>The Xenotext, Book 1</i>, or Dionne Brand's <i>The Blue Clerk.</i></p>
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
@@ -226,10 +223,10 @@ Comment on a particular word or phrase that might be a "punctum" for you—choos
 ### Week 8: Oct 19, 21, 23 – Georgic
 
 <p class="descript">
-This week involves poems of <q>instruction</q> or <q>information,</q> as well as longer descriptive poems. What makes a modern "Georgic"?
+This week involves poems of <q>instruction</q> or <q>information.</q> What makes a modern "Georgic"? How do we analyze an entire book?
 </p>
 
-Oct 19 -  Hass, "Georgic"; Virgil, Georgics, Book I
+Oct 19 -  Virgil, Georgics, Book I; Hass, "Georgic"
 <p class="descript">
 Preparation: TBA
 </p>
@@ -247,17 +244,17 @@ Preparation: TBA
 <span class="yellow">Essay 3 “Punctum” (Due 10/30, 22:00)</span>
 
 
-### Week 9: Oct 26, 28, 30 – Value
+### Week 9: Oct 26, 28, 30 – Attention
 
 <p class="descript">
 We will talk about poetry's "value" but also how poems are valued, what kinds of expectation, forms of attention, modes of engagement allow for the appreciation of poetry.
 </p>
 
-Oct 26 - Ben Lerner, *The Hatred of Poetry*
+Oct 26 - Emerson, "The Poet"
 
 Oct 28 - Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true),* "Introduction"
 
-Oct 30 - Ezra Pound, "A Retrospect," selections from *ABCs of Reading*, *Personae*
+Oct 30 - Ezra Pound, selections from *ABCs of Reading*, *Personae*
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
@@ -266,12 +263,12 @@ Write about a poem that we've read so far that you don't particularly like. What
 {{< /details >}}
 
 
-### Week 10: Nov 2, 4, 6 — Value + The Lyric "I"
+### Week 10: Nov 2, 4, 6 — Value
 
 
 Nov 2 - Frank Lentricchia, from *The Modernist Quartet*
 
-Nov 4 - Emerson, "The Poet"; Reginald Shepherd,
+Nov 4 - Ben Lerner, *The Hatred of Poetry*
 
 Nov 6 - Alexander Pope, "Essay on Criticism"
 
@@ -284,11 +281,11 @@ What do you plan on writing about for your final essay, and how do you plan on g
 
 ### Week 11: Nov 9, 11, 13 — The Lyric "I"
 
-Nov 9 - Emily Dickinson
+Nov 9 - Allen Grossman, *Summa Lyrica*
 
-Nov 11 - Vallejo, *Trilce*
+Nov 11 - Reginald Shepherd
 
-Nov 13 - Allen Grossman, *Summa Lyrica*
+Nov 13 - Emily Dickinson
 
 <span class="yellow">Essay 4 "Final" (Draft) (Due 11/16, 22:00)</span>
 

@@ -38,7 +38,7 @@ Writing is revising, and the best revisions arise from collaborative efforts. Yo
 There will be five essays, four will be given a letter grade.
 
 * Essay 0 – "First Day" – 1-2 pages (September 7)
-* Essay 1 – "Line" – 3-4 pages (September 23)
+* Essay 1 – "Line" – 3-4 pages (September 25)
 * Essay 2 – "Ritual vs. Fiction" – 4-5 pages (October 14)
 * Essay 3 – "Punctum" – 3-4 pages (October 30)
 * Essay 4 – "Final" – 8-12 pages (December 17)
