@@ -121,41 +121,40 @@ Pick a poem to write about for Essay 1. I suggest you choose any of the poems we
 ### Week 4: Sept 21, 23, 25 – Sonnet
 
 <p class="descript">
-We will take an &ldquo;inductive&rdquo; approach by reading a wide range of sonnets today by Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, etc. A small "reader" will be linked here soon. This week we will ask, what do sonnets do? What makes this form so robust and versatile?
+What do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile? We will take an &ldquo;inductive&rdquo; approach to the form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. A small "reader" has been uploaded on Canvas (117-sonnets.pdf). We will also engage with the terms "ritual," "fiction," and "deixis" as they pertain to sonnets and other poems.
 </p>
 
 9/21: Sonnet reader; Discussion board posts
 <p class="descript">
-Before class, take a look at the sonnets in the reader (1134-sonnets.pdf). Choose a sonnet from the reader to comment on in the #sonnet slack channel. You may give general impressions, but be sure to also comment on an interesting aspect of the poem's meter.
+Before class, take a look at the sonnets in the reader. Choose a sonnet to share in the #sonnet slack channel. You may give general impressions and write about its meter, rhyme, or line groupings. In class we'll talk about the discussion board posts and upcoming essay, and then talk about some of your chosen sonnets.
 </p>
 
-9/23: Sonnet reader (cont.); Roland Greene, *Post-Petrarchism,* Chapter 1 (p. 22-33)
+9/23: Sonnet reader (cont.); *Post-Petrarchism,* Introduction (p. 1-13)
 <p class="descript">
-Read the given page range from <i>Post-Petrarchism</i> prior to class and put a quote that stood out to you in #sonnet, alongside a sonnet which seems to relate to that quote. In class, we will work on identifying deixis in sonnets, focusing on the ones you included in the slack channel.
+Read the given page range from Roland Greene's <i>Post-Petrarchism</i> prior to class. Copy a quote of interest to the #post-petrarchism channel. We will see how we can apply the terms <q><b>ritual</b></q> and "fiction" to the sonnets you chose for Monday.
 </p>
 
 
-9/25: Sonnet reader (cont.)
+9/25: Sonnet reader (cont.) *Post-Petrarchism,* Introduction (p. 22-42)
 <p class="descript">
-We will continue to practice identifying metrical patterns, syntactic patterns, interesting line groupings, uses of deixis, and general thematic alliances in the sonnets. Prior to class, focus on finishing Essay 1. No additional preparation required.
-
+Prior to class, focus on finishing Essay 1. Read the given page range of <i>Post-Petrarchism</i> for next class. We will start reading some of it together in class and see how the term "deixis" pertains to some of the sonnets in the reader.
 
 ### Week 5: Sept 28, 30, Oct 2 – Ode + Sonnet
 
-9/28: Jonathan Culler, *Theory of the Lyric*, Chapter 1
+9/28: *Post-Petrarchism,* Introduction (p. 22-42)
+<p class="descript">
+
+</p>
+
+9/30: Jonathan Culler, *Theory of the Lyric*, Chapter 1
+
 <p class="descript">
 Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem) discussed in previous weeks; write a sentence or two in slack on how it involves the <q>four parameters.</q> We will discuss what you have noted on the poems you have chosen, and discuss Culler's readings briefly as well.
 </p>
 
-9/30: Marianne Moore, "An Octopus"
-
+10/2: Marianne Moore, "An Octopus"
 <p class="descript">
 Before class, read the entire poem, and try to apply Culler&rsquo;s four parameters to some excerpt of approximately fourteen lines. Share an annotated copy of that excerpt on slack, as an image file. You can copy out the excerpt on paper and annotate it, do inline annotations using some document editor, or write comments on cited line numbers separately. We'll discuss your annotations and comments in class.
-</p>
-
-10/2: T.S. Eliot, "The Three Voices of Poetry"; Rilke, Duino Elegies
-<p class="descript">
-We will try to apply the notion of the "third voice" to poems we've recently read, especially some of the Duino elegies. Prior to class, share in slack an excerpt from one of the Duino Elegies that you think exemplifies the first, second, or third voice.
 </p>
 
 
@@ -172,22 +171,22 @@ Start Essay 2. Post two paragraphs. These can be from the body of the essay or t
 This week involves a mixture of forms, including sonnets and longer poems that involve interesting modes of address.
 </p>
 
-Oct 5 - John Ashbery, "Self-Portrait in a Convex Mirror"; Larissa Macfarquhar, "Present Waking Life: Becoming John Ashbery"
+Oct 5 - T.S. Eliot, "The Three Voices of Poetry"; John Ashbery, "Self-Portrait in a Convex Mirror"; Larissa Macfarquhar, "Present Waking Life: Becoming John Ashbery"
 
 <p class="descript">
 Try to identify the "third voice" in Ashbery's poem. After class, write a comment in Slack on a segment of the poem which felt particularly vivid to you and one which felt confusing or vague. Then write about whether or not those points of vividness and vagueness have anything to do with the "three voices" of poetry. The third reading, a New Yorker profile of Ashbery, is optional, but helpful if you're having trouble "getting into" the poem.
 </p>
 
 
-Oct 7 - Ben Lerner, selections from *The Lichtenberg Figures*, "The Media"
+Oct 7 - Ashbery cont.
 <p class="descript">
-We will continue discussing the Ashbery poem, applying the terms of Greene, Culler, and Eliot. Read the Lerner again after class. In Slack, share
+We will continue discussing the Ashbery poem, applying the terms of Greene, Culler, and Eliot.
 </p>
 
-Oct 9 - Robert Hass, selected poems from *Praise* and *Field Guide*
+Oct 9 - Selected poems by Terrance Hayes, Ben Lerner
 
 <p class="descript">
-
+We will practice reading these poems with the terms "ritual," "fiction," and "deixis" in mind—as well as Culler's four parameters (enunciative-apparatus, being-event, re-performance, hyperbolic-risk).
 </p>
 
 <span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/14, 22:00)</span>
