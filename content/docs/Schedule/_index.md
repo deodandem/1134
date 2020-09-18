@@ -81,14 +81,14 @@ Write a description of an everyday object or phenomenon that you've had direct e
 
 9/14: Robert Hass: Introduction, Chapters 1-3, from *A Little Book on Form*
 <ul class="descript">
-<li>Prior to class, put in the "line" slack channel a favorite quote from Hass or favorite quoted poem from the reading. Briefly comment on why you chose it, or not (in which case I will probably call on you in class to comment further).
+<li>Prior to class, put in the #line slack channel a favorite quote from Hass or favorite quoted poem from the reading. Briefly comment on why you chose it, or not (in which case I will probably call on you in class to comment further).
 <li>Keep a list of favorite lines mentioned in these chapters, in previous or future readings, and in poems you may have independently found. Try to figure out why you like a given line, couplet, or tercet of poetry. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?
 </ul>
 
 9/16: Whitman, "Song of Myself"; Hass: "A Note on Stress," "How to Scan a Poem"
 
 <p class="descript">
-Prior to class, keep a list of favorite lines from Whitman, adding to the #whitman slack channel one excerpt that you are particularly drawn to, with or without commentary by Tuesday at 22:00. You might want to scan it and discuss what you find. Also put one excerpt from the Hass reading in the "meter" channel by Tuesday night.
+Prior to class, keep a list of favorite lines from Whitman, adding to the #whitman slack channel one excerpt that you are particularly drawn to, with or without commentary by Tuesday at 22:00. You might want to scan it and discuss what you find. Also put one excerpt from the Hass reading in the #meter channel by Tuesday night.
 </p>
 
 9/18: Whitman cont., A.R. Ammons: Corsons Inlet; Hass: "How Free Verse Works"
@@ -96,32 +96,35 @@ Prior to class, keep a list of favorite lines from Whitman, adding to the #whitm
 <p class="descript">
 
 <ul class="descript">
-<li> Prior to class, make a post in the #freeverse channel. Comment on how line groupings and/or meter some excerpt of A.R. Ammons's "Corsons Inlet" or Robert Hass's "Meditation at Lagunitas" relate to your more immediate reaction to the poem's expression. Post by Thursday @ 22:00. Earlier is better!
+<li> Prior to class, make a post in the #freeverse channel. Comment on how <span class="key">line</span> groupings and/or <span class="key">meter</span> function in some excerpt of A.R. Ammons's "Corsons Inlet" or Robert Hass's "Meditation at Lagunitas" relate to your more immediate reaction to the poem's expression. Post by Thursday @ 22:00. Earlier is better!
 <li> After class, start looking at the Sonnet reader and begin drafting your discussion board post, which is essentially a draft or proposal for Essay 1, "Line."
 </ul>
 </p>
 
 {{< details "Discussion Board" open >}}
 <p class="descript">
-Pick a poem to write about for Essay 1. I suggest you choose any of the poems we've read so far, anything you've written a comment on, or any sonnet* from the Sonnet Reader (1134-sonnets.pdf). As with all future assignments, you're free to find something else on your own. First write about what you notice, with regards to the meaning or expressive effects of the poem. Then scan it and look for stanzas or line groupings** that stand out to you. Comment on any interesting patterns you find and try to connect these observations with your earlier observations on meaning/expression. Then ask a question or make a comment on how your post could be further developed. Post by Sunday at 22:00. This is a sketch for Essay 1.</p>
+Pick a poem to write about for Essay 1 (Links to an external site.). I suggest you choose any of the poems we've read so far, especially one you've written a comment on, or any sonnet* from the Sonnet Reader (117-sonnets.pdf). As with all future assignments, you're free to find something else on your own.</p>
 
 <p class="descript">
-*Pick a sonnet in English if you prefer to focus on meter. Otherwise you will have to scan the poem in its original language, which can be tough if you're not well-versed in its phonology.
+First write about what you notice, with regards to the meaning or expressive effects of the poem. Then scan it and look for stanzas or line groupings** that stand out to you. Comment on any interesting patterns you find and try to connect these observations with your earlier observations on meaning/expression. Finally, ask a question or make a comment on how your post could be further developed. Post by Sunday at 22:00.</p>
+
+<p class="descript">
+*If you want to write on a sonnet that's not originally in English, you may want to focus on line groupings, or otherwise do a bit of research on how that language is supposed to be scanned.
 </p>
 
 <p class="descript">
-**A line grouping can be a stanza, or a group of lines within a stanza. While you may be interested in a group containing five or more lines, focus on identifying single lines, or groups of 2, 3, and at maximum 4 within that group. As we discussed in class, numbers larger than 4 are difficult, if not impossible to "subitize," so we invariably chunk them into smaller portions.
+**If you're dealing with a poem that has no obvious 1/2/3/4-line divisions or metrical pattern (i.e. Corsons Inlet) you should still try to identify the "ghosts" of these structures. Remember that trying to impose a rule or structure on a poem and then failing will help you see precisely where and how it exceeds those boundaries/expectations. Merely stating that a poem does not fit into categories is not enough to make this truth sufficiently vivid. You can be candid about the fact that an experiment or methodology is not the best fit for a poem in your writing, and choose not to use it at all in future essays, but for the purposes of this upcoming essay I'd like you to try your best to use "meter" and "line" as analytical categories.
 </p>
 
 {{< /details >}}
 
 <span class="yellow">Essay 1 "Line" (Due 9/25, 22:00)</span>
-<p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on September 30.</p>
+<p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 7.</p>
 
 ### Week 4: Sept 21, 23, 25 – Sonnet
 
 <p class="descript">
-What do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile? We will take an &ldquo;inductive&rdquo; approach to the form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. A small "reader" has been uploaded on Canvas (117-sonnets.pdf). We will also engage with the terms "ritual," "fiction," and "deixis" as they pertain to sonnets and other poems.
+What do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile? We will take an &ldquo;inductive&rdquo; approach to the form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. A small "reader" has been uploaded on Canvas (117-sonnets.pdf). We will also engage with the terms <span class="key">ritual</span>, <span class="key">fiction</span>, and <span class="key">deixis</span> as they pertain to sonnets and other poems.
 </p>
 
 9/21: Sonnet reader; Discussion board posts
@@ -131,30 +134,30 @@ Before class, take a look at the sonnets in the reader. Choose a sonnet to share
 
 9/23: Sonnet reader (cont.); *Post-Petrarchism,* Introduction (p. 1-13)
 <p class="descript">
-Read the given page range from Roland Greene's <i>Post-Petrarchism</i> prior to class. Copy a quote of interest to the #post-petrarchism channel. We will see how we can apply the terms <q><b>ritual</b></q> and "fiction" to the sonnets you chose for Monday.
+Read the given page range from Roland Greene's <i>Post-Petrarchism</i> prior to class. Copy a quote of interest to the #post-petrarchism channel. We will see how we can apply the terms <span class="key">ritual</span> and <span class="key">fiction</span> to the sonnets you chose for Monday.
 </p>
 
 
 9/25: Sonnet reader (cont.) *Post-Petrarchism,* Introduction (p. 22-42)
 <p class="descript">
-Prior to class, focus on finishing Essay 1. Read the given page range of <i>Post-Petrarchism</i> for next class. We will start reading some of it together in class and see how the term "deixis" pertains to some of the sonnets in the reader.
+Prior to class, focus on finishing Essay 1. Read the given page range of <i>Post-Petrarchism</i> for next class. We will start reading some of it together in class and see how the term <span class="key">deixis</span> pertains to some of the sonnets in the reader.
 
-### Week 5: Sept 28, 30, Oct 2 – Ode + Sonnet
+### Week 5: Sept 28, 30, Oct 2 – Sonnet, Ode
 
-9/28: *Post-Petrarchism,* Introduction (p. 22-42)
+9/28: Petrarch, *Post-Petrarchism,* Introduction (p. 22-42)
 <p class="descript">
-
+Copy a quote of interest to the #post-petrarchism channel, as well as a second sonnet which you think uses <span class="key">deixis</span> in an interesting manner. We will see how we can apply deixis to some Petrarch sonnets, and others that you may have posted.
 </p>
 
 9/30: Jonathan Culler, *Theory of the Lyric*, Chapter 1
 
 <p class="descript">
-Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem) discussed in previous weeks; write a sentence or two in slack on how it involves the <q>four parameters.</q> We will discuss what you have noted on the poems you have chosen, and discuss Culler's readings briefly as well.
+Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem) discussed in previous weeks; write a sentence or two in #sonnet on how it involves the <span class="key">four parameters</span>. We will discuss what you have noted on the poems you have chosen, and discuss Culler's analyses as well.
 </p>
 
 10/2: Marianne Moore, "An Octopus"
 <p class="descript">
-Before class, read the entire poem, and try to apply Culler&rsquo;s four parameters to some excerpt of approximately fourteen lines. Share an annotated copy of that excerpt on slack, as an image file. You can copy out the excerpt on paper and annotate it, do inline annotations using some document editor, or write comments on cited line numbers separately. We'll discuss your annotations and comments in class.
+Before class, read the entire poem, and try to apply Culler&rsquo;s four parameters to some excerpt of around 10-14 lines. Share an annotated copy of that excerpt on slack, as an image file. You can copy out the excerpt on paper and annotate it, do inline annotations using some document editor, or write comments on cited line numbers separately. We'll discuss your annotations and comments in class.
 </p>
 
 
@@ -171,22 +174,27 @@ Start Essay 2. Post two paragraphs. These can be from the body of the essay or t
 This week involves a mixture of forms, including sonnets and longer poems that involve interesting modes of address.
 </p>
 
-Oct 5 - T.S. Eliot, "The Three Voices of Poetry"; John Ashbery, "Self-Portrait in a Convex Mirror"; Larissa Macfarquhar, "Present Waking Life: Becoming John Ashbery"
+Oct 5 - T.S. Eliot, "The Three Voices of Poetry"; John Ashbery, "Self-Portrait in a Convex Mirror"
 
-<p class="descript">
-Try to identify the "third voice" in Ashbery's poem. After class, write a comment in Slack on a segment of the poem which felt particularly vivid to you and one which felt confusing or vague. Then write about whether or not those points of vividness and vagueness have anything to do with the "three voices" of poetry. The third reading, a New Yorker profile of Ashbery, is optional, but helpful if you're having trouble "getting into" the poem.
-</p>
+<ul class="descript">
+<li>Prior to class, read the Eliot essay.
+<li>Read p. 68-73 of the Ashbery poem.
+<li> Post an excerpt from either text to #three-voices or #ashbery with or without commentary.
+<li> Optional: Larissa Macfarquhar, <a href="https://www.newyorker.com/magazine/2005/11/07/present-waking-life">Present Waking Life: Becoming John Ashbery</a>. A copy is on Canvas in case you hit a paywall. Helpful if you're having trouble with Ashbery.
+<li> You may also want to refer to the <a href="https://en.wikipedia.org/wiki/Parmigianino#/media/File:Parmigianino_Selfportrait.jpg">Parmigianino painting</a> referred to in the poem's title.</ul>
 
 
 Oct 7 - Ashbery cont.
-<p class="descript">
-We will continue discussing the Ashbery poem, applying the terms of Greene, Culler, and Eliot.
-</p>
+<ul class="descript">
+<li> Prior to class, read the rest of "Self Portrait in a Convex Mirror" (73-83).
+<li> Then write a comment in #ashbery on a segment of the poem which felt particularly vivid, present, or clear to you and one which felt vague, abstract, or confusing. Then try to identify who the "speaker" is in those segments. Are you dealing with an instantiation of the first, second or third voice?
+<li> We'll talk about our affective responses to different parts of the poem and how personal deictics and the notion of the there voices might help us understand these responses to the different parts of the poem.
+</ul>
 
-Oct 9 - Selected poems by Terrance Hayes, Ben Lerner
+Oct 9 - Sonnet Sequence
 
 <p class="descript">
-We will practice reading these poems with the terms "ritual," "fiction," and "deixis" in mind—as well as Culler's four parameters (enunciative-apparatus, being-event, re-performance, hyperbolic-risk).
+Options: Shakespeare, Petrarch, Hernández, Lerner, Hayes. We will practice reading sonnet sequences with the terms "ritual," "fiction," and "deixis" in mind—as well as Culler's four parameters (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). Moving from analyzing single poems to sequences of poems.
 </p>
 
 <span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/14, 22:00)</span>
@@ -200,9 +208,9 @@ We will practice reading these poems with the terms "ritual," "fiction," and "de
 What's the difference between imagism and symbolism? How about metaphor and metonymy? How do images arise from or relate to the ritual and fictional dimensions of the lyric?
 </p>
 
-Oct 12 - Barthes, *Camera Lucida* (First part); Selected poems by Stéphane Mallarmé, Jean Cocteau, Tomas Tranströmer, Paul Celan, Mina Loy, Aimé Césaire
+Oct 12 - Barthes, *Camera Lucida* (First part); Selected poems by Paul Celan, Aimé Césaire, Emily Dickinson, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer
 <p class="descript">
-We will practice identifying <i>puncta</i> in class and discuss the validity of identifying poetry with photography.
+Prior to class, read the Barthes. We will practice identifying <i>puncta</i> in class (both in photos and poems) and discuss the validity of identifying poetry with photography.
 </p>
 
 {{< hint info >}}
@@ -210,13 +218,9 @@ No classes on October 14.
 {{< /hint >}}
 
 Oct 16 -  José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)"
-
-
-{{< details "Discussion Board" close >}}
 <p class="descript">
-Comment on a particular word or phrase that might be a "punctum" for you—choose any of this week's readings, or one of the previously discussed poems. Try to free associate (you can include personal associations) and don't worry too much about adhering to essayistic conventions. By now, you may have a pretty good idea of what poem(s) you will write about for the final paper, so it's best to write about
+Read the poem before class. We'll discuss images that are striking or interesting and why this is the case.
 </p>
-{{< /details >}}
 
 
 ### Week 8: Oct 19, 21, 23 – Georgic
@@ -242,6 +246,11 @@ Preparation: TBA
 
 <span class="yellow">Essay 3 “Punctum” (Due 10/30, 22:00)</span>
 
+{{< details "Discussion Board" close >}}
+<p class="descript">
+Comment on a particular word or phrase that might be a "punctum" for you—choose any of this week's readings, or one of the previously discussed poems. Try to free associate (you can include personal associations) and don't worry too much about adhering to essayistic conventions. By now, you may have a pretty good idea of what poem(s) you will write about for the final paper, so it's best to write about that poem.
+</p>
+{{< /details >}}
 
 ### Week 9: Oct 26, 28, 30 – Attention
 

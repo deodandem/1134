@@ -93,13 +93,15 @@ ul.pagination {
   padding-bottom: .2em;
 }
 
-.green {
-  background-color: rgb(214,230,245);
-  font-weight: normal;
-  padding-left:.5em;
-  padding-right:.5em;
-  padding-top: .2em;
-  padding-bottom: .2em;
+.key {
+  background-color: rgb(250,200,200);
+  padding-left:.2em;
+  font-family: Monaco;
+  font-size:90%;
+  padding-right:.2em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  border-radius:2px;
 }
 
 
