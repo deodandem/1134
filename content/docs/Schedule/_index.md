@@ -134,28 +134,28 @@ Before class, take a look at the sonnets in the reader. Choose a sonnet to share
 
 9/23: Sonnet reader (cont.)
 <p class="descript">
-Read the given page range from Roland Greene's <i>Post-Petrarchism</i> prior to class. Copy a quote of interest to the #post-petrarchism channel. We will see how we can apply the terms <span class="key">ritual</span> and <span class="key">fiction</span> to the sonnets you chose for Monday.
+Please post to #sonnet prior to class if you haven't already. If you have, post another sonnet. We'll continue talking about sonnets today.
 </p>
 
 
 9/25: Sonnet reader (cont.) *Post-Petrarchism,* Introduction (p. 1-13)
 <p class="descript">
-Prior to class, focus on finishing Essay 1. Read the given page range of <i>Post-Petrarchism</i> for next class. We will start reading some of it together in class and see how the term <span class="key">deixis</span> pertains to some of the sonnets in the reader.
+Prior to class, focus on finishing Essay 1. When you're done, read the given page range of <i>Post-Petrarchism</i> for Monday. We will start reading some of it together in class and see how the terms <span class="key">ritual</span> and <span class="key">fiction</span> pertains to some of the sonnets in the reader.
 
-### Week 5: Sept 28, 30, Oct 2 – Sonnet, Ode
+### Week 5: Sept 28, 30, Oct 2 – Sonnet, cont.
 
-9/28: Petrarch, *Post-Petrarchism,* Chapter 1 (p. 22-42)
+9/28: Petrarch
 <p class="descript">
 Copy a quote of interest to the #post-petrarchism channel, as well as a second sonnet which you think uses <span class="key">deixis</span> in an interesting manner. We will see how we can apply deixis to some Petrarch sonnets, and others that you may have posted.
 </p>
 
-9/30: Jonathan Culler, *Theory of the Lyric*, Chapter 1
+9/30: *Post-Petrarchism,* Chapter 1 (p. 22-42)
 
 <p class="descript">
 Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem) discussed in previous weeks; write a sentence or two in #sonnet on how it involves the <span class="key">four parameters</span>. We will discuss what you have noted on the poems you have chosen, and discuss Culler's analyses as well.
 </p>
 
-10/2: Marianne Moore, "An Octopus"
+10/2: Jonathan Culler, *Theory of the Lyric*, Chapter 1
 <p class="descript">
 Before class, read the entire poem, and try to apply Culler&rsquo;s four parameters to some excerpt of around 10-14 lines. Share an annotated copy of that excerpt on slack, as an image file. You can copy out the excerpt on paper and annotate it, do inline annotations using some document editor, or write comments on cited line numbers separately. We'll discuss your annotations and comments in class.
 </p>
@@ -168,7 +168,7 @@ Start Essay 2. Post two paragraphs. These can be from the body of the essay or t
 {{< /details >}}
 </p>
 
-### Week 6: Oct 5, Oct 7, Oct 9 – Address
+### Week 6: Oct 5, Oct 7, Oct 9 – Ode
 
 <p class="descript">
 This week involves a mixture of forms, including sonnets and longer poems that involve interesting modes of address.
@@ -191,13 +191,13 @@ Oct 7 - Ashbery cont.
 <li> We'll talk about our affective responses to different parts of the poem and how personal deictics and the notion of the there voices might help us understand these responses to the different parts of the poem.
 </ul>
 
-Oct 9 - Sonnet Sequence
+Oct 9 - Marianne Moore, "An Octopus"
 
 <p class="descript">
 Options: Shakespeare, Petrarch, Hernández, Lerner, Hayes. We will practice reading sonnet sequences with the terms "ritual," "fiction," and "deixis" in mind—as well as Culler's four parameters (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). Moving from analyzing single poems to sequences of poems.
 </p>
 
-<span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/14, 22:00)</span>
+<span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/16, 22:00)</span>
 <p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 26.</p>
 
 ### Week 7: Oct 12, 16 – Image
