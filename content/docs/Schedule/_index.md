@@ -132,19 +132,19 @@ What do sonnets do? What subjects do they gravitate toward? What makes this form
 Before class, take a look at the sonnets in the reader. Choose a sonnet to share in the #sonnet slack channel. You may give general impressions and write about its meter, rhyme, or line groupings. In class we'll talk about the discussion board posts and upcoming essay, and then talk about some of your chosen sonnets.
 </p>
 
-9/23: Sonnet reader (cont.); *Post-Petrarchism,* Introduction (p. 1-13)
+9/23: Sonnet reader (cont.)
 <p class="descript">
 Read the given page range from Roland Greene's <i>Post-Petrarchism</i> prior to class. Copy a quote of interest to the #post-petrarchism channel. We will see how we can apply the terms <span class="key">ritual</span> and <span class="key">fiction</span> to the sonnets you chose for Monday.
 </p>
 
 
-9/25: Sonnet reader (cont.) *Post-Petrarchism,* Introduction (p. 22-42)
+9/25: Sonnet reader (cont.) *Post-Petrarchism,* Introduction (p. 1-13)
 <p class="descript">
 Prior to class, focus on finishing Essay 1. Read the given page range of <i>Post-Petrarchism</i> for next class. We will start reading some of it together in class and see how the term <span class="key">deixis</span> pertains to some of the sonnets in the reader.
 
 ### Week 5: Sept 28, 30, Oct 2 – Sonnet, Ode
 
-9/28: Petrarch, *Post-Petrarchism,* Introduction (p. 22-42)
+9/28: Petrarch, *Post-Petrarchism,* Chapter 1 (p. 22-42)
 <p class="descript">
 Copy a quote of interest to the #post-petrarchism channel, as well as a second sonnet which you think uses <span class="key">deixis</span> in an interesting manner. We will see how we can apply deixis to some Petrarch sonnets, and others that you may have posted.
 </p>
