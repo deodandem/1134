@@ -101,7 +101,7 @@ Prior to class, keep a list of favorite lines from Whitman, adding to the #whitm
 </ul>
 </p>
 
-{{< details "Discussion Board" open >}}
+{{< details "Discussion Board" close >}}
 <p class="descript">
 Pick a poem to write about for Essay 1 (Links to an external site.). I suggest you choose any of the poems we've read so far, especially one you've written a comment on, or any sonnet* from the Sonnet Reader (117-sonnets.pdf). As with all future assignments, you're free to find something else on your own.</p>
 
@@ -134,13 +134,13 @@ Before class, take a look at the sonnets in the reader. Choose a sonnet to share
 
 9/23: Sonnet reader (cont.)
 <p class="descript">
-Please post to #sonnet prior to class. If you have already posted a sonnet, post another one. We'll continue talking about sonnets today, identifying common topics, trends in historical development, variations in form (rhyme, cross-linguistic meter, length, stanza structure), sonnet sequences, and details in particular poems.
+Please post to #sonnet prior to class. If you have already posted a sonnet, post another one. We'll continue talking about sonnets today, identifying common topics, trends in historical development, and variations in form (rhyme, cross-linguistic meter, length, stanza structure). We'll also do some reading exercises with the short essays from <i>Art of the Sonnet</i> to practice extracting key ideas quickly from secondary texts.
 </p>
 
 
-9/25: Sonnet reader (cont.) *Post-Petrarchism,* Introduction (p. 1-13)
+9/25: Sonnet reader (cont.) *Art of the Sonnet,* Introduction (p. 5-25)
 <p class="descript">
-Prior to class, focus on finishing Essay 1. When you're done, read the given page range of <i>Post-Petrarchism</i> for Monday. We will start reading some of it together in class and see how the terms <span class="key">ritual</span> and <span class="key">fiction</span> pertains to some of the sonnets in the reader.
+Prior to class, focus on finishing Essay 1. If you have time, read the introduction of <i>Art of the Sonnet</i>. This provides an important historical overview of the sonnet form. When you're done, read the given page range of <i>Post-Petrarchism</i> for Monday. We will sart reading excerpts of both texts in class and discuss some of their differences in approach.
 
 ### Week 5: Sept 28, 30, Oct 2 – Sonnet
 
@@ -227,7 +227,7 @@ Read the poem before class. We'll discuss images that are striking or interestin
 This week involves poems of <q>instruction</q> or <q>information.</q> What makes a modern "Georgic"? How do we analyze an entire book?
 </p>
 
-Oct 19 -  Virgil, Georgics, Book I; Hass, "Georgic"
+Oct 19 -  Virgil, Georgics, Book IV; Hass, "Georgic"
 <p class="descript">
 Preparation: TBA
 </p>
@@ -256,11 +256,11 @@ Comment on a particular word or phrase that might be a "punctum" for you—choos
 We will talk about poetry's "value" but also how poems are valued, what kinds of expectation, forms of attention, modes of engagement allow for the appreciation of poetry.
 </p>
 
-Oct 26 - Emerson, "The Poet"
+Oct 26 - Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true),* "Introduction"
 
-Oct 28 - Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true),* "Introduction"
+Oct 28 - Ezra Pound, selections from *ABCs of Reading*, *Personae*
 
-Oct 30 - Ezra Pound, selections from *ABCs of Reading*, *Personae*
+Oct 30 -
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
@@ -269,10 +269,10 @@ Write about a poem that we've read so far that you don't particularly like. What
 {{< /details >}}
 
 
-### Week 10: Nov 2, 4, 6 — Value
+### Week 10: Nov 2, 4, 6 — Who are poets?
 
 
-Nov 2 - Frank Lentricchia, from *The Modernist Quartet*
+Nov 2 - Emerson, "The Poet"
 
 Nov 4 - Ben Lerner, *The Hatred of Poetry*
 
@@ -285,13 +285,13 @@ What do you plan on writing about for your final essay, and how do you plan on g
 {{< /details >}}
 
 
-### Week 11: Nov 9, 11, 13 — The Lyric "I"
+### Week 11: Nov 9, 11, 13 — Who are poets?
 
-Nov 9 - Allen Grossman, *Summa Lyrica*
+Nov 9 - Frank Lentricchia, from *The Modernist Quartet*
 
-Nov 11 - Reginald Shepherd
+Nov 11 - Emily Dickinson, Susan Howe, *My Emily Dickinson*
 
-Nov 13 - Emily Dickinson
+Nov 13 - Allen Grossman, *Summa Lyrica*, Reginald Shepherd
 
 <span class="yellow">Essay 4 "Final" (Draft) (Due 11/16, 22:00)</span>
 
