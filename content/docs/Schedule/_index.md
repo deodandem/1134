@@ -215,31 +215,31 @@ Prior to class, read the Barthes. We will practice identifying <i>puncta</i> in 
 No classes on October 14.
 {{< /hint >}}
 
-Oct 16 -  José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)"
+Oct 16 -  José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences"; "Symbolism" (PEPP)
 <p class="descript">
 Read the poem before class. We'll discuss images that are striking or interesting and why this is the case.
 </p>
 
 
-### Week 8: Oct 19, 21, 23 – Georgic
+### Week 8: Oct 19, 21, 23 – Image, Georgic
 
 <p class="descript">
 This week involves poems of <q>instruction</q> or <q>information.</q> What makes a modern "Georgic"? How do we analyze an entire book?
 </p>
 
-Oct 19 -  Virgil, Georgics, Book IV; Hass, "Georgic"
+Oct 19 -  "Muerte de Narciso"; Bök, *The Xenotext, Book 1*
+<p class="descript">
+We will continue to discuss "Muerte de Narciso" and discuss visualization methods, including the poetic "connectome," the poetic compounds in Bök's <i>The Xenotext.</i>
+</p>
+
+Oct 21 - Virgil, Georgics (Book IV); Hass, "Georgic"
 <p class="descript">
 Preparation: TBA
 </p>
 
-Oct 21 - Christopher Dewdney, *The Natural History* (1-2)
+Oct 23 - Christopher Dewdney, *The Natural History* (1-2)
 <p class="descript">
-Preparation: TBA
-</p>
-
-Oct 23 - Christopher Dewdney, *The Natural History* (3-4)
-<p class="descript">
-Preparation: TBA
+We will discuss how this fits into the concept of the Georgic developed by Virgil, Hass and Bök, and how it relates to the previous week's discussion of poetic images.
 </p>
 
 <span class="yellow">Essay 3 “Punctum” (Due 10/30, 22:00)</span>
@@ -272,11 +272,11 @@ Write about a poem that we've read so far that you don't particularly like. What
 ### Week 10: Nov 2, 4, 6 — Who are poets?
 
 
-Nov 2 - Emerson, "The Poet"
+Nov 2 - Emerson, "The Poet," Allen Grossman, *Summa Lyrica*
 
-Nov 4 - Ben Lerner, *The Hatred of Poetry*
+Nov 4 - Reginald Shepherd, "To Make Me Who I Am"
 
-Nov 6 - Alexander Pope, "Essay on Criticism"
+Nov 6 -  Ben Lerner, *The Hatred of Poetry*
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
@@ -291,7 +291,7 @@ Nov 9 - Frank Lentricchia, from *The Modernist Quartet*
 
 Nov 11 - Emily Dickinson, Susan Howe, *My Emily Dickinson*
 
-Nov 13 - Allen Grossman, *Summa Lyrica*, Reginald Shepherd
+Nov 13 -
 
 <span class="yellow">Essay 4 "Final" (Draft) (Due 11/16, 22:00)</span>
 
