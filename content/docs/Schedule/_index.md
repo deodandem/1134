@@ -149,13 +149,13 @@ Prior to class, focus on finishing Essay 1. If you have time, read the introduct
 Prior to class, make a note in #post-petrarchism on the <span class="key">ritual</span> and <span class="key">fiction</span> dimensions of a sonnet from the reader. We will see how we can apply these concepts to various poems and how our previous discussions of line and meter relate to these two terms.
 </p>
 
-9/30: Sonnet reader (cont.), *Post-Petrarchism,* Chapter 1 (p. 22-42)
+9/30: Sonnet reader (cont.), *Post-Petrarchism,* Chapter 1 (p. 22-27)
 
 <p class="descript">
 Copy a quote of interest to the #post-petrarchism channel, as well as a second sonnet which you think uses <span class="key">deixis</span> in an interesting manner. We will see how we can apply deixis to some Petrarch sonnets, and others that you may have posted. Our focus is moving beyond the individual poem to poems in sequences or groups.
 </p>
 
-10/2: Sonnet reader (cont.), *Theory of the Lyric*, Chapter 1
+10/2: Sonnet reader (cont.), *Theory of the Lyric*, Chapter 1 (p. 10-38)
 <p class="descript">
 Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem) discussed in previous weeks; write a sentence or two in #sonnet on how it involves the <span class="key">four parameters</span> (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). We will discuss what you have noted on the poems you have chosen, and discuss Culler's analyses as well.
 </p>
