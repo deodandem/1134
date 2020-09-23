@@ -140,7 +140,7 @@ Please post to #sonnet prior to class. If you have already posted a sonnet, post
 
 9/25: Sonnet reader (cont.) *Art of the Sonnet,* Introduction (p. 5-25)
 <p class="descript">
-Prior to class, focus on finishing Essay 1. If you have time, read the introduction of <i>Art of the Sonnet</i>. This provides an important historical overview of the sonnet form. When you're done, read the given page range of <i>Post-Petrarchism</i> for Monday. We will sart reading excerpts of both texts in class and discuss some of their differences in approach.
+Prior to class, focus on finishing Essay 1. If you have time, read the introduction of <i>Art of the Sonnet</i> and peruse some of the short essays on individual sonnets. When you're done, read the given page range of <i>Post-Petrarchism</i> for Monday. In class, we will try to consolidate some of the observations we made in class on Wednesday and do some more reading exercises.
 
 ### Week 5: Sept 28, 30, Oct 2 – Sonnet
 
@@ -291,7 +291,7 @@ Nov 9 - Frank Lentricchia, from *The Modernist Quartet*
 
 Nov 11 - Emily Dickinson, Susan Howe, *My Emily Dickinson*
 
-Nov 13 -
+Nov 13 - Rilke, "Letters to a Young Poet"
 
 <span class="yellow">Essay 4 "Final" (Draft) (Due 11/16, 22:00)</span>
 
