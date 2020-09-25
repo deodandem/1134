@@ -105,6 +105,16 @@ ul.pagination {
 }
 
 
+.slack {
+  padding-left:.2em;
+  background-color: rgb(230,250,200);
+  font-family: Charter;
+  padding-right:.2em;
+  font-size:100%;
+  border-radius:2px;
+}
+
+
 .container {
   max-width: $container-max-width;
   margin: 0 auto;

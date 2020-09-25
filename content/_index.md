@@ -38,8 +38,8 @@ Writing is revising, and the best revisions arise from collaborative efforts. Yo
 There will be five essays, four will be given a letter grade.
 
 * Essay 0 – "First Day" – 1-2 pages (September 7)
-* Essay 1 – "Line" – 3-4 pages (September 25)
-* Essay 2 – "Ritual vs. Fiction" – 4-5 pages (October 16)
+* Essay 1 – "Line" – 3-5 pages (September 25)
+* Essay 2 – "Ritual vs. Fiction" – 4-6 pages (October 16)
 * Essay 3 – "Punctum" – 3-4 pages (October 30)
 * Essay 4 – "Final" – 8-12 pages (December 17)
 
@@ -62,8 +62,8 @@ Tablets are highly recommended for marking up texts and tend to be more conduciv
 The minimum expected grade, B- will be given to those who
 <ol style="margin-left:2em">
 1. Miss no more than three classes*<br>
-2. Participate in all class activities<br>
-3. Complete all assignments on time**
+2. Participate in all class activities**<br>
+3. Complete all assignments on time***
 </ol>
 
 Grades above this depend on quality of essay assignments. Essays 1-3 count for 20% each, Essay 4 counts for 40%. Essay 0 is purely diagnostic and not graded. See individual rubrics for each essay as they are released for exact grading criteria.
@@ -72,7 +72,9 @@ Numerical scale: 98-100% (A+), 93-97% (A), 90-92% (A-), 88-89% (Β+), 83-87% (B)
 
 *&nbsp;Being more than 15 minutes late to class counts as an absence. Being more than 5 minutes late three times counts as an absence. Absences beyond three will not negatively affect your grade if they are due to a medical emergency or quarantine mandate.
 
-** Essays must respond to the prompt to receive credit. I cannot give credit to essays turned in more than 24 hours late, with the exception of Essay 4, for which you may request a personalized due date. If you are experiencing significant mental health issues and need more lenient deadlines, contact me and we'll work something out. Otherwise, adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations, so it is important to start following them now.
+** You can miss up to three slack discussion posts, you must complete all Canvas discussion board posts. Slack posts should be in by 22:00 prior to class; Canvas discussion board posts should also be timely but you may post them as much as 24 hours late.
+
+*** Essays must respond to the prompt to receive credit. I cannot give credit to essays turned in more than 24 hours late, with the exception of Essay 4, for which you may request a personalized due date. If you are experiencing significant mental health issues and need more lenient deadlines, contact me and we'll work something out. Otherwise, adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations, so it is important to start following them now.
 
 ## Zoom
 

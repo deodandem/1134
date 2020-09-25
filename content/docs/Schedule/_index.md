@@ -77,18 +77,20 @@ Write a description of an everyday object or phenomenon that you've had direct e
 
 {{< /expand >}}
 
-### Week 3: Sept 14, 16, 18 – Line
+### Week 3: Sept 14, 16, 18 – Line and Meter
+
+{{< expand "Primary structures ↔ Meaning? " >}}
 
 9/14: Robert Hass: Introduction, Chapters 1-3, from *A Little Book on Form*
 <ul class="descript">
-<li>Prior to class, put in the #line slack channel a favorite quote from Hass or favorite quoted poem from the reading. Briefly comment on why you chose it, or not (in which case I will probably call on you in class to comment further).
+<li>Prior to class, put in the <span class="slack">#line</span> slack channel a favorite quote from Hass or favorite quoted poem from the reading. Briefly comment on why you chose it, or not (in which case I will probably call on you in class to comment further).
 <li>Keep a list of favorite lines mentioned in these chapters, in previous or future readings, and in poems you may have independently found. Try to figure out why you like a given line, couplet, or tercet of poetry. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?
 </ul>
 
 9/16: Whitman, "Song of Myself"; Hass: "A Note on Stress," "How to Scan a Poem"
 
 <p class="descript">
-Prior to class, keep a list of favorite lines from Whitman, adding to the #whitman slack channel one excerpt that you are particularly drawn to, with or without commentary by Tuesday at 22:00. You might want to scan it and discuss what you find. Also put one excerpt from the Hass reading in the #meter channel by Tuesday night.
+Prior to class, keep a list of favorite lines from Whitman, adding to the <span class="slack">#whitman</span> channel one excerpt that you are particularly drawn to, with or without commentary by Tuesday at 22:00. You might want to scan it and discuss what you find. Also put one excerpt from the Hass reading in the <span class="slack">#meter</span> channel by Tuesday night.
 </p>
 
 9/18: Whitman cont., A.R. Ammons: Corsons Inlet; Hass: "How Free Verse Works"
@@ -96,12 +98,12 @@ Prior to class, keep a list of favorite lines from Whitman, adding to the #whitm
 <p class="descript">
 
 <ul class="descript">
-<li> Prior to class, make a post in the #freeverse channel. Comment on how <span class="key">line</span> groupings and/or <span class="key">meter</span> function in some excerpt of A.R. Ammons's "Corsons Inlet" or Robert Hass's "Meditation at Lagunitas" relate to your more immediate reaction to the poem's expression. Post by Thursday @ 22:00. Earlier is better!
+<li> Prior to class, make a post in the <span class="slack">#freeverse</span> channel. Comment on how <span class="key">line</span> groupings and/or <span class="key">meter</span> function in some excerpt of A.R. Ammons's "Corsons Inlet" or Robert Hass's "Meditation at Lagunitas" relate to your more immediate reaction to the poem's expression. Post by Thursday @ 22:00. Earlier is better!
 <li> After class, start looking at the Sonnet reader and begin drafting your discussion board post, which is essentially a draft or proposal for Essay 1, "Line."
 </ul>
 </p>
 
-{{< details "Discussion Board" close >}}
+{{< details "Discussion Board" open >}}
 <p class="descript">
 Pick a poem to write about for Essay 1 (Links to an external site.). I suggest you choose any of the poems we've read so far, especially one you've written a comment on, or any sonnet* from the Sonnet Reader (117-sonnets.pdf). As with all future assignments, you're free to find something else on your own.</p>
 
@@ -118,46 +120,48 @@ First write about what you notice, with regards to the meaning or expressive eff
 
 {{< /details >}}
 
+{{< /expand >}}
+
 <span class="yellow">Essay 1 "Line" (Due 9/25, 22:00)</span>
 <p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 7.</p>
 
 ### Week 4: Sept 21, 23, 25 – Sonnet
 
 <p class="descript">
-What do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile? We will take an &ldquo;inductive&rdquo; approach to the form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. A small "reader" has been uploaded on Canvas (117-sonnets.pdf). We will also engage with the terms <span class="key">ritual</span>, <span class="key">fiction</span>, and <span class="key">deixis</span> as they pertain to sonnets and other poems.
+What do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile? We will take an &ldquo;inductive&rdquo; approach to the form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. A small "reader" has been uploaded on Canvas ( > Files > Sonnet > 129-sonnets.pdf ).
 </p>
 
 9/21: Essay 1 Discussion, Sonnet reader
 <p class="descript">
-Before class, take a look at the sonnets in the reader. Choose a sonnet to share in the #sonnet slack channel. You may give general impressions and write about its meter, rhyme, or line groupings. In class we'll talk about the discussion board posts and upcoming essay, and then talk about some of your chosen sonnets.
+Before class, take a look at the sonnets in the reader. Choose a sonnet to share in the <span class="slack">#sonnet</span> channel. You may give general impressions and write about its meter, rhyme, or line groupings. In class we'll talk about the discussion board posts and upcoming essay, and then talk about some of your chosen sonnets.
 </p>
 
 9/23: Sonnet reader (cont.)
 <p class="descript">
-Please post to #sonnet prior to class. If you have already posted a sonnet, post another one. We'll continue talking about sonnets today, identifying common topics, trends in historical development, and variations in form (rhyme, cross-linguistic meter, length, stanza structure). We'll also do some reading exercises with the short essays from <i>Art of the Sonnet</i> to practice extracting key ideas quickly from secondary texts.
+Please post to <span class="slack">#sonnet</span> prior to class. If you have already posted a sonnet, post another one. We'll continue talking about sonnets today, identifying common topics, trends in historical development, and variations in form (rhyme, cross-linguistic meter, length, stanza structure). We'll also do some reading exercises with the short essays from <i>Art of the Sonnet</i> to practice extracting key ideas quickly from secondary texts.
 </p>
 
 
 9/25: Sonnet reader (cont.) *Art of the Sonnet,* Introduction (p. 5-25)
 <p class="descript">
-Prior to class, focus on finishing Essay 1. If you have time, read the introduction of <i>Art of the Sonnet</i> and peruse some of the short essays on individual sonnets. When you're done, read the given page range of <i>Post-Petrarchism</i> for Monday. In class, we will try to consolidate some of the observations we made in class on Wednesday and do some more reading exercises.
+Prior to class, focus on finishing Essay 1. If you have time, read the introduction of <i>Art of the Sonnet</i> and peruse some of the short essays on individual sonnets. When you're done, read the given page range of <i>Post-Petrarchism</i> for Monday. In class, we will try to consolidate some of the observations we made in class on Wednesday with a lecture on the Early Modern sonnet and the function of the poetic <span class="key">conceit</span>.
 
 ### Week 5: Sept 28, 30, Oct 2 – Sonnet
 
 9/28: Sonnet reader (cont.) *Post-Petrarchism,* Introduction (p. 1-13)
 <p class="descript">
-Prior to class, make a note in #post-petrarchism on the <span class="key">ritual</span> and <span class="key">fiction</span> dimensions of a sonnet from the reader. We will see how we can apply these concepts to various poems and how our previous discussions of line and meter relate to these two terms.
+Prior to class, read and take your own notes on <span class="key">ritual</span> and <span class="key">fiction</span> dimensions of a sonnet from the reader. We will discuss sonnets from the 19th century onward see how we can apply these concepts to various poems. We will also develop an understanding of how our previous discussions of line, meter, and conceit, relate to the two new terms.
 </p>
 
 9/30: Sonnet reader (cont.), *Post-Petrarchism,* Chapter 1 (p. 22-27)
 
 <p class="descript">
-Copy a quote of interest to the #post-petrarchism channel, as well as a second sonnet which you think uses <span class="key">deixis</span> in an interesting manner. We will see how we can apply deixis to some Petrarch sonnets, and others that you may have posted. Our focus is moving beyond the individual poem to poems in sequences or groups.
+Choose a sonnet and think about how it uses <span class="key">deixis</span> in an interesting manner. Bring your thoughts to class. We will see how we can apply deixis to various sonnets, and our focus will move beyond the individual poem to poems in sequences or groups.
 </p>
 
 10/2: Sonnet reader (cont.), *Theory of the Lyric*, Chapter 1 (p. 10-38)
 <p class="descript">
-Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem) discussed in previous weeks; write a sentence or two in #sonnet on how it involves the <span class="key">four parameters</span> (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). We will discuss what you have noted on the poems you have chosen, and discuss Culler's analyses as well.
+Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem); write a sentence or two in <span class="slack">#post-petrarchism</span> on how it involves <span class="key">deixis</span>, <span class="key">ritual and fiction</span>, and/or the <span class="key">four parameters</span> (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). We will discuss what you have noted in class and reflect on the styles of argumentation/theorization that we've been exposed to thus far.
 </p>
 
 ### Week 6: Oct 5, Oct 7, Oct 9 – Ode
