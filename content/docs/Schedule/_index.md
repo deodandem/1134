@@ -79,7 +79,7 @@ Write a description of an everyday object or phenomenon that you've had direct e
 
 ### Week 3: Sept 14, 16, 18 – Line and Meter
 
-{{< expand "Primary structures ↔ Meaning? " >}}
+{{< expand "Meaning ↔ Primary structures? " >}}
 
 9/14: Robert Hass: Introduction, Chapters 1-3, from *A Little Book on Form*
 <ul class="descript">
