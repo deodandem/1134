@@ -264,19 +264,14 @@ Oct 26 - Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.l
 
 Oct 28 - Ezra Pound, selections from *ABCs of Reading*, *Personae*
 
-Oct 30 -
+Oct 30 - Allen Grossman, *Summa Lyrica*
 
-{{< details "Discussion Board" close >}}
-<p class="descript">
-Write about a poem that we've read so far that you don't particularly like. What do you wish it did instead? What kind of attention does it require of you? What can you figure out about its means of production and circulation?
-</p>
-{{< /details >}}
 
 
 ### Week 10: Nov 2, 4, 6 — Who are poets?
 
 
-Nov 2 - Emerson, "The Poet," Allen Grossman, *Summa Lyrica*
+Nov 2 - Emerson, "The Poet,"
 
 Nov 4 - Reginald Shepherd, "To Make Me Who I Am"
 
@@ -284,7 +279,7 @@ Nov 6 -  Ben Lerner, *The Hatred of Poetry*
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
-What do you plan on writing about for your final essay, and how do you plan on going about it? Provide a quote or two from the poem you want to write about, or propose some kind of experiment, methodology, or term that you'd like to use.
+What do you plan on writing about for your final essay, and how do you plan on going about it? Make a list of sources you want to use and how you plan on using them.
 </p>
 {{< /details >}}
 
@@ -330,15 +325,15 @@ These are simply suggestions. Your presentation may be a blend of these options 
 
 {{< /details >}}
 
-Nov 30: One, Two
+Nov 30: One, Two, Three
 
-Dec 2: Three, Four
+Dec 2: Four, Five
 
-Dec 4: Five, Six
+Dec 4: Six, Seven
 
 ### Week 15: Dec 7, 9, 11 — Presentations
 
-Dec 7: Seven, Eight, Nine
+Dec 7: Eight, Nine
 
 Dec 9: Ten, Eleven
 
