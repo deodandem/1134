@@ -201,7 +201,7 @@ We'll consider how this poem works alongside the various concepts we've encounte
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
-Start Essay 2. Post two paragraphs. These can be from the body of the essay or the beginning. Due Sunday, 22:00.
+Start Essay 2; post two paragraphs. These can be from the body of the essay or the introduction. I recommend including a quotation from the theorist you want to cite. Please do this by 21:00 on Sunday so I have time to look over them before class.
 </p>
 {{< /details >}}
 
@@ -222,39 +222,34 @@ What's the difference between imagism and symbolism? How about metaphor and meto
 
 Oct 12 - Barthes, *Camera Lucida* (First part); Selected poems by Paul Celan, Aimé Césaire, Emily Dickinson, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer
 <p class="descript">
-Prior to class, read the Barthes. We will practice identifying <i>puncta</i> in class (both in photos and poems) and discuss the validity of identifying poetry with photography.
+We will read some of Barthes together in class, and discuss the validity of identifying poetry with photography. We will also practice identifying <i>puncta</i> in both photos and poems. Try to read half of Barthes (p. 18-30) by today or Tuesday and the rest (p. 31-60) by Friday.
 </p>
 
 {{< hint info >}}
 No classes on October 14.
 {{< /hint >}}
 
-Oct 16 -  José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences"; "Symbolism" (PEPP)
+
+Oct 16 -  Selected poems by Paul Celan, Aimé Césaire, Emily Dickinson, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer, César Vallejo
 <p class="descript">
-Read the poem before class. We'll discuss images that are striking or interesting and why this is the case.
+Finish reading the first half of Barthes. Review the poems before class.<br>We'll discuss images that are striking or interesting and why this is the case.
 </p>
 
 
-### Week 8: Oct 19, 21, 23 – Image, Georgic
+### Week 8: Oct 19, 21, 23 – Image (cont.)
 
+
+Oct 19 -  José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)"
 <p class="descript">
-This week involves poems of <q>instruction</q> or <q>information.</q> What makes a modern "Georgic"? How do we analyze an entire book?
+We will discuss "Muerte de Narciso" and the nature of "symbols"
 </p>
 
-Oct 19 -  "Muerte de Narciso"; Bök, *The Xenotext, Book 1*
+Oct 21 - Lezama Lima, "Confluences"; "Symbolism" (PEPP)
 <p class="descript">
-We will continue to discuss "Muerte de Narciso" and discuss visualization methods, including the poetic "connectome," the poetic compounds in Bök's <i>The Xenotext.</i>
+We will continue to discuss the poem, but with greater focus on the essay.
 </p>
 
-Oct 21 - Virgil, Georgics (Book IV); Hass, "Georgic"
-<p class="descript">
-Preparation: TBA
-</p>
-
-Oct 23 - Christopher Dewdney, *The Natural History* (1-2)
-<p class="descript">
-We will discuss how this fits into the concept of the Georgic developed by Virgil, Hass and Bök, and how it relates to the previous week's discussion of poetic images.
-</p>
+Oct 23 - Will Alexander
 
 <span class="yellow">Essay 3 “Punctum” (Due 10/30, 22:00)</span>
 
@@ -264,28 +259,37 @@ Comment on a particular word or phrase that might be a "punctum" for you—choos
 </p>
 {{< /details >}}
 
-### Week 9: Oct 26, 28, 30 – Attention
+### Week 9: Oct 26, 28, 30 – Georgic
 
 <p class="descript">
-We will talk about poetry's "value" but also how poems are valued, what kinds of expectation, forms of attention, modes of engagement allow for the appreciation of poetry.
+This week involves poems of <q>instruction</q> or <q>information.</q> What makes a modern "Georgic"? How do we analyze an entire book?
 </p>
 
-Oct 26 - Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true),* "Introduction"
-
-Oct 28 - Ezra Pound, selections from *ABCs of Reading*, *Personae*
-
-Oct 30 - Allen Grossman, *Summa Lyrica*
-
+Oct 26 - Virgil, Georgics (Book IV); Hass, "Georgic"
+<p class="descript">
+Preparation: TBA
+</p>
 
 
-### Week 10: Nov 2, 4, 6 — Who are poets?
+Oct 28 - Christopher Dewdney, *The Natural History* (1)
+<p class="descript">
+Preparation: TBA
+</p>
+
+Oct 30 -
+<p class="descript">
+Preparation: TBA
+</p>
 
 
-Nov 2 - Emerson, "The Poet,"
+### Week 10: Nov 2, 4, 6 — Who are Poets?
 
-Nov 4 - Reginald Shepherd, "To Make Me Who I Am"
+Nov 2 - Rilke, "Letters to a Young Poet"
 
-Nov 6 -  Ben Lerner, *The Hatred of Poetry*
+Nov 4 - Ezra Pound, selections from *ABCs of Reading*, *Personae*
+
+Nov 6 - Reginald Shepherd, "To Make Me Who I Am"
+
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
@@ -294,13 +298,22 @@ What do you plan on writing about for your final essay, and how do you plan on g
 {{< /details >}}
 
 
-### Week 11: Nov 9, 11, 13 — Who are poets?
+### Week 11: Nov 9, 11, 13 — Poetic Value
 
-Nov 9 - Frank Lentricchia, from *The Modernist Quartet*
+<p class="descript">
+We will talk about poetry's "value" and how poems are valued: what kinds of expectation, forms of attention, modes of engagement allow for the appreciation of poetry.
+</p>
 
-Nov 11 - Emily Dickinson, Susan Howe, *My Emily Dickinson*
 
-Nov 13 - Rilke, "Letters to a Young Poet"
+Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true),* "Introduction"
+
+
+Nov 9 - Emerson, "The Poet," Allen Grossman, *Summa Lyrica*
+
+Nov 11 - Ben Lerner, *The Hatred of Poetry*
+
+Nov 13 - Ben Lerner, *The Hatred of Poetry* (cont.)
+
 
 <span class="yellow">Essay 4 "Final" (Draft) (Due 11/16, 22:00)</span>
 
