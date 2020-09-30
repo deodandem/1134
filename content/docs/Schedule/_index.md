@@ -128,8 +128,10 @@ First write about what you notice, with regards to the meaning or expressive eff
 ### Week 4: Sept 21, 23, 25 – Sonnet
 
 <p class="descript">
-What do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile? We will take an &ldquo;inductive&rdquo; approach to the form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. A small "reader" has been uploaded on Canvas ( > Files > Sonnet > 129-sonnets.pdf ).
+We will take an &ldquo;inductive&rdquo; approach to the sonnet form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. Given these poems, we might ask: what do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile?  A small "reader" has been uploaded on Canvas ( > Files > Sonnet > 129-sonnets.pdf ).
 </p>
+
+{{< expand "Why the sonnet?" >}}
 
 9/21: Essay 1 Discussion, Sonnet reader
 <p class="descript">
@@ -146,11 +148,15 @@ Please post to <span class="slack">#sonnet</span> prior to class. If you have al
 <p class="descript">
 Prior to class, focus on finishing Essay 1. If you have time, read the introduction of <i>Art of the Sonnet</i> and peruse some of the short essays on individual sonnets. When you're done, read the given page range of <i>Post-Petrarchism</i> for Monday. In class, we will try to consolidate some of the observations we made in class on Wednesday with a lecture on the Early Modern sonnet and the function of the poetic <span class="key">conceit</span>.
 
+{{</ expand >}}
+
+
 ### Week 5: Sept 28, 30, Oct 2 – Sonnet
 
 9/28: Sonnet reader (cont.) *Post-Petrarchism,* Introduction (p. 1-13)
 <p class="descript">
-Prior to class, read and take your own notes on <span class="key">ritual</span> and <span class="key">fiction</span> dimensions of a sonnet from the reader. We will discuss sonnets from the 19th century onward see how we can apply these concepts to various poems. We will also develop an understanding of how our previous discussions of line, meter, and conceit, relate to the two new terms.
+Prior to class, read and take your own notes on <span class="key">ritual</span> and <span class="key">fiction</span> dimensions of a sonnet from the reader. We will discuss sonnets from the 19th century onward see how we can apply these concepts to various poems. We will also develop an understanding of how our previous discussions of line, meter, and conceit, relate to the two new terms.<br><br>
+Optional reading: <a href="https://www.jstor.org/stable/1342848">"On the Margins of Discourse"</a> by Barbara Herrnstein Smith. This is referenced in the definition of "fiction" in Greene's book and is a very clear, interesting read.
 </p>
 
 9/30: Sonnet reader (cont.), *Post-Petrarchism,* Chapter 1 (p. 22-27)
