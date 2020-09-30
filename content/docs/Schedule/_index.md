@@ -167,33 +167,37 @@ Choose a sonnet and think about how it uses <span class="key">deixis</span> in a
 
 10/2: Sonnet reader (cont.), *Theory of the Lyric*, Chapter 1 (p. 10-38)
 <p class="descript">
-Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem); write a sentence or two in <span class="slack">#post-petrarchism</span> on how it involves <span class="key">deixis</span>, <span class="key">ritual and fiction</span>, and/or the <span class="key">four parameters</span> (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). Please do this by 21:00. We will discuss what you have noted in class and reflect on the styles of argumentation/theorization that we've been exposed to thus far.
+Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem); write a sentence or two in <span class="slack">#post-petrarchism</span> on how it involves <span class="key">deixis</span>, <span class="key">ritual and fiction</span>, and/or the <span class="key">four parameters</span> (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). Please do this by 21:00.
 </p>
 
 ### Week 6: Oct 5, Oct 7, Oct 9 – Ode
 
 <p class="descript">
-This week we pay closer attention to the notion of "voice" or "address" in longer odes.
+This week we pay closer attention to the notion of "voice" or "address" in longer ode-like poems.
 </p>
 
-Oct 5 - T.S. Eliot, "The Three Voices of Poetry"; John Ashbery, "Self-Portrait in a Convex Mirror"
+Oct 5 - John Ashbery, "Self-Portrait in a Convex Mirror"
 
 <ul class="descript">
-<li>Prior to class, read the Eliot essay.
-<li>Read p. 68-73 of the Ashbery poem.
-<li> Post an excerpt from either text to #three-voices or #ashbery with or without commentary.
+<li> Read p. 68-76 of the Ashbery poem.
+<li> Then write a comment in #ashbery on a segment of the poem which felt particularly vivid, present, or clear to you and one which felt vague, abstract, or confusing. Does identifying deictics or finding instances of the four parameters at work change your understanding of that segment? Do this by 21:00 on Sunday.
 <li> Optional: Larissa Macfarquhar, <a href="https://www.newyorker.com/magazine/2005/11/07/present-waking-life">Present Waking Life: Becoming John Ashbery</a>. A copy is on Canvas in case you hit a paywall. Helpful if you're having trouble with Ashbery.
 <li> You may also want to refer to the <a href="https://en.wikipedia.org/wiki/Parmigianino#/media/File:Parmigianino_Selfportrait.jpg">Parmigianino painting</a> referred to in the poem's title.</ul>
 
 
-Oct 7 - Ashbery cont.
+Oct 7 -  T.S. Eliot, "The Three Voices of Poetry"; Ashbery cont.
 <ul class="descript">
-<li> Prior to class, read the rest of "Self Portrait in a Convex Mirror" (73-83).
-<li> Then write a comment in #ashbery on a segment of the poem which felt particularly vivid, present, or clear to you and one which felt vague, abstract, or confusing. Then try to identify who the "speaker" is in those segments. Are you dealing with an instantiation of the first, second or third voice?
-<li> We'll talk about our affective responses to different parts of the poem and how personal deictics and the notion of the there voices might help us understand these responses to the different parts of the poem.
+<li> Read the Eliot essay.
+<li> Read the rest of "Self Portrait in a Convex Mirror" (76-83).
+<li> See if you can identify instances of the first, second, and/or third voices in the poem.
+<li> Add to #ashbery a quote from the Eliot essay alongside a segment from the poem; comment on how the two relate or diverge. Do this by 21:00.
+<li> In class, we'll talk about our affective responses to different parts of the poem and how personal deictics and the notion of the three voices might help us understand these responses.
 </ul>
 
 Oct 9 - Marianne Moore, "An Octopus"
+<p class="descript">
+We'll consider how this poem works alongside the various concepts we've encountered over the past two weeks: ritual, fiction, deixis, the four parameters, the three voices—and ask ourselves which of these theories seemed most helpful.
+</p>
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
