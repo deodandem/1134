@@ -167,7 +167,7 @@ Choose a sonnet and think about how it uses <span class="key">deixis</span> in a
 
 10/2: Sonnet reader (cont.), *Theory of the Lyric*, Chapter 1 (p. 10-38)
 <p class="descript">
-Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem); write a sentence or two in <span class="slack">#post-petrarchism</span> on how it involves <span class="key">deixis</span>, <span class="key">ritual and fiction</span>, and/or the <span class="key">four parameters</span> (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). We will discuss what you have noted in class and reflect on the styles of argumentation/theorization that we've been exposed to thus far.
+Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem); write a sentence or two in <span class="slack">#post-petrarchism</span> on how it involves <span class="key">deixis</span>, <span class="key">ritual and fiction</span>, and/or the <span class="key">four parameters</span> (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). Please do this by 21:00. We will discuss what you have noted in class and reflect on the styles of argumentation/theorization that we've been exposed to thus far.
 </p>
 
 ### Week 6: Oct 5, Oct 7, Oct 9 – Ode
