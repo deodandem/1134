@@ -249,13 +249,13 @@ Oct 21 - Lezama Lima, "Confluences"; "Symbolism" (PEPP)
 We will continue to discuss the poem, but with greater focus on the essay.
 </p>
 
-Oct 23 - Will Alexander
+Oct 23 - Review session
 
 <span class="yellow">Essay 3 “Punctum” (Due 10/30, 22:00)</span>
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
-Comment on a particular word or phrase that might be a "punctum" for you—choose any of this week's readings, or one of the previously discussed poems. Try to free associate (you can include personal associations) and don't worry too much about adhering to essayistic conventions. By now, you may have a pretty good idea of what poem(s) you will write about for the final paper, so it's best to write about that poem.
+Comment on a particular word or phrase that might be a "punctum" for you—choose any of this week's readings, or one of the previously discussed poems. Try to free associate (you can include personal associations) and don't worry too much about adhering to essayistic conventions. By now, you may have a pretty good idea of what poem(s) you will write about for the final paper, so it's best to write about something you see yourself writing on more.
 </p>
 {{< /details >}}
 
@@ -276,7 +276,7 @@ Oct 28 - Christopher Dewdney, *The Natural History* (1)
 Preparation: TBA
 </p>
 
-Oct 30 -
+Oct 30 - Dionne Brand, *The Blue Clerk*
 <p class="descript">
 Preparation: TBA
 </p>
@@ -305,9 +305,6 @@ We will talk about poetry's "value" and how poems are valued: what kinds of expe
 </p>
 
 
-Lucy Alford, *[Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true),* "Introduction"
-
-
 Nov 9 - Emerson, "The Poet," Allen Grossman, *Summa Lyrica*
 
 Nov 11 - Ben Lerner, *The Hatred of Poetry*
@@ -328,6 +325,9 @@ Nov 13 - Ben Lerner, *The Hatred of Poetry* (cont.)
 No class from 11/16--11/29. Classes resume online on 11/30.
 {{< /hint >}}
 
+{{< hint warning >}}
+Special: Attend a colloquium on Lucy Alford's [Forms of Poetic Attention](https://www-jstor-org.proxy.library.cornell.edu/stable/10.7312/alfo18754?turn_away=true) at the Stanford Poetics Workshop at 4 PM (EST) on Friday, 11/20. Email me for Zoom invite link.
+{{< /hint >}}
 
 ### Week 14: Nov 30, Dec 2, 4 — Presentations
 
