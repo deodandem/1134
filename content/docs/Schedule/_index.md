@@ -284,11 +284,15 @@ Preparation: TBA
 
 ### Week 10: Nov 2, 4, 6 — Who are Poets?
 
-Nov 2 - Rilke, "Letters to a Young Poet"
+<p class="descript">
+This week is an opportunity to practice description–of the poet's voice, attitude, style, etc. More specifically, we are going to think about <i>adjectives.</i>
+</p>
+
+Nov 2 - Emerson, "The Poet," Allen Grossman, *Summa Lyrica*
 
 Nov 4 - Ezra Pound, selections from *ABCs of Reading*, *Personae*
 
-Nov 6 - Reginald Shepherd, "To Make Me Who I Am"
+Nov 6 - Rilke, "Letters to a Young Poet"
 
 
 {{< details "Discussion Board" close >}}
@@ -305,9 +309,9 @@ We will talk about poetry's "value" and how poems are valued: what kinds of expe
 </p>
 
 
-Nov 9 - Emerson, "The Poet," Allen Grossman, *Summa Lyrica*
+Nov 9 - Will Alexander, essays
 
-Nov 11 - Ben Lerner, *The Hatred of Poetry*
+Nov 11 - Reginald Shepherd, "To Make Me Who I Am"
 
 Nov 13 - Ben Lerner, *The Hatred of Poetry* (cont.)
 
