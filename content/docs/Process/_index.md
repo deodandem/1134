@@ -5,7 +5,7 @@ bookFlatSection: false
 
 # Process
 
-*This page strives to connect the revision process to its underlying meaning. It should also help you understand the meaning behind grades, and the strategies you can use to improve them.*
+*This page strives to connect the revision process to its general significance. It should also help you understand the meaning behind grades, and the strategies you can use to improve them.*
 
 Revision is the writer's equivalent of "learning." It is like making a mistake on a quiz or debugging code. On a surface level, the point of fixing something is to get something to function properly. In school, this translates to earning a good grade. But understanding why a mistake is a mistake, and why it was made, is the route to deeply understanding a thing. Nearly all essays written for this class go through a revision process. The hope is that you can learn how to learn through revising, in a way that is applicable to all other endeavors in life.
 
