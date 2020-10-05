@@ -197,8 +197,7 @@ Oct 9 - Marianne Moore, "An Octopus", T.S. Eliot, "The Three Voices of Poetry"
 <ul class="descript">
 <li> Finish "An Octopus."
 <li> Read the Eliot essay.
-<li> See if you can identify instances of the first, second, and/or third voices in either Ashbery or Moore.
-<li> Add to <span class="slack">#three-voices</span> a quote from the Eliot essay alongside a segment from either of the poems where you feel one of the three voices is particularly salient. Do this by 21:00.</ul>
+<li> See if you can identify instances of the first, second, and/or third voices in either Ashbery or Moore. Add to <span class="slack">#three-voices</span> a quote from the Eliot essay alongside a segment from either of the poems where you feel one of the three voices is particularly salient. Do this by 21:00.</ul>
 <br>
 
 {{< details "Discussion Board" open >}}
@@ -212,7 +211,7 @@ Start Essay 2. Focus on determining which term(s) you'd like to focus on and wha
 
 
 {{< hint info >}}
-Mid-term reflection questions will be sent out by email, please respond by Saturday night.
+Mid-term reflection questions will be sent out this week. Please respond by next week.
 {{< /hint >}}
 
 
