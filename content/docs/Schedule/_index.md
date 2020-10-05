@@ -173,44 +173,48 @@ Pay close attention to how the nine poems presented in the chapter are analyzed.
 ### Week 6: Oct 5, Oct 7, Oct 9 – Ode
 
 <p class="descript">
-This week we pay closer attention to the notion of "voice" or "address" in longer ode-like poems.
+This week we pay closer attention to notions like "voice," "address," and "dialogue" in order to better understand these longer poems work. We will also continue to apply the concepts encountered last week: ritual, fiction, deixis, the four parameters, and ask ourselves which of these terms seem most helpful.
 </p>
 
 Oct 5 - John Ashbery, "Self-Portrait in a Convex Mirror"
 
 <ul class="descript">
 <li> Read p. 68-76 of the Ashbery poem.
-<li> Then write a comment in #ashbery on a segment of the poem which felt particularly vivid, present, or clear to you and one which felt vague, abstract, or confusing. Does identifying deictics or finding instances of the four parameters at work change your understanding of that segment? Do this by 21:00 on Sunday.
+<li> Then write a comment in <span class="slack">#ashbery</span> on a segment of the poem which felt particularly vivid, present, or clear to you and one which felt vague, abstract, or confusing. Does identifying deictics or finding instances of the four parameters at work change your understanding of that segment? Do this by 21:00 on Sunday.
 <li> Optional: Larissa Macfarquhar, <a href="https://www.newyorker.com/magazine/2005/11/07/present-waking-life">Present Waking Life: Becoming John Ashbery</a>. A copy is on Canvas in case you hit a paywall. Helpful if you're having trouble with Ashbery.
 <li> You may also want to refer to the <a href="https://en.wikipedia.org/wiki/Parmigianino#/media/File:Parmigianino_Selfportrait.jpg">Parmigianino painting</a> referred to in the poem's title.</ul>
 
 
-Oct 7 -  T.S. Eliot, "The Three Voices of Poetry"; Ashbery cont.
+Oct 7 -  Ashbery cont., Marianne Moore, "An Octopus"
 <ul class="descript">
-<li> Read the Eliot essay.
+
 <li> Read the rest of "Self Portrait in a Convex Mirror" (76-83).
-<li> See if you can identify instances of the first, second, and/or third voices in the poem.
-<li> Add to #ashbery a quote from the Eliot essay alongside a segment from the poem; comment on how the two relate or diverge. Do this by 21:00.
-<li> In class, we'll talk about our affective responses to different parts of the poem and how personal deictics and the notion of the three voices might help us understand these responses.
+<li> Begin reading "An Octopus." Add to <span class="slack">#moore</span> an excerpt from the poem that stands out to you as either especially compelling or especially confusing; connect it to one of the terms we've covered last week.
+<li> In class, we'll continue talking about our affective responses to different parts of the poems and how the various terms covered last week can help us better understand these responses.
 </ul>
 
-Oct 9 - Marianne Moore, "An Octopus"
-<p class="descript">
-We'll consider how this poem works alongside the various concepts we've encountered over the past two weeks: ritual, fiction, deixis, the four parameters, the three voices—and ask ourselves which of these theories seemed most helpful.
-</p>
+Oct 9 - Marianne Moore, "An Octopus", T.S. Eliot, "The Three Voices of Poetry"
+<ul class="descript">
+<li> Finish "An Octopus."
+<li> Read the Eliot essay.
+<li> See if you can identify instances of the first, second, and/or third voices in either Ashbery or Moore.
+<li> Add to <span class="slack">#three-voices</span> a quote from the Eliot essay alongside a segment from either of the poems where you feel one of the three voices is particularly salient. Do this by 21:00.</ul>
+<br>
 
-{{< details "Discussion Board" close >}}
+{{< details "Discussion Board" open >}}
 <p class="descript">
-Start Essay 2; post two paragraphs. These can be from the body of the essay or the introduction. I recommend including a quotation from the theorist you want to cite. Please do this by 21:00 on Sunday so I have time to look over them before class.
+Start Essay 2. Focus on determining which term(s) you'd like to focus on and what type of essay you'd like to write: will you write about one poem in detail, or write about how multiple poems relate to any of the recently encountered concepts? Post the first two paragraphs; write them as if you were about to turn them in. Please do this by 21:00 on Sunday so I have time to look over them before class.
 </p>
 {{< /details >}}
 
-<p class="descript">
-
-</p>
-
 <span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/16, 22:00)</span>
 <p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 26.</p>
+
+
+{{< hint info >}}
+Mid-term reflection questions will be sent out by email, please respond by Saturday night.
+{{< /hint >}}
+
 
 ### Week 7: Oct 12, 16 – Image
 
@@ -275,6 +279,10 @@ Oct 28 - Christopher Dewdney, *The Natural History* (1)
 <p class="descript">
 Preparation: TBA
 </p>
+
+{{< hint warning >}}
+Special: Attend a lecture by Jonathan Culler at 4:30 PM. Information has been sent out by email, and may be re-posted to Canvas closer to the date.
+{{< /hint >}}
 
 Oct 30 - Dionne Brand, *The Blue Clerk*
 <p class="descript">
