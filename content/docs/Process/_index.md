@@ -21,7 +21,7 @@ Finally, there is the case where the writer of an essay seems not to have been p
 
 Time is always limited, but there are ways to revise more efficiently, and to therefore earn higher grades. Step 0: Read carefully. Step 1: Contribute your best to class discussions and slack comments. Step 2: Start drafting early, and re-structure your observations until they form a coherent sequence. Step 3: Re-read what you've written to make sure the sentences work. Beyond this, you can look for external help, through a tutor, or turn in your work early, as the instructor will approach what you've written with a fresher mind.
 
-These paragraphs appear to construct a hierarchy, in which good essays require the least revision. This is only somewhat true. The strongest essays, which delve deeply into a complex topic and produce surprising or innovative results, are the result of many stages of writing and re-writing. They may be highly chaotic at the outset, but they eventually become something like the sea rose or the pear trees of H.D. and Ponge. The process of radical revision is identical with thought itself, which is a form of growth, and of living.
+These paragraphs appear to construct a hierarchy, in which good essays require the least revision. This is only partly true. The strongest essays, which delve deeply into a complex topic and produce surprising or innovative results, are the result of many stages of writing and re-writing. They may be highly chaotic at the outset, but they eventually become something like the sea rose or the pear trees of H.D. and Ponge. The process of radical revision is identical with thought itself, which is a form of growth, and of living.
 
 
 </p>
