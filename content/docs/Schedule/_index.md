@@ -215,17 +215,21 @@ Mid-term reflection questions will be sent out this week. Please respond by next
 {{< /hint >}}
 
 
-### Week 7: Oct 12, 16 – Image
+### Week 7: Oct 12, 16 – Essays on Ashbery + Moore
 
-<span class="blue" style="margin-left:0em">**Individual Conference II**</span>
-
+<span class="blue" style="margin-left:0em">**Individual Conference II**</span><br>
+(Schedule by 10/28, use https://calendly.com/dp625)
 <p class="descript">
-What's the difference between imagism and symbolism? How about metaphor and metonymy? How do images arise from or relate to the ritual and fictional dimensions of the lyric?
+In preparation for Essay 2, we'll work through some essays on the poems we read last week, or on the theoretical texts we previously read, searching for rhetorical strategies, argumentative structures, and sentence forms that we can use in our own writing.
 </p>
 
-Oct 12 - Barthes, *Camera Lucida* (First part); Selected poems by Paul Celan, Aimé Césaire, Emily Dickinson, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer
-<p class="descript">
-We will read some of Barthes together in class, and discuss the validity of identifying poetry with photography. We will also practice identifying <i>puncta</i> in both photos and poems. Try to read half of Barthes (p. 18-30) by today or Tuesday and the rest (p. 31-60) by Friday.
+Oct 12 - Ashbery + Moore
+<p class = "descript">
+Pick one of the two articles to read and mark up:
+<ul class="descript">
+<li> <a href="https://www.jstor.org/stable/pdf/24516477">I Was Reading and Rereading Ashbery's Self-Portrait for Many Years</a> by Susan Stewart
+<li> <a href="https://www.jstor.org/stable/20058770">Rewriting Nature Tourism in "An Age of Violence": Tactical Collage in Marianne Moore's "An Octopus"</a> by Jennifer K. Ladino
+</ul>
 </p>
 
 {{< hint info >}}
@@ -233,26 +237,31 @@ No classes on October 14.
 {{< /hint >}}
 
 
-Oct 16 -  Selected poems by Paul Celan, Aimé Césaire, Emily Dickinson, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer, César Vallejo
-<p class="descript">
-Finish reading the first half of Barthes. Review the poems before class.<br>We'll discuss images that are striking or interesting and why this is the case.
+Oct 16 -  Theory of the Lyric Review
+<p class = "descript">
+Read and mark up <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff
 </p>
 
 
-### Week 8: Oct 19, 21, 23 – Image (cont.)
+### Week 8: Oct 19, 21, 23 – Image
 
-
-Oct 19 -  José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)"
+Oct 19 - Barthes, *Camera Lucida* (First part); Selected poems by Paul Celan, Aimé Césaire, Emily Dickinson, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer
 <p class="descript">
-We will discuss "Muerte de Narciso" and the nature of "symbols"
+We will discuss the validity of identifying poetry with photography, and practice identifying <i>puncta</i> in both photos and poems. Try to read half of Barthes (p. 18-30) on Saturday and the rest (p. 31-60) on Sunday.
 </p>
 
-Oct 21 - Lezama Lima, "Confluences"; "Symbolism" (PEPP)
+
+
+Oct 21 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)"
+<p class="descript">
+We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
+</p>
+
+
+Oct 23 - Lezama Lima, "Confluences"; "Symbolism" (PEPP)
 <p class="descript">
 We will continue to discuss the poem, but with greater focus on the essay.
-</p>
 
-Oct 23 - Review session
 
 <span class="yellow">Essay 3 “Punctum” (Due 10/30, 22:00)</span>
 
@@ -322,15 +331,12 @@ Nov 11 - Reginald Shepherd, "To Make Me Who I Am"
 
 Nov 13 - Ben Lerner, *The Hatred of Poetry* (cont.)
 
-
-<span class="yellow">Essay 4 "Final" (Draft) (Due 11/16, 22:00)</span>
-
 <hr>
 
 ### Week 12, 13: Semi-Finals, Thanksgiving
 
-<span class="blue" style="margin-left:0em">**Individual Conference III**</span>  
-(Schedule between 11/16 and 11/29)
+<span class="yellow">Essay 4 "Final" (Draft) (Due 11/30, 22:00)</span>
+
 
 {{< hint info >}}
 No class from 11/16--11/29. Classes resume online on 11/30.
@@ -341,6 +347,9 @@ Special: Attend a colloquium on Lucy Alford's [Forms of Poetic Attention](https:
 {{< /hint >}}
 
 ### Week 14: Nov 30, Dec 2, 4 — Presentations
+
+<span class="blue" style="margin-left:0em">**Individual Conference III**</span>  
+(Schedule between 11/30 and 12/11)
 
 {{< details Guidelines open>}}
  Presentations are opportunities for you to share what you have been working on and stay accountable during the final stretch of writing for this course. Here are some constraints:
