@@ -191,13 +191,15 @@ Oct 7 -  Ashbery cont., Marianne Moore, "An Octopus"
 <li> Read the rest of "Self Portrait in a Convex Mirror" (76-83).
 <li> Begin reading "An Octopus." Add to <span class="slack">#moore</span> an excerpt from the poem that stands out to you as either especially compelling or especially confusing; connect it to one of the terms we've covered last week.
 <li> In class, we'll continue talking about our affective responses to different parts of the poems and how the various terms covered last week can help us better understand these responses.
+<li> Some clarifications on the nature of the "ode" will be addressed today.
 </ul>
 
 Oct 9 - Marianne Moore, "An Octopus", T.S. Eliot, "The Three Voices of Poetry"
 <ul class="descript">
 <li> Finish "An Octopus."
 <li> Read the Eliot essay.
-<li> See if you can identify instances of the first, second, and/or third voices in either Ashbery or Moore. Add to <span class="slack">#three-voices</span> a quote from the Eliot essay alongside a segment from either of the poems where you feel one of the three voices is particularly salient. Do this by 21:00.</ul>
+<li> Read the <a href="/docs/markup">markup guide,</a> and apply it to a page of "The Three Voices." Post that page to <span class="slack">#rhetoric</span>.
+<li> In class we'll see if you can identify instances of the first, second, and/or third voices in either Ashbery or Moore. During class, add to <span class="slack">#three-voices</span> a quote from the Eliot essay alongside a segment from either of the poems where you feel one of the three voices is particularly salient.</ul>
 <br>
 
 {{< details "Discussion Board" open >}}
@@ -206,26 +208,23 @@ Start Essay 2. Focus on determining which term(s) you'd like to focus on and wha
 </p>
 {{< /details >}}
 
-<span class="yellow">Essay 2 “Ritual vs Fiction” (Due 10/16, 22:00)</span>
+<span class="yellow">Essay 2 “Ritual, Fiction” (Due 10/16, 22:00)</span>
 <p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 26.</p>
 
-
 {{< hint info >}}
-Mid-term reflection questions will be sent out this week. Please respond by next week.
+Mid-term reflection questions will be sent out this week. Please respond by 10/16.
 {{< /hint >}}
 
 
 ### Week 7: Oct 12, 16 – Essays on Ashbery + Moore
 
-<span class="blue" style="margin-left:0em">**Individual Conference II**</span><br>
-(Schedule by 10/28, use https://calendly.com/dp625)
 <p class="descript">
 In preparation for Essay 2, we'll work through some essays on the poems we read last week, or on the theoretical texts we previously read, searching for rhetorical strategies, argumentative structures, and sentence forms that we can use in our own writing.
 </p>
 
 Oct 12 - Ashbery + Moore
 <p class = "descript">
-Pick one of the following articles to read and mark up. See the <a ref="https://1134.info/docs/process/markup">markup guide</a> for some directions on what to look for and how to do this. Post a page of your markup and a few things you noticed on <span class="slack">#rhetoric.</span>
+Pick one of the following articles to read and mark up. Reivew the <a href="/docs/markup">markup guide</a> for some directions on what to look for and how to do this. Post a page of your markup and a few things you noticed on <span class="slack">#rhetoric.</span>
 <ul class="descript">
 <li> <a href="https://www.jstor.org/stable/24516477">I Was Reading and Rereading Ashbery's Self-Portrait for Many Years</a> by Susan Stewart
 <li> <a href="https://www.jstor.org/stable/44086092">"The Best Wild Music of the Forest:" Marianne Moore's "An Octopus of Ice"</a> by Vicki Graham
@@ -240,11 +239,13 @@ No classes on October 14.
 
 Oct 16 -  Theory of the Lyric Review
 <p class = "descript">
-Read and mark up <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff. Or, review and mark up "The Three Voices." Post a page on <span class="slack">#rhetoric.</span>
+Read and mark up <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff. Or, review and mark up one of the previous readings by Culler, Greene, or Herrnstein Smith. Post a page on <span class="slack">#rhetoric.</span>
 </p>
 
 
 ### Week 8: Oct 19, 21, 23 – Image
+<span class="blue" style="margin-left:0em">**Individual Conference II**</span><br>
+(Schedule by 10/28, use https://calendly.com/dp625)
 
 Oct 19 - Barthes, *Camera Lucida* (First part); Selected poems by Paul Celan, Aimé Césaire, Emily Dickinson, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer
 <p class="descript">
