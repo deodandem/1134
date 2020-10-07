@@ -47,7 +47,7 @@ By the end of this process, you should be more aware of some of the smaller deta
 
 Still, these little pieces of markup may form a random pile and do not show you how the *structure* of an essay is formed. How do we know it when we are reading an good argument? How do we figure out how to construct and write up a good argument? Is it all just a random walk, or can you do some overhead planning?
 
-Good essays, like everything else in the natural world, form a fractal structure. We can approach *logos*—i.e., good argumentation— from the standpoint of the relations between paragraphs, the relationships between sentences, and even between words and sounds. Let's just focus on the first two levels for now.
+Good essays, like everything else in the natural world, form a fractal structure. We can approach *logos*—i.e., good argumentation— from the standpoint of the relations between paragraphs, the relationships between sentences, and even between words and sounds. Let's just focus on the first two levels for now, in reverse order:
 
 <ol style="margin-left:4em">
 
