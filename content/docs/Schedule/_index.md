@@ -225,9 +225,10 @@ In preparation for Essay 2, we'll work through some essays on the poems we read 
 
 Oct 12 - Ashbery + Moore
 <p class = "descript">
-Pick one of the two articles to read and mark up:
+Pick one of the following articles to read and mark up. See the <a ref="https://1134.info/docs/process/markup">markup guide</a> for some directions on what to look for and how to do this. Post a page of your markup and a few things you noticed on <span class="slack">#rhetoric.</span>
 <ul class="descript">
-<li> <a href="https://www.jstor.org/stable/pdf/24516477">I Was Reading and Rereading Ashbery's Self-Portrait for Many Years</a> by Susan Stewart
+<li> <a href="https://www.jstor.org/stable/24516477">I Was Reading and Rereading Ashbery's Self-Portrait for Many Years</a> by Susan Stewart
+<li> <a href="https://www.jstor.org/stable/44086092">"The Best Wild Music of the Forest:" Marianne Moore's "An Octopus of Ice"</a> by Vicki Graham
 <li> <a href="https://www.jstor.org/stable/20058770">Rewriting Nature Tourism in "An Age of Violence": Tactical Collage in Marianne Moore's "An Octopus"</a> by Jennifer K. Ladino
 </ul>
 </p>
@@ -239,7 +240,7 @@ No classes on October 14.
 
 Oct 16 -  Theory of the Lyric Review
 <p class = "descript">
-Read and mark up <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff
+Read and mark up <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff. Or, review and mark up "The Three Voices." Post a page on <span class="slack">#rhetoric.</span>
 </p>
 
 
