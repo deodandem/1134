@@ -112,4 +112,4 @@ Getting a grasp of rhetoric will also help you discuss texts more readily in cla
 
 ## Beyond
 
-Try marking up texts you admire that aren't essays, like stories, novels, other forms of creative non-fiction, journalistic writing, and of course, poetry. See how well the techniques generalize. Think about the differences between rhetoric and poetics. Are all good poems rhetorically successful? If not, how, and why do you think this is the case? Are all rhetorically successful arguments poetic? If not, why is this so? What are your goals as a writer, and what do you prefer to read—texts of a more rhetorical or poetic nature?
+Try marking up texts you admire that aren't essays, like stories, novels, journalistic writing, memoirs, tweets, product reviews, and of course, poetry. See how well the techniques generalize. Think about the differences between rhetoric and poetics. Are all good poems rhetorically successful? If not, how, and why do you think this is the case? Are all rhetorically successful arguments poetic? If not, why is this so? What are your goals as a writer, and what do you prefer to read—texts of a more rhetorical or poetic nature?
