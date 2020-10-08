@@ -198,7 +198,7 @@ Oct 9 - Marianne Moore, "An Octopus", T.S. Eliot, "The Three Voices of Poetry"
 <ul class="descript">
 <li> Finish "An Octopus."
 <li> Read the Eliot essay.
-<li> Read the <a href="/docs/markup">markup guide,</a> and apply it to a page of "The Three Voices." Post that page to <span class="slack">#rhetoric</span>.
+<li> Read the <a href="/docs/markup">markup guide,</a> and apply it to a page of "The Three Voices." Post that page to <span class="slack">#rhetoric</span> with a few comments on what you found.
 <li> In class we'll see if you can identify instances of the first, second, and/or third voices in either Ashbery or Moore. During class, add to <span class="slack">#three-voices</span> a quote from the Eliot essay alongside a segment from either of the poems where you feel one of the three voices is particularly salient.</ul>
 <br>
 
@@ -239,8 +239,7 @@ No classes on October 14.
 
 Oct 16 -  Theory of the Lyric Review
 <p class = "descript">
-Read and mark up <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff. Or, review and mark up one of the previous readings by Culler, Greene, or Herrnstein Smith. Post a page on <span class="slack">#rhetoric.</span>
-</p>
+Read and mark up <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff. Or, review and mark up one of the previous readings by Culler, Greene, or Herrnstein Smith. Post a page on <span class="slack">#rhetoric</span> with some comments on what you found.</p>
 
 
 ### Week 8: Oct 19, 21, 23 – Image

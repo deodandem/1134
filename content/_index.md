@@ -39,7 +39,7 @@ There will be five essays, four will be given a letter grade.
 
 * Essay 0 – "First Day" – 1-2 pages (September 7)
 * Essay 1 – "Line, Meter" – 3-5 pages (September 25)
-* Essay 2 – "Ritual, Fiction" – 4-5 pages (October 16)
+* Essay 2 – "Ritual, Fiction" – 3-5 pages (October 16)
 * Essay 3 – "Punctum" – 3-5 pages (October 30)
 * Essay 4 – "Final" – 8-12 pages (December 17)
 
@@ -63,18 +63,18 @@ The minimum expected grade, B- will be given to those who
 <ol style="margin-left:2em">
 1. Miss no more than three classes*<br>
 2. Participate in all class activities**<br>
-3. Complete all assignments on time***
+3. Complete all essays on time***
 </ol>
 
-Grades above this depend on quality of essay assignments. Essays 1-3 count for 20% each, Essay 4 counts for 40%. Essay 0 is purely diagnostic and not graded. See individual rubrics for each essay as they are released for exact grading criteria.
+Grades above this depend on quality of essay assignments. It will be difficult to do well on the writing assignments if you are not participating regularly. Essays 1-3 count for 20% each, Essay 4 counts for 40%. Essay 0 is purely diagnostic and not graded. See individual rubrics for each essay as they are released for exact grading criteria.
 
 Numerical scale: 98-100% (A+), 93-97% (A), 90-92% (A-), 88-89% (Β+), 83-87% (B), …
 
-*&nbsp;Being more than 15 minutes late to class counts as an absence. Being more than 5 minutes late three times counts as an absence. Absences beyond three will not negatively affect your grade if they are due to a medical emergency or quarantine mandate.
+*&nbsp;Being more than 15 minutes late to class counts as an absence. Being more than 5 minutes late three times counts as an absence. Absences beyond three will not negatively affect your grade if they are due to a medical emergency or quarantine mandate. Otherwise, each additional absence constitutes a 1% deduction from the final grade.
 
-** You can miss up to three slack discussion posts, you must complete all Canvas discussion board posts. Slack posts should be in by 22:00 prior to class; Canvas discussion board posts should also be timely but you may post them as much as 24 hours late.
+** You can miss up to three slack discussion posts, but you must complete all Canvas discussion board posts. Slack posts should be in by 21:00 prior to class; Canvas discussion board posts should also be timely but you may post them as much as 24 hours late.
 
-*** Essays must respond to the prompt to receive credit. I cannot give credit to essays turned in more than 24 hours late, with the exception of Essay 4, for which you may request a personalized due date. If you are experiencing significant mental health issues and need more lenient deadlines, contact me and we'll work something out. Otherwise, adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations, so it is important to start following them now.
+*** The essay must show some attempt to respond to the prompt. I cannot give credit to essays turned in more than 24 hours late. If you need an extension, contact me and we'll work something out. Otherwise, adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations, so it is important to start following them now.
 
 ## Zoom
 
@@ -88,4 +88,4 @@ If you need to access class online, reference the Canvas "Zoom" tab for access. 
 * If you have a disability-related need for this course, provide the instructor with an accommodation notification letter from Student Disability Services. Students are expected to give two weeks’ notice for requested accommodations. If you need immediate accommodations sooner, please speak to the instructor about your need by the end of the first week.
 * This webpage is subject to change at all times. Substantive edits will be announced via Canvas.
 
-[^1]: The total minimum page count, 1+3+4+3+8=19, converted to the standard double spacing, amounts to a little over the 20-page minimum mandated by the Knight institute.
+[^1]: The total minimum page count, 1+3+3+3+8=18, converted to the standard double spacing, amounts to the 20-page minimum mandated by the Knight institute.
