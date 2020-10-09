@@ -211,10 +211,6 @@ Start Essay 2. Focus on determining which term(s) you'd like to focus on and wha
 <span class="yellow">Essay 2 “Ritual, Fiction” (Due 10/16, 22:00)</span>
 <p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 26.</p>
 
-{{< hint info >}}
-Mid-term reflection questions will be sent out this week. Please respond by 10/16.
-{{< /hint >}}
-
 
 ### Week 7: Oct 12, 16 – Essays on Ashbery + Moore
 
@@ -224,11 +220,13 @@ In preparation for Essay 2, we'll work through some essays on the poems we read 
 
 Oct 12 - Ashbery + Moore
 <p class = "descript">
-Pick one of the following articles to read and mark up. Reivew the <a href="/docs/markup">markup guide</a> for some directions on what to look for and how to do this. Post a page of your markup and a few things you noticed on <span class="slack">#rhetoric.</span>
+Pick one of the following articles to read and mark up. Reivew the <a href="/docs/markup">markup guide</a> for some directions on what to look for and how to do this. This time, focus on writing comments on sentence-to-sentence transitions within a paragraph, or broader commentary on the sequencing of paragraphs. Post to <span class="slack">#rhetoric.</span>
 <ul class="descript">
 <li> <a href="https://www.jstor.org/stable/24516477">I Was Reading and Rereading Ashbery's Self-Portrait for Many Years</a> by Susan Stewart
+<li> <a href="https://www.jstor.org/stable/10.2979/jmodelite.34.4.172">That's the Beauty of It, Or, Why John Ashbery is Not a Painter</a> by Clark D. Lunberry
 <li> <a href="https://www.jstor.org/stable/44086092">"The Best Wild Music of the Forest:" Marianne Moore's "An Octopus of Ice"</a> by Vicki Graham
 <li> <a href="https://www.jstor.org/stable/20058770">Rewriting Nature Tourism in "An Age of Violence": Tactical Collage in Marianne Moore's "An Octopus"</a> by Jennifer K. Ladino
+<li> <a href="https://www.jstor.org/stable/441116">The Road to Paradise: First Notes on Marianne Moore's "An Octopus"</a> by Patricia C. Willis
 </ul>
 </p>
 
@@ -240,6 +238,10 @@ No classes on October 14.
 Oct 16 -  Theory of the Lyric Review
 <p class = "descript">
 Read and mark up <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff. Or, review and mark up one of the previous readings by Culler, Greene, or Herrnstein Smith. Post a page on <span class="slack">#rhetoric</span> with some comments on what you found.</p>
+
+{{< hint info >}}
+Mid-term reflection questions will be sent out this week. Please respond by 10/19.
+{{< /hint >}}
 
 
 ### Week 8: Oct 19, 21, 23 – Image
