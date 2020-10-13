@@ -209,7 +209,7 @@ Start Essay 2. Focus on determining which term(s) you'd like to focus on and wha
 {{< /details >}}
 
 <span class="yellow">Essay 2 “Ritual, Fiction” (Due 10/16, 22:00)</span>
-<p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 26.</p>
+<p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 28.</p>
 
 
 ### Week 7: Oct 12, 16 – Essays on Ashbery + Moore
@@ -227,46 +227,51 @@ Pick one of the following articles to read and mark up. Reivew the <a href="/doc
 <li> <a href="https://www.jstor.org/stable/44086092">"The Best Wild Music of the Forest:" Marianne Moore's "An Octopus of Ice"</a> by Vicki Graham
 <li> <a href="https://www.jstor.org/stable/20058770">Rewriting Nature Tourism in "An Age of Violence": Tactical Collage in Marianne Moore's "An Octopus"</a> by Jennifer K. Ladino
 <li> <a href="https://www.jstor.org/stable/441116">The Road to Paradise: First Notes on Marianne Moore's "An Octopus"</a> by Patricia C. Willis
+<li> <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff
 </ul>
 </p>
 
+
 {{< hint info >}}
-No classes on October 14.
+No classes on October 14. 🍂 Go play outside! 🍂
 {{< /hint >}}
 
 
-Oct 16 -  Theory of the Lyric Review
+Oct 16 -  Rest Day
 <p class = "descript">
-Read and mark up <a href="https://www.jstor.org/stable/10.2307/26377170">"Review: Theory of the Lyric by Jonathan Culler,"</a> by Marjorie Perloff. Or, review and mark up one of the previous readings by Culler, Greene, or Herrnstein Smith. Post a page on <span class="slack">#rhetoric</span> with some comments on what you found.</p>
+In honor of fall break, and Essay 2, there is nothing to do for today.<br>
+We will watch and discuss an episode from John Berger's <i>Ways of Seeing</i>.
+</p>
 
-{{< hint info >}}
-Mid-term reflection questions will be sent out this week. Please respond by 10/19.
+
+{{< hint danger >}}
+Take the mid-term survey on Canvas. Please respond by Saturday at 10 pm.
 {{< /hint >}}
 
 
 ### Week 8: Oct 19, 21, 23 – Image
 <span class="blue" style="margin-left:0em">**Individual Conference II**</span><br>
-(Schedule by 10/28, use https://calendly.com/dp625)
+(Schedule by 10/28, use [calendly.com/dp625](https://calendly.com/dp625))
 
-Oct 19 - Barthes, *Camera Lucida* (First part); Selected poems by Paul Celan, Aimé Césaire, Emily Dickinson, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer
+Oct 19 - Barthes, *Camera Lucida* (First part); Selected poems
 <p class="descript">
-We will discuss the validity of identifying poetry with photography, and practice identifying <i>puncta</i> in both photos and poems. Try to read half of Barthes (p. 18-30) on Saturday and the rest (p. 31-60) on Sunday.
+<b>Try to read half of Barthes (p. 18-30) on Saturday and the rest (p. 31-60) on Sunday.</b><br>
+Post an excerpt from Barthes that you found important or interesting <span class="slack">#punctum</span>, as well as a photo (does not have to relate directly to the excerpt). Briefly describe its <i>studium</i> and <i>punctum</i>. You may wish to comment on the Barthes excerpt as well, but it's not required.
+<p class="descript">
+We will discuss the validity of identifying poetry with photography, and practice identifying <i>puncta</i> in both photos and poems. Poets may include: Will Alexander, Paul Celan, Aimé Césaire, Emily Dickinson, Robert Hass, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer, and César Vallejo.<br>
 </p>
 
 
+Oct 21 - Image poems, "Symbolism" (PEPP)
+<p class="descript">
+We will continue to discuss the poems from last class.<br>
+Read the "Symbolism" entry prior to class. Share any interesting passages in <span class="slack">#punctum</span>.
+</p>
 
-Oct 21 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)"
+Oct 23 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences"
 <p class="descript">
 We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
-</p>
 
-
-Oct 23 - Lezama Lima, "Confluences"; "Symbolism" (PEPP)
-<p class="descript">
-We will continue to discuss the poem, but with greater focus on the essay.
-
-
-<span class="yellow">Essay 3 “Punctum” (Due 10/30, 22:00)</span>
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
@@ -300,6 +305,7 @@ Oct 30 - Dionne Brand, *The Blue Clerk*
 Preparation: TBA
 </p>
 
+<span class="yellow">Essay 3 “Punctum” (Due 11/6, 22:00)</span>
 
 ### Week 10: Nov 2, 4, 6 — Who are Poets?
 
@@ -334,7 +340,14 @@ Nov 11 - Reginald Shepherd, "To Make Me Who I Am"
 
 Nov 13 - Ben Lerner, *The Hatred of Poetry* (cont.)
 
+{{< details "Discussion Board" close >}}
+<p class="descript">
+Draft and share the first three paragraphs of your final essay.
+</p>
+{{< /details >}}
+
 <hr>
+
 
 ### Week 12, 13: Semi-Finals, Thanksgiving
 
