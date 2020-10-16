@@ -253,20 +253,23 @@ Take the mid-term survey on Canvas. Please respond by Saturday at 10 pm.
 <span class="blue" style="margin-left:0em">**Individual Conference II**</span><br>
 (Schedule by 10/28, use [calendly.com/dp625](https://calendly.com/dp625))
 
-Oct 19 - Barthes, *Camera Lucida* (First part); Selected poems
+Oct 19 - Barthes, *Camera Lucida* (First part); Modernist Imagism
 <p class="descript">
 <b>Try to read half of Barthes (p. 18-30) on Saturday and the rest (p. 31-60) on Sunday.</b><br>
 Post an excerpt from Barthes that you found important or interesting <span class="slack">#punctum</span>, as well as a photo (does not have to relate directly to the excerpt). Briefly describe its <i>studium</i> and <i>punctum</i>. You may wish to comment on the Barthes excerpt as well, but it's not required.
 <p class="descript">
-We will discuss the validity of identifying poetry with photography, and practice identifying <i>puncta</i> in both photos and poems. Poets may include: Will Alexander, Paul Celan, Aimé Césaire, Emily Dickinson, Robert Hass, Mina Loy, Stéphane Mallarmé, Tomas Tranströmer, and César Vallejo.<br>
+Over the next weeks, will discuss the validity of identifying poetry with photography, and practice identifying <i>puncta</i> in both photos and poems. Poets may include: Will Alexander, Paul Celan, Aimé Césaire, Emily Dickinson, Robert Hass, Mina Loy, Stéphane Mallarmé, Jean Toomer, Tomas Tranströmer, and César Vallejo.<br>
 </p>
 
 
 Oct 21 - Image poems, "Symbolism" (PEPP)
 <p class="descript">
-We will continue to discuss the poems from last class.<br>
-Read the "Symbolism" entry prior to class. Share any interesting passages in <span class="slack">#punctum</span>.
+We will continue to discuss the poems from last class, with a focus on those with "symbolist" influences. Read the "Symbolism" entry prior to class. Share any interesting passages in <span class="slack">#punctum</span>.
+
+<p class="descript">
+
 </p>
+
 
 Oct 23 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences"
 <p class="descript">
@@ -279,28 +282,24 @@ Comment on a particular word or phrase that might be a "punctum" for you—choos
 </p>
 {{< /details >}}
 
-### Week 9: Oct 26, 28, 30 – Georgic
+### Week 9: Oct 26, 28, 30 – Image
 
+
+Oct 26 - Tranströmer, Toomer, Hass, ...
 <p class="descript">
-This week involves poems of <q>instruction</q> or <q>information.</q> What makes a modern "Georgic"? How do we analyze an entire book?
+Prior to class, read the <a href="http://www.jstor.com/stable/10.7312/alfo18754.4">Introduction</a> to Lucy Alford's <i>Forms of Poetic Attention</i>, pages 1-4, 12-15. Post a brief summary to <span class="slack">#rhetoric</span>. In class, we'll practice applying
 </p>
 
-Oct 26 - Virgil, Georgics (Book IV); Hass, "Georgic"
-<p class="descript">
-Preparation: TBA
-</p>
+Oct 28 - César Vallejo, Aimé Césaire
 
-
-Oct 28 - Christopher Dewdney, *The Natural History* (1)
-<p class="descript">
-Preparation: TBA
-</p>
 
 {{< hint warning >}}
 Special: Attend a lecture by Jonathan Culler at 4:30 PM. Information has been sent out by email, and may be re-posted to Canvas closer to the date.
 {{< /hint >}}
 
-Oct 30 - Dionne Brand, *The Blue Clerk*
+Oct 30 - Christopher Dewdney, *The Natural History* (1)
+<p class="descript">
+Optional: Virgil, Georgics (Book IV); Hass, "Georgic"
 <p class="descript">
 Preparation: TBA
 </p>
@@ -313,11 +312,11 @@ Preparation: TBA
 This week is an opportunity to practice description–of the poet's voice, attitude, style, etc. More specifically, we are going to think about <i>adjectives.</i>
 </p>
 
-Nov 2 - Emerson, "The Poet," Allen Grossman, *Summa Lyrica*
+Nov 2 - Reginald Shepherd, "To Make Me Who I Am"; Will Alexander, essays
 
-Nov 4 - Ezra Pound, selections from *ABCs of Reading*, *Personae*
+Nov 4 - Jos Charles, *Feeld*
 
-Nov 6 - Rilke, "Letters to a Young Poet"
+Nov 6 -
 
 
 {{< details "Discussion Board" close >}}
@@ -334,11 +333,11 @@ We will talk about poetry's "value" and how poems are valued: what kinds of expe
 </p>
 
 
-Nov 9 - Will Alexander, essays
+Nov 9 - Rilke, "Letters to a Young Poet"
 
-Nov 11 - Reginald Shepherd, "To Make Me Who I Am"
+Nov 11 - Ben Lerner, *The Hatred of Poetry*
 
-Nov 13 - Ben Lerner, *The Hatred of Poetry* (cont.)
+Nov 13 -
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
