@@ -79,7 +79,7 @@ Write a description of an everyday object or phenomenon that you've had direct e
 
 ### Week 3: Sept 14, 16, 18 – Line and Meter
 
-{{< expand "Meaning ↔ Primary structures? " >}}
+{{< expand "Primary Forms " >}}
 
 9/14: Robert Hass: Introduction, Chapters 1-3, from *A Little Book on Form*
 <ul class="descript">
@@ -126,12 +126,11 @@ First write about what you notice, with regards to the meaning or expressive eff
 <p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 7.</p>
 
 ### Week 4: Sept 21, 23, 25 – Sonnet
+{{< expand "Collecting Sonnets" >}}
 
 <p class="descript">
 We will take an &ldquo;inductive&rdquo; approach to the sonnet form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. Given these poems, we might ask: what do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile?  A small "reader" has been uploaded on Canvas ( > Files > Sonnet > 129-sonnets.pdf ).
 </p>
-
-{{< expand "Why the sonnet?" >}}
 
 9/21: Essay 1 Discussion, Sonnet reader
 <p class="descript">
@@ -153,6 +152,8 @@ Prior to class, focus on finishing Essay 1. If you have time, read the introduct
 
 ### Week 5: Sept 28, 30, Oct 2 – Sonnet
 
+{{< expand "Sonnets: Ritual, Fiction" >}}
+
 9/28: Sonnet reader (cont.) *Post-Petrarchism,* Introduction (p. 1-13)
 <p class="descript">
 Prior to class, read and take your own notes on <span class="key">ritual</span> and <span class="key">fiction</span> dimensions of a sonnet from the reader. We will discuss sonnets from the 19th century onward see how we can apply these concepts to various poems. We will also develop an understanding of how our previous discussions of line, meter, and conceit, relate to the two new terms.<br><br>
@@ -170,7 +171,11 @@ Choose a sonnet and think about how it uses <span class="key">deixis</span> in a
 Pay close attention to how the nine poems presented in the chapter are analyzed. Prior to class, choose a sonnet (or other poem); write a sentence or two in <span class="slack">#post-petrarchism</span> on how it involves <span class="key">deixis</span>, <span class="key">ritual and fiction</span>, and/or the <span class="key">four parameters</span> (enunciative-apparatus, being-event, re-performance, hyperbolic-risk). Please do this by 21:00.
 </p>
 
+{{</ expand >}}
+
 ### Week 6: Oct 5, Oct 7, Oct 9 – Ode
+
+{{< expand "Long Odes" >}}
 
 <p class="descript">
 This week we pay closer attention to notions like "voice," "address," and "dialogue" in order to better understand these longer poems work. We will also continue to apply the concepts encountered last week: ritual, fiction, deixis, the four parameters, and ask ourselves which of these terms seem most helpful.
@@ -211,6 +216,7 @@ Start Essay 2. Focus on determining which term(s) you'd like to focus on and wha
 <span class="yellow">Essay 2 “Ritual, Fiction” (Due 10/16, 22:00)</span>
 <p class="descript", style="margin-top:-.5em">Revisions, if needed, are due on October 28.</p>
 
+{{</ expand >}}
 
 ### Week 7: Oct 12, 16 – Essays on Ashbery + Moore
 
@@ -240,7 +246,7 @@ No classes on October 14. 🍂 Go play outside! 🍂
 Oct 16 -  Rest Day
 <p class = "descript">
 In honor of fall break, and Essay 2, there is nothing to do for today.<br>
-We will watch and discuss an episode from John Berger's <i>Ways of Seeing</i>.
+We will watch and discuss Episode 1 from John Berger's <i>Ways of Seeing</i>.
 </p>
 
 
@@ -253,44 +259,38 @@ Take the mid-term survey on Canvas. Please respond by Saturday at 10 pm.
 <span class="blue" style="margin-left:0em">**Individual Conference II**</span><br>
 (Schedule by 10/28, use [calendly.com/dp625](https://calendly.com/dp625))
 
-Oct 19 - Barthes, *Camera Lucida* (First part); Modernist Imagism
-<p class="descript">
-<b>Try to read half of Barthes (p. 18-30) on Saturday and the rest (p. 31-60) on Sunday.</b><br>
-Post an excerpt from Barthes that you found important or interesting <span class="slack">#punctum</span>, as well as a photo (does not have to relate directly to the excerpt). Briefly describe its <i>studium</i> and <i>punctum</i>. You may wish to comment on the Barthes excerpt as well, but it's not required.
 <p class="descript">
 Over the next weeks, will discuss the validity of identifying poetry with photography, and practice identifying <i>puncta</i> in both photos and poems. Poets may include: Will Alexander, Paul Celan, Aimé Césaire, Emily Dickinson, Robert Hass, Mina Loy, Stéphane Mallarmé, Jean Toomer, Tomas Tranströmer, and César Vallejo.<br>
 </p>
 
+Oct 19 - Barthes, *Camera Lucida* (First part); Modernist Imagism
+<p class="descript">
+<b>Try to read half of Barthes (p. 18-30) on Saturday and the rest (p. 31-60) on Sunday.</b><br>
+Post an excerpt from Barthes that you found important or interesting <span class="slack">#punctum</span>, and/or post a photo and describe its "studium" and/or "punctum." If it's a personal photo you do not want to share, you can just post the verbal description.
+
 
 Oct 21 - Image poems, "Symbolism" (PEPP)
 <p class="descript">
-We will continue to discuss the poems from last class, with a focus on those with "symbolist" influences. Read the "Symbolism" entry prior to class. Share any interesting passages in <span class="slack">#punctum</span>.
-
-<p class="descript">
-
-</p>
+We will continue to discuss the poems from last class, with a focus on those with "symbolist" influences. Read the "Symbolism" entry prior to class. Share any interesting passages in <span class="slack">#symbol</span>.
 
 
 Oct 23 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences"
 <p class="descript">
-We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
+We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors." Post a passage of interest from the poem and from the essay in <span class="slack">#symbol</span>.
 
-
-{{< details "Discussion Board" close >}}
-<p class="descript">
-Comment on a particular word or phrase that might be a "punctum" for you—choose any of this week's readings, or one of the previously discussed poems. Try to free associate (you can include personal associations) and don't worry too much about adhering to essayistic conventions. By now, you may have a pretty good idea of what poem(s) you will write about for the final paper, so it's best to write about something you see yourself writing on more.
-</p>
-{{< /details >}}
 
 ### Week 9: Oct 26, 28, 30 – Image
 
 
 Oct 26 - Tranströmer, Toomer, Hass, ...
 <p class="descript">
-Prior to class, read the <a href="http://www.jstor.com/stable/10.7312/alfo18754.4">Introduction</a> to Lucy Alford's <i>Forms of Poetic Attention</i>, pages 1-4, 12-15. Post a brief summary to <span class="slack">#rhetoric</span>. In class, we'll practice applying
+Prior to class, read the <a href="http://www.jstor.com/stable/10.7312/alfo18754.4">Introduction</a> to Lucy Alford's <i>Forms of Poetic Attention</i>, pages 1-4, 12-15. Post a brief summary to <span class="slack">#rhetoric</span>. In class, we'll discuss the forms of attention we give to different poems.
 </p>
 
 Oct 28 - César Vallejo, Aimé Césaire
+<p class="descript">
+Preparation: TBA
+</p>
 
 
 {{< hint warning >}}
@@ -304,6 +304,12 @@ Optional: Virgil, Georgics (Book IV); Hass, "Georgic"
 Preparation: TBA
 </p>
 
+{{< details "Discussion Board" close >}}
+<p class="descript">
+Comment on a particular word or phrase that might be a "punctum" for you—choose any of this week's readings, or one of the previously discussed poems. Try to free associate (you can include personal associations) and don't worry too much about adhering to essayistic conventions. By now, you may have a pretty good idea of what poem(s) you will write about for the final paper, so it's best to write about something you see yourself writing on more.
+</p>
+{{< /details >}}
+
 <span class="yellow">Essay 3 “Punctum” (Due 11/6, 22:00)</span>
 
 ### Week 10: Nov 2, 4, 6 — Who are Poets?
@@ -312,11 +318,11 @@ Preparation: TBA
 This week is an opportunity to practice description–of the poet's voice, attitude, style, etc. More specifically, we are going to think about <i>adjectives.</i>
 </p>
 
-Nov 2 - Reginald Shepherd, "To Make Me Who I Am"; Will Alexander, essays
+Nov 2 - Reginald Shepherd, "To Make Me Who I Am"
 
-Nov 4 - Jos Charles, *Feeld*
+Nov 4 - Will Alexander, essays
 
-Nov 6 -
+Nov 6 - Jos Charles, *Feeld*
 
 
 {{< details "Discussion Board" close >}}
@@ -337,7 +343,7 @@ Nov 9 - Rilke, "Letters to a Young Poet"
 
 Nov 11 - Ben Lerner, *The Hatred of Poetry*
 
-Nov 13 -
+Nov 13 - Review
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
