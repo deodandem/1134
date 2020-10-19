@@ -263,18 +263,18 @@ Take the mid-term survey on Canvas. Please respond by Saturday at 10 pm.
 Over the next weeks, will discuss the validity of identifying poetry with photography, and practice identifying <i>puncta</i> in both photos and poems. Poets may include: Will Alexander, Paul Celan, Aimé Césaire, Emily Dickinson, Robert Hass, Mina Loy, Stéphane Mallarmé, Jean Toomer, Tomas Tranströmer, and César Vallejo.<br>
 </p>
 
-Oct 19 - Barthes, *Camera Lucida* (First part); Modernist Imagism
+Oct 19 - Barthes, *Camera Lucida* (First part)
 <p class="descript">
 <b>Try to read half of Barthes (p. 18-30) on Saturday and the rest (p. 31-60) on Sunday.</b><br>
 Post an excerpt from Barthes that you found important or interesting <span class="slack">#punctum</span>, and/or post a photo and describe its "studium" and/or "punctum." If it's a personal photo you do not want to share, you can just post the verbal description.
 
 
-Oct 21 - Image poems, "Symbolism" (PEPP)
+Oct 21 - Image poems (Modernist, Symbolist, etc.)
 <p class="descript">
-We will continue to discuss the poems from last class, with a focus on those with "symbolist" influences. Read the "Symbolism" entry prior to class. Share any interesting passages in <span class="slack">#symbol</span>.
+We will continue to discuss the poems from last class, with a focus on those associated with "modernism" or "symbolism." Review Image slides before class. If you didn't post in <span class="slack">#punctum</span> yet, please do so by posting an excerpt from <i>Camera lucida</i> with commentary, and briefly comment on the studium+punctum of a photo or poem from the slides.
 
 
-Oct 23 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences"
+Oct 23 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
 <p class="descript">
 We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors." Post a passage of interest from the poem and from the essay in <span class="slack">#symbol</span>.
 
