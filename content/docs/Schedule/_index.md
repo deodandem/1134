@@ -175,7 +175,7 @@ Pay close attention to how the nine poems presented in the chapter are analyzed.
 
 ### Week 6: Oct 5, Oct 7, Oct 9 – Ode
 
-{{< expand "Long Odes" >}}
+{{< expand "Ashbery+Moore" >}}
 
 <p class="descript">
 This week we pay closer attention to notions like "voice," "address," and "dialogue" in order to better understand these longer poems work. We will also continue to apply the concepts encountered last week: ritual, fiction, deixis, the four parameters, and ask ourselves which of these terms seem most helpful.
@@ -219,7 +219,7 @@ Start Essay 2. Focus on determining which term(s) you'd like to focus on and wha
 {{</ expand >}}
 
 ### Week 7: Oct 12, 16 – Essays on Ashbery + Moore
-
+{{< expand "Rhetoric" >}}
 <p class="descript">
 In preparation for Essay 2, we'll work through some essays on the poems we read last week, or on the theoretical texts we previously read, searching for rhetorical strategies, argumentative structures, and sentence forms that we can use in our own writing.
 </p>
@@ -254,6 +254,7 @@ We will watch and discuss Episode 1 from John Berger's <i>Ways of Seeing</i>.
 Take the mid-term survey on Canvas. Please respond by Saturday at 10 pm.
 {{< /hint >}}
 
+{{</ expand >}}
 
 ### Week 8: Oct 19, 21, 23 – Image
 <span class="blue" style="margin-left:0em">**Individual Conference II**</span><br>
@@ -274,18 +275,17 @@ Oct 21 - Image poems (Modernist, Symbolist, etc.)
 We will continue to discuss the poems from last class, with a focus on those associated with "modernism" or "symbolism." Review Image slides before class. If you didn't post in <span class="slack">#punctum</span> yet, please do so by posting an excerpt from <i>Camera lucida</i> with commentary, and briefly comment on the studium+punctum of a photo or poem from the slides.
 
 
-Oct 23 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
+Oct 23 - Image poems (Modernist, Symbolist, etc.)
 <p class="descript">
-We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors." Post a passage of interest from the poem and from the essay in <span class="slack">#symbol</span>.
-
+Continuation of previous class, with a focus on Pound, Hughes, Toomer—modernism and race.
 
 ### Week 9: Oct 26, 28, 30 – Image
 
 
-Oct 26 - Tranströmer, Toomer, Hass, ...
+Oct 26 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
 <p class="descript">
-Prior to class, read the <a href="http://www.jstor.com/stable/10.7312/alfo18754.4">Introduction</a> to Lucy Alford's <i>Forms of Poetic Attention</i>, pages 1-4, 12-15. Post a brief summary to <span class="slack">#rhetoric</span>. In class, we'll discuss the forms of attention we give to different poems.
-</p>
+We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors." Some discussion of Mallarmé as well. Post a passage of interest from the poem and from the essay in <span class="slack">#symbol</span>.
+
 
 Oct 28 - César Vallejo, Aimé Césaire
 <p class="descript">
@@ -297,12 +297,11 @@ Preparation: TBA
 Special: Attend a lecture by Jonathan Culler at 4:30 PM. Information has been sent out by email, and may be re-posted to Canvas closer to the date.
 {{< /hint >}}
 
-Oct 30 - Christopher Dewdney, *The Natural History* (1)
+Oct 30 - Tranströmer, Hass, Dewdney...
 <p class="descript">
-Optional: Virgil, Georgics (Book IV); Hass, "Georgic"
-<p class="descript">
-Preparation: TBA
+Prior to class, read the <a href="http://www.jstor.com/stable/10.7312/alfo18754.4">Introduction</a> to Lucy Alford's <i>Forms of Poetic Attention</i>, pages 1-4, 12-15. Post a brief summary to <span class="slack">#rhetoric</span>. In class, we'll discuss the forms of attention we give to different poems.
 </p>
+
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
@@ -318,11 +317,11 @@ Comment on a particular word or phrase that might be a "punctum" for you—choos
 This week is an opportunity to practice description–of the poet's voice, attitude, style, etc. More specifically, we are going to think about <i>adjectives.</i>
 </p>
 
-Nov 2 - Reginald Shepherd, "To Make Me Who I Am"
+Nov 2 - Will Alexander, essays
 
-Nov 4 - Will Alexander, essays
+Nov 4 - Jos Charles, *Feeld*
 
-Nov 6 - Jos Charles, *Feeld*
+Nov 6 - Reginald Shepherd, "To Make Me Who I Am"
 
 
 {{< details "Discussion Board" close >}}
