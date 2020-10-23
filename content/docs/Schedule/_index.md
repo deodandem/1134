@@ -272,31 +272,31 @@ Post an excerpt from Barthes that you found important or interesting <span class
 
 Oct 21 - Image poems (Modernist)
 <p class="descript">
-We will continue to discuss the poems from last class, with a focus on those associated with "modernism" or "symbolism." Review Image slides before class. If you didn't post in <span class="slack">#punctum</span> yet, please do so by posting an excerpt from <i>Camera lucida</i> with commentary, and briefly comment on the studium+punctum of a photo or poem from the slides.
+We will continue to discuss the poems from last class. Review Image slides before class. If you didn't post in <span class="slack">#punctum</span> yet, please do so by posting an excerpt from <i>Camera Lucida</i> with commentary, and briefly comment on the studium+punctum of a photo or poem from the slides.
 
 
-Oct 23 - Image poems (Modernist)
+Oct 23 - Image, Sound (Modernist)
 <p class="descript">
-Continuation with a focus on Pound, Hughes, Toomer. Discussion of modernism, race, and dialect poetry. Do poems index 'identity'? How does that affect how we read?
+Continuation with a focus on Pound, Hughes, Toomer. Discussion of the role of education, inception of 'multi-culturalism' through the University. Modernist poetry as an elite and/or didactic project. Role of black poets in the history of modernist poetry. Finally—do we focus on the visual more, or the aural?
 
 ### Week 9: Oct 26, 28, 30 – Image
 
+Oct 26 - Image, Sound (Modernist)
 <p class="descript">
-A more miscellaneous survey of poets, and some time to explore the defining features of images, metaphors, metonymy, and symbols. You should get some rest this week, finish up revisions by the 28th or 30th, and start thinking about what you'd like to write about for the final essay.
-</p>
-
-Oct 26 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
-<p class="descript">
-We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
-Post a passage of interest from the poem and from either the essay or the PEPP entry in <span class="slack">#symbol</span>. You may want to form connections between the two, or comment on one or the other separately.
+Modernism, race, and the registration of non-standard dialects in poetry. Do poems index 'identity'? How does that affect how we read? Prior to class, find a recording of a human speaking (reading poetry, singing, giving a speech, etc.) in any language and post it to <span class="slack">#sound</span>. Write a brief description of this voice. How does it sound, what does it evoke?
 
 Oct 28 - César Vallejo, Aimé Césaire, Will Alexander
+<p class="descript">
+Heading from modernism toward a miscellaneous survey of poets. We will take some time to explore the defining features of images, metaphors, metonymy, and symbols.
 
 {{< hint warning >}}
 Special: Attend a lecture by Jonathan Culler at 4:30 PM. Information has been sent out by email, and may be re-posted to Canvas closer to the date.
 {{< /hint >}}
 
-Oct 30 - Tomas Tranströmer, Robert Hass, Christopher Dewdney
+Oct 30 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
+<p class="descript">
+We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
+Post a passage of interest from the poem and from either the essay or the PEPP entry in <span class="slack">#symbol</span>. You may want to form connections between the two, or comment on one or the other separately.
 
 
 {{< details "Discussion Board" open >}}
@@ -316,7 +316,7 @@ Nov 2 - Paul Celan, Jos Charles
 
 Nov 4 - Terrance Hayes, Ben Lerner
 
-Nov 6 - 
+Nov 6 - Tomas Tranströmer, Robert Hass, Christopher Dewdney
 
 
 {{< details "Discussion Board" close >}}
@@ -337,7 +337,7 @@ Nov 9 - Ben Lerner, *The Hatred of Poetry*
 
 Nov 11 - Rilke, "Letters to a Young Poet"
 
-Nov 13 - 
+Nov 13 - Review
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
