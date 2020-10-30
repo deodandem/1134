@@ -285,24 +285,17 @@ Oct 26 - Image, Sound (Modernist)
 <p class="descript">
 Modernism, race, and the registration of non-standard dialects in poetry. Do poems index 'identity'? How does that affect how we read? Prior to class, find a recording of a human speaking (reading poetry, singing, giving a speech, etc.) in any language and post it to <span class="slack">#sound</span>. Write a brief description of this voice. How does it sound, what does it evoke?
 
-Oct 28 - César Vallejo, Aimé Césaire, Will Alexander
+Oct 28 - Collaborative essay
 <p class="descript">
-Heading from modernism toward a miscellaneous survey of poets. We will take some time to explore the defining features of images, metaphors, metonymy, and symbols.
+
 
 {{< hint warning >}}
 Special: Attend a lecture by Jonathan Culler at 4:30 PM. Information has been sent out by email, and may be re-posted to Canvas closer to the date.
 {{< /hint >}}
 
-Oct 30 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
-<p class="descript">
-We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
-Post a passage of interest from the poem and from either the essay or the PEPP entry in <span class="slack">#symbol</span>. You may want to form connections between the two, or comment on one or the other separately.
+Oct 30 - Collaborative essay
 
 
-{{< details "Discussion Board" open >}}
-<p class="descript">
-Find a poem that has a "punctum" for you. Write two introductory paragraphs for Essay 3. Remember that this can be more experimental in terms of genre, so you can try writing in the story or memoir genre, not necessarily in the style of an academic essay. Then, take notes on what you want to add or work on going forward. This can include pointers to specific external sources. Post by Sunday night at 22:00.</p>
-{{< /details >}}
 
 <span class="yellow">Essay 3 “Punctum” (Due 11/6, 22:00)</span>
 
@@ -312,18 +305,15 @@ Find a poem that has a "punctum" for you. Write two introductory paragraphs for 
 This week is an opportunity to practice description–of the poet's voice, attitude, tone, style, sensibility, etc. More specifically, we are going to think about how to use <i>adjectives.</i>
 </p>
 
-Nov 2 - Paul Celan, Jos Charles
+Nov 2 - Paul Celan, Jos Charles, Tomas Tranströmer, Robert Hass, Christopher Dewdney
 
 Nov 4 - Terrance Hayes, Ben Lerner
 
-Nov 6 - Tomas Tranströmer, Robert Hass, Christopher Dewdney
-
-
-{{< details "Discussion Board" close >}}
+Nov 6 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
 <p class="descript">
-What do you plan on writing about for your final essay, and how do you plan on going about it? Make a list of sources you want to use and how you plan on using them.
-</p>
-{{< /details >}}
+We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
+Post a passage of interest from the poem and from either the essay or the PEPP entry in <span class="slack">#symbol</span>. You may want to form connections between the two, or comment on one or the other separately.
+
 
 
 ### Week 11: Nov 9, 11, 13 — Poetic Value
@@ -341,7 +331,7 @@ Nov 13 - Review
 
 {{< details "Discussion Board" close >}}
 <p class="descript">
-Draft and share the first three paragraphs of your final essay.
+What do you plan on writing about for your final essay, and how do you plan on going about it? Make a list of sources you want to use and how you plan on using them.
 </p>
 {{< /details >}}
 
