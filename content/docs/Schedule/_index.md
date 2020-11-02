@@ -303,15 +303,15 @@ Finishing up with "The Leopard," comparing it now with Frank O'Hara's "Chez Jane
 ### Week 10: Nov 2, 4, 6 — Poetic Controversy
 
 
-Nov 2 - Paul Celan, Jos Charles, Tomas Tranströmer, Robert Hass, Christopher Dewdney
+Nov 2 - Sylvia Plath
+<p class="descript">
+We will discuss "Lady Lazarus."
 
-Nov 4 - Terrance Hayes, Ben Lerner
+Nov 4 - Terrance Hayes, Ben Lerner, Paul Celan
 
 Nov 6 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
 <p class="descript">
 We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
-Post a passage of interest from the poem and from either the essay or the PEPP entry in <span class="slack">#symbol</span>. You may want to form connections between the two, or comment on one or the other separately.
-
 
 
 ### Week 11: Nov 9, 11, 13 — Poetic Value
@@ -323,7 +323,7 @@ We will talk about poetry's "value" and how poems are valued: what kinds of expe
 
 Nov 9 - Ben Lerner, *The Hatred of Poetry*
 
-Nov 11 - 'Bad' poetry
+Nov 11 - What is 'bad poetry'?
 
 Nov 13 - Review
 
