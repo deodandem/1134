@@ -287,23 +287,21 @@ Modernism, race, and the registration of non-standard dialects in poetry. Do poe
 
 Oct 28 - Collaborative essay
 <p class="descript">
-
+An exercise in generating thoughts on Lorenzo Thomas's "The Leopard."
 
 {{< hint warning >}}
 Special: Attend a lecture by Jonathan Culler at 4:30 PM. Information has been sent out by email, and may be re-posted to Canvas closer to the date.
 {{< /hint >}}
 
 Oct 30 - Collaborative essay
-
+<p class="descript">
+Finishing up with "The Leopard," comparing it now with Frank O'Hara's "Chez Jane."<br>
 
 
 <span class="yellow">Essay 3 “Punctum” (Due 11/6, 22:00)</span>
 
-### Week 10: Nov 2, 4, 6 — Who are Poets?
+### Week 10: Nov 2, 4, 6 — Poetic Controversy
 
-<p class="descript">
-This week is an opportunity to practice description–of the poet's voice, attitude, tone, style, sensibility, etc. More specifically, we are going to think about how to use <i>adjectives.</i>
-</p>
 
 Nov 2 - Paul Celan, Jos Charles, Tomas Tranströmer, Robert Hass, Christopher Dewdney
 
@@ -325,7 +323,7 @@ We will talk about poetry's "value" and how poems are valued: what kinds of expe
 
 Nov 9 - Ben Lerner, *The Hatred of Poetry*
 
-Nov 11 - Rilke, "Letters to a Young Poet"
+Nov 11 - 'Bad' poetry
 
 Nov 13 - Review
 
