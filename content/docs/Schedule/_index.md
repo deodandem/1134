@@ -295,7 +295,7 @@ Special: Attend a lecture by Jonathan Culler at 4:30 PM. Information has been se
 
 Oct 30 - Collaborative essay
 <p class="descript">
-Finishing up with "The Leopard," comparing it now with Frank O'Hara's "Chez Jane."<br>
+Finishing up the discussion of "The Leopard," comparison with Frank O'Hara's "Chez Jane."<br>
 
 
 <span class="yellow">Essay 3 “Punctum” (Due 11/6, 22:00)</span>
@@ -305,33 +305,35 @@ Finishing up with "The Leopard," comparing it now with Frank O'Hara's "Chez Jane
 
 Nov 2 - Sylvia Plath
 <p class="descript">
-We will discuss "Lady Lazarus."
+We will discuss her poem "Lady Lazarus." What do you find controversial or disturbing in this poem? How do you think about, resolve, or discuss these points of contention?
 
-Nov 4 - Terrance Hayes, Ben Lerner, Paul Celan
-
-Nov 6 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
+Nov 4 - First Sentences
 <p class="descript">
-We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
+We will practice drafting first sentences of a hypothetical essay on "Lady Lazarus," with close attention to how diction and syntactic structure determines or suggests what comes next.
 
+Nov 6 - Politics in the Poem
+<p class="descript">
+We will take a look at several post-9/11 poems and discuss the role of politics in the poem. Does political language change how you engage with poetry? Is it an impediment or a site of attraction for you? Poems include Robert Hass's "Dancing," Hayan Charara's "Usage," excerpts from Claudia Rankine's <i>Citizen</i>, and a sonnet from Ben Lerner's <i>The Lichtenberg Figures.</i>
 
-### Week 11: Nov 9, 11, 13 — Poetic Value
+### Week 11: Nov 9, 11, 13 — Politics & Science
 
 <p class="descript">
-We will talk about poetry's "value" and how poems are valued: what kinds of expectation, forms of attention, modes of engagement allow for the appreciation of poetry.
+We will discuss the relationship between certain complex topics, political and scientific, and poetry's "value." Are all poems political? What is politics? What does scientific language bring to the poem? How does your reaction to specific poems, their forms, and their topics relate to your own values as a reader and writer?
 </p>
 
 
-Nov 9 - Ben Lerner, *The Hatred of Poetry*
-
-Nov 11 - What is 'bad poetry'?
-
-Nov 13 - Review
-
-{{< details "Discussion Board" close >}}
+Nov 9 - Politics and Values
 <p class="descript">
-What do you plan on writing about for your final essay, and how do you plan on going about it? Make a list of sources you want to use and how you plan on using them.
-</p>
-{{< /details >}}
+Poems by Claudia Rankine, Terrance Hayes, Robert Hass, Rainer Maria Rilke
+
+
+Nov 11 - Politics and Form
+<p class="descript">
+Poems by Paul Celan, Amiri Baraka
+
+Nov 13 - Science and the Poem
+<p class="descript">
+Poems by Mei-Mei Berssenbrugge, César Vallejo, Christopher Dewdney, Christian Bök
 
 <hr>
 
