@@ -329,7 +329,7 @@ Poems by Claudia Rankine, Terrance Hayes, Robert Hass, Rainer Maria Rilke
 
 Nov 11 - Politics and Form
 <p class="descript">
-Poems by Paul Celan, Amiri Baraka
+Poems by Paul Celan, Amiri Baraka, Gwendolyn Brooks
 
 Nov 13 - Science and the Poem
 <p class="descript">
