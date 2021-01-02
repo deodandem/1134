@@ -9,28 +9,20 @@ bookFlatSection: false
 * https://www.library.cornell.edu/research/citation
 * https://www.library.cornell.edu/services/apps/passkey
 
-<div style="margin-left:0; margin-bottom:-.5em;">Poetry</div>
+<div style="margin-left:0; margin-bottom:-.5em;">Poetry Online</div>
 
 * Poetry Foundation
+* Poets.org
 * ubuweb  
 * Pennsound
-* arquivopessoa.net
-* Norton Anthology of Poetry
+
+<div style="margin-left:0; margin-bottom:-.5em;">Anthologies</div>
+
+* Black Nature
+* The Breakbeat Poets
 * The Making of a Sonnet, ed. Boland and Hirsch, 2008
-
-<div style="margin-left:0; margin-bottom:-.5em;">Procedural poetry</div>
-
-* Uncreative Writing (Kenneth Goldsmith)
-* Duchamp is My Lawyer (Kenneth Goldsmith, 2020)
-* http://chesspoetry.com
-* [Cent mille millards de poèmes](http://www.bevrowe.info/Queneau/QueneauRandom_v4.html)
-* ...
-
-<div style="margin-left:0; margin-bottom:-.5em;">Documentary poetry</div>
-
-* The Manhattan Project (Ken Hunt)
-* The Connection of Everyone With Lungs (Juliana Spahr)
-*  ...
+* The Norton Anthology of Poetry
+* The Penguin Anthology of 20th Century American Poetry
 
 <div style="margin-left:0; margin-bottom:-.5em;">Theory</div>
 
@@ -44,13 +36,31 @@ bookFlatSection: false
 * Practical Criticism
 * Poetry and Mind: Tractatus Poetico-Philosophicus
 * [Linguistics and Poetics](https://monoskop.org/images/8/84/Jakobson_Roman_1960_Closing_statement_Linguistics_and_Poetics.pdf)
+* Summa Lyrica
 
 
-<div style="margin-left:0; margin-bottom:-.5em;">Other non-fiction</div>
+<div style="margin-left:0; margin-bottom:-.5em;">Essays</div>
 
-* The Hatred of Poetry, Ben Lerner
+* *The Hatred of Poetry,* Ben Lerner
 * "Wager as Essay," Joan Retallack
-* https://meanjin.com.au/essays/capitalism-and-the-uselessness-of-the-poem/
+* *Proofs and Theories,* Louise Glück
+* *Orpheus in the Bronx,* Reginald Shepherd
+* *What Light Can Do,* Robert Hass
+
+<div style="margin-left:0; margin-bottom:-.5em;">Publishers</div>
+
+* Coach House
+* Copper Canyon
+* Graywolf Press
+* Small Press Distribution
+
+<div style="margin-left:0; margin-bottom:-.5em;">Prizes</div>
+
+* The Pulitzer Prize in Poetry
+* The National Book Award in Poetry
+* The Griffin Poetry Prize
+* The T.S. Eliot Prize
+* The Nobel Prize
 
 <div style="margin-left:0; margin-bottom:-.5em;">Miscellaneous</div>
 

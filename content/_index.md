@@ -3,78 +3,67 @@ title: Welcome!
 type: docs
 ---
 
-# Welcome!
-<div style="text-align:right">
+<h1 style="text-align:center; font-family: Helvetica Neue"> Welcome to Spring 2021!</h1>
+
+<div style="text-align:center">
 Didi Chang-Park (he)<br>
 dp625@cornell.edu<br>  
 <a href="https://calendly.com/dp625" style="font-weight: bold; border: dotted; border-width: 1px; padding: 2px; border-radius: 4px; line-height: 2em;">Office Hours</a>
 </div>
 
 ## COML 1134: Reading Poetry (FWS)                      
-
-Poems are puzzles, or are they plants? In this class, we will respond to key questions like "How does this poem work?" or "Why do I like it?" Poems are often thought of as infinite in the possibilities of perception and wonder they produce. We will grapple with the paradox of writing about poetry in a closed, concise form without domesticating it, by investigating how reading poetry can teach us how to write anew. How are lines and stanzas related to sentences and paragraphs? Can ideas "rhyme?" Are notions such as deixis, voice, metaphor, apostrophe, prosody, and the "lyric I" essential to producing a cogent and truthful argument in any discipline?
+Poems are puzzles, or are they plants? In this class, we will respond to key questions like "How does this poem work?" and "Why do I like it?" We will also grapple with the paradox of writing about poetry in a closed, concise form without domesticating it, by investigating how reading poetry can teach us how to write anew. How are lines and stanzas related to sentences and paragraphs? Can ideas "rhyme?" Are notions such as deixis, voice, metaphor, apostrophe, prosody, and the "lyric I" essential to producing a cogent and truthful argument in any discipline?
 
 ## Learning Outcomes
 <div style="margin-left:2em">
 
-### Method
-This course is focused on developing skills for attentive reading. We will carry out exercises that make reading an enjoyable and dynamic process that can be used to discover the structures, patterns, meaning, and linguistic innovation in poems. Such an observational acumen is crucial to success in other fields.
+1. This course is focused on developing skills for *attentive reading.* You will leave the course with a heightened sensitivity to line, meter, rhyme, and other linguistic forms in poetry. You will also learn how to describe the world or voice of a poem or poet through corpus-driven, historical, and/or biographical research. The former will strengthen your analytical skills, while the latter will challenge you to synthesize wide-ranging kinds of information.
 
-### Theory
-We will discuss the definition of “lyric poetry,” and its relationship to various “ritual” and “fictional” elements. Being able to define and identify poetic elements accurately and precisely will allow you to more fully appreciate how individual poems innovate or diverge from pre-established traditions.
+2. Writing is revising, and the best revisions arise from collaborative efforts. You will learn to approach writing as a kind of dialogue with yourself, poems, poets, peers, scholars, and the world. The essay sequence is meant to guide you toward writing a final paper that is much more meaningful and surprising than anything you could have accomplished in isolation.
 
-### Writing
-Writing is revising, and the best revisions arise from collaborative efforts. You will learn to approach writing as a kind of dialogue with yourself, poems, poets, peers, scholars, and the world. The essay sequence is meant to guide you toward writing a final paper that is much more meaningful and surprising than anything you could have accomplished in isolation.
-</div>
+3. You will walk away from this course with a stronger sense of what you value and why you value it. What makes a particular poem (or topic, or song, or subject) more powerful than another one? To what extent is value dependent on personal preferences? How do these preferences come to be, and what effects do they have on the world of poetry?
 
-## Requirements
+## Materials
 
-<ul>
-<li>Attendance and participation in class and online
-<li>Two individual meetings with the instructor
-<li>Timely completion of essay assignments
-</ul>
+All readings will be made available on Canvas, linked to the schedule on this website, or uploaded to Slack. Please do not circulate slides, handouts, scans, or any other course materials online.
 
-There will be five essays, four will be given a letter grade.
+You are encouraged to read beyond the course materials. Use the library; use JSTOR, use HathiTrust and other databases. You can check out books from other libraries using BorrowDirect if they are currently unavailable at Cornell.
 
-* Essay 0 – "First Day" – 1-2 pages (September 7)
-* Essay 1 – "Line, Meter" – 3-5 pages (September 25)
-* Essay 2 – "Ritual, Fiction" – 3-5 pages (October 16)
-* Essay 3 – "Punctum" – 3-5 pages (October 30)
-* Essay 4 – "Final" – 8-12 pages (December 17)
-
-The final version of each assignment prompt will be available at least one week in advance of the due date. Listed page counts are useful guidelines, but you may write more if it feels important to do so.
-Essays should follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html">MLA citation and style guidelines,</a> with Times New Roman font and **1.7** line spacing.[^1] Turn in all papers as PDFs on Canvas. Submit a copy of the poem in the front matter of your paper (see template on Canvas). Separately attach a voice recording of you reading the poem. Your recitation is not going to be evaluated, but may be helpful for observing aspects of a poem that are not apparent through silent reading.
+If you're interested in buying books, check Abebooks and Powell's for discount prices. Buffalo Street Books and Odyssey Bookstore are some local options with curbside pickup. While electronic books have their benefits, physical books enable casual encounters with random pages and invite rereading. Tablets are also recommended for marking up texts.
 
 
-## Course Materials
+## FWS Requirements
 
-All readings will be made available on Canvas or linked to the schedule at least a week in advance. If you are looking for a resource not on the syllabus that is unavailable at the library, let me know, and I will try to help.
+There will be five essays, 1-4 will be given a letter grade.
 
-Since many poems are digitized and access to printing is limited, you must bring electronic devices to class for the sake of viewing PDFs or ebooks.
+Essay 0 – "First Day" – 1-2 pages (February 12)    
+Essay 1 – "Forms" – 3-5 pages (March 5)  
+Essay 2 – "Responding" – 3-5 pages (March 26)    
+Essay 3 – "Punctum" – 3-5 pages (April 16)  
+Essay 4 – "Final" – 8-12 pages (May 19)
 
-You are encouraged to purchase one or two books in hard copy, especially from Abebooks, Powell's, or the local Buffalo Street Books. While electronic books have their benefits, the physical book encourages casual encounters with random pages and invites rereading.
+Essays 1-3 count for 20% each, Essay 4 counts for 40%. See individual rubrics for each essay as they are released for exact grading criteria. It is possible to earn an A+ in this class if and only if you receive an A+ on Essay 4. I may nominate up to two students per term to submit work to one of the Knight Institute's FWS prizes.
 
-Tablets are highly recommended for marking up texts and tend to be more conducive to focused reading.
+Please follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html">MLA citation and style guidelines,</a> with Times New Roman font. Be sure to put commas and periods inside quotation marks: "Hello," he said / She said "hello." There is one special rule for this class: use **1.7** line spacing, not the typical double-spacing.[^1] 
+
+
+## Participation
+
+We use Slack to share brief responses to poems and prompts prior to (and sometimes in) class. The quality and consistency of your output on these assignments is strongly correlated with your performance on the essays, but does not directly contribute to your grade.
+
+Canvas discussion board posts and peer review exchanges are essential and cannot be missed. You can submit them a bit late if need be, without any penalty, but a missed assignment will lead to an A- cap on your final grade.
+
+If you miss class, send an email letting me know. You may miss up to 3 classes for any reason before your grade is capped at an A-. Missing more than six classes leads to a B+ maximum, more than nine leads to a B, etc. Arriving more than 10 minutes late three times counts as an absence. Sleeping in class will lead to a concerned email and counts as two absences, since it can be distracting to others. Please get enough sleep!
+
+Try to speak up during every discussion, or at very least once a week. If you're naturally shy or have difficulty participating in impromptu discussions, send me an email with a comment or question after class. Grades are capped at an A- for students who rarely participate in or outside of class.
+
+Participation-related grading caps are cumulative, so if you have missed four classes and rarely participated in class throughout the term, your grade would be capped at a B+. I will let you know how you are doing with participation (Slack, DB posts, peer review, attendance, discussions) when returning feedback for Essays 1, 2, and 3.
+
 
 ## Grading
 
-The minimum expected grade, B- will be given to those who
-<ol style="margin-left:2em">
-1. Miss no more than three classes*<br>
-2. Participate in all class activities**<br>
-3. Complete all essays on time***
-</ol>
+The final grade is calculated by taking the weighted average of the four essay grades and subtracting any participation-related penalties. 
 
-Grades above this depend on quality of essay assignments. It will be difficult to do well on the writing assignments if you are not participating regularly. Essays 1-3 count for 20% each, Essay 4 counts for 40%. Essay 0 is purely diagnostic and not graded. See individual rubrics for each essay as they are released for exact grading criteria.
-
-Numerical scale: 98-100% (A+), 93-97% (A), 90-92% (A-), 88-89% (Β+), 83-87% (B), …
-
-*&nbsp;Being more than 15 minutes late to class counts as an absence. Being more than 5 minutes late three times counts as an absence. Absences beyond three will not negatively affect your grade if they are due to a medical emergency or quarantine mandate. Otherwise, each additional absence constitutes a 1% deduction from the final grade.
-
-** You can miss up to three slack discussion posts, but you must complete all Canvas discussion board posts. Slack posts should be in by 21:00 prior to class; Canvas discussion board posts should also be timely but you may post them as much as 24 hours late.
-
-*** The essay must show some attempt to respond to the prompt. I cannot give credit to essays turned in more than 24 hours late. If you need an extension, contact me and we'll work something out. Otherwise, adhering to deadlines will help you deal with even more stringent deadlines in other classes and life situations, so it is important to start following them now.
 
 ## Zoom
 
@@ -82,10 +71,10 @@ If you need to access class online, reference the Canvas "Zoom" tab for access. 
 
 ## Policy
 
+* This webpage is subject to change at all times. Substantive edits will be announced via Canvas. The instructor may make exceptions to the grading policies listed above.
 * Writing submitted for this course may be read and shared among other members of the class with student permission, typically for peer review exercises.
 * Writing submitted for this course must have been written for this course and not another and must originate with you in form and content with all contributory sources fully and specifically acknowledged. See Cornell’s <a href="https://theuniversityfaculty.cornell.edu/academic-integrity/">Guide to Academic Integrity</a>. Penalty for a violation of the code is normally an 'F' for the term.
 * This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to the physically handicapped, visually and/or hearing impaired student; sexual harassment; discrimination based on race, ethnicity, and gender identity. Students are advised to become familiar with the respective <a href="https://www.dfa.cornell.edu/sites/default/files/vol6_4.pdf">University regulations</a> and are encouraged to bring any questions or concerns to the attention of the instructor.
 * If you have a disability-related need for this course, provide the instructor with an accommodation notification letter from Student Disability Services. Students are expected to give two weeks’ notice for requested accommodations. If you need immediate accommodations sooner, please speak to the instructor about your need by the end of the first week.
-* This webpage is subject to change at all times. Substantive edits will be announced via Canvas.
 
 [^1]: The total minimum page count, 1+3+3+3+8=18, converted to the standard double spacing, amounts to the 20-page minimum mandated by the Knight institute.

@@ -1,6 +1,7 @@
 ---
-weight: 1
+weight: 0
 bookFlatSection: false
+bookHidden: true
 ---
 
 # COML 1134: Reading Poetry (FWS)
@@ -270,84 +271,70 @@ Oct 19 - Barthes, *Camera Lucida* (First part)
 Post an excerpt from Barthes that you found important or interesting <span class="slack">#punctum</span>, and/or post a photo and describe its "studium" and/or "punctum." If it's a personal photo you do not want to share, you can just post the verbal description.
 
 
-Oct 21 - Image poems (Modernist, Symbolist, etc.)
+Oct 21 - Image poems (Modernist)
 <p class="descript">
-We will continue to discuss the poems from last class, with a focus on those associated with "modernism" or "symbolism." Review Image slides before class. If you didn't post in <span class="slack">#punctum</span> yet, please do so by posting an excerpt from <i>Camera lucida</i> with commentary, and briefly comment on the studium+punctum of a photo or poem from the slides.
+We will continue to discuss the poems from last class. Review Image slides before class. If you didn't post in <span class="slack">#punctum</span> yet, please do so by posting an excerpt from <i>Camera Lucida</i> with commentary, and briefly comment on the studium+punctum of a photo or poem from the slides.
 
 
-Oct 23 - Image poems (Modernist, Symbolist, etc.)
+Oct 23 - Image, Sound (Modernist)
 <p class="descript">
-Continuation with a focus on Pound, Hughes, Toomer: modernism and race.
+Continuation with a focus on Pound, Hughes, Toomer. Discussion of the role of education, inception of 'multi-culturalism' through the University. Modernist poetry as an elite and/or didactic project. Role of black poets in the history of modernist poetry. Finally—do we focus on the visual more, or the aural?
 
 ### Week 9: Oct 26, 28, 30 – Image
 
-
-Oct 26 - José Lezama Lima, "[Muerte de Narciso](https://cornell.box.com/s/qh6pbolwgqiamtlcs7v4dqossp156hrl)," "Confluences," "Symbolism" (PEPP)
+Oct 26 - Image, Sound (Modernist)
 <p class="descript">
-We will discuss "Muerte de Narciso" and the nature of "symbols" and "metaphors."
-Post a passage of interest from the poem and from either the essay or the PEPP entry in <span class="slack">#symbol</span>. You may want to form connections between the two, or comment on one or the other separately.
+Modernism, race, and the registration of non-standard dialects in poetry. Do poems index 'identity'? How does that affect how we read? Prior to class, find a recording of a human speaking (reading poetry, singing, giving a speech, etc.) in any language and post it to <span class="slack">#sound</span>. Write a brief description of this voice. How does it sound, what does it evoke?
 
-Oct 28 - César Vallejo, Aimé Césaire
+Oct 28 - Collaborative essay
 <p class="descript">
-Preparation: TBA
-</p>
-
+An exercise in generating thoughts on Lorenzo Thomas's "The Leopard."
 
 {{< hint warning >}}
 Special: Attend a lecture by Jonathan Culler at 4:30 PM. Information has been sent out by email, and may be re-posted to Canvas closer to the date.
 {{< /hint >}}
 
-Oct 30 - Tranströmer, Hass, Dewdney...
+Oct 30 - Collaborative essay
 <p class="descript">
-Prior to class, read the <a href="http://www.jstor.com/stable/10.7312/alfo18754.4">Introduction</a> to Lucy Alford's <i>Forms of Poetic Attention</i>, pages 1-4, 12-15. Post a brief summary to <span class="slack">#rhetoric</span>. In class, we'll discuss the forms of attention we give to different poems.
-</p>
+Finishing up the discussion of "The Leopard," comparison with Frank O'Hara's "Chez Jane."<br>
 
-
-{{< details "Discussion Board" close >}}
-<p class="descript">
-Find a poem that has a "punctum" for you. Following the Essay 3 guidelines, write two introductory paragraphs. Don't worry too much about adhering to essayistic conventions. Post by Sunday night at 22:00.</p>
-{{< /details >}}
 
 <span class="yellow">Essay 3 “Punctum” (Due 11/6, 22:00)</span>
 
-### Week 10: Nov 2, 4, 6 — Who are Poets?
+### Week 10: Nov 2, 4, 6 — Poetic Controversy
+
+
+Nov 2 - Sylvia Plath
+<p class="descript">
+We will discuss her poem "Lady Lazarus." What do you find controversial or disturbing in this poem? How do you think about, resolve, or discuss these points of contention?
+
+Nov 4 - First Sentences
+<p class="descript">
+We will practice drafting first sentences of a hypothetical essay on "Lady Lazarus," with close attention to how diction and syntactic structure determines or suggests what comes next.
+
+Nov 6 - Politics in the Poem
+<p class="descript">
+We will take a look at several post-9/11 poems and discuss the role of politics in the poem. Does political language change how you engage with poetry? Is it an impediment or a site of attraction for you? Poems include Robert Hass's "Dancing," Hayan Charara's "Usage," excerpts from Claudia Rankine's <i>Citizen</i>, and a sonnet from Ben Lerner's <i>The Lichtenberg Figures.</i>
+
+### Week 11: Nov 9, 11, 13 — Politics & Science
 
 <p class="descript">
-This week is an opportunity to practice description–of the poet's voice, attitude, style, etc. More specifically, we are going to think about <i>adjectives.</i>
-</p>
-
-Nov 2 - Will Alexander, essays
-
-Nov 4 - Jos Charles, *Feeld*
-
-Nov 6 - Reginald Shepherd, "To Make Me Who I Am"
-
-
-{{< details "Discussion Board" close >}}
-<p class="descript">
-What do you plan on writing about for your final essay, and how do you plan on going about it? Make a list of sources you want to use and how you plan on using them.
-</p>
-{{< /details >}}
-
-
-### Week 11: Nov 9, 11, 13 — Poetic Value
-
-<p class="descript">
-We will talk about poetry's "value" and how poems are valued: what kinds of expectation, forms of attention, modes of engagement allow for the appreciation of poetry.
+We will discuss the relationship between certain complex topics, political and scientific, and poetry's "value." Are all poems political? What is politics? What does scientific language bring to the poem? How does your reaction to specific poems, their forms, and their topics relate to your own values as a reader and writer?
 </p>
 
 
-Nov 9 - Rilke, "Letters to a Young Poet"
-
-Nov 11 - Ben Lerner, *The Hatred of Poetry*
-
-Nov 13 - Review
-
-{{< details "Discussion Board" close >}}
+Nov 9 - Politics and Values
 <p class="descript">
-Draft and share the first three paragraphs of your final essay.
-</p>
-{{< /details >}}
+Poems by Claudia Rankine, Terrance Hayes, Robert Hass, Rainer Maria Rilke
+
+
+Nov 11 - Politics and Form
+<p class="descript">
+Poems by Paul Celan, Amiri Baraka, Gwendolyn Brooks
+
+Nov 13 - Science and the Poem
+<p class="descript">
+Poems by Mei-Mei Berssenbrugge, César Vallejo, Christopher Dewdney, Christian Bök
 
 <hr>
 
