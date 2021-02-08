@@ -23,7 +23,7 @@ We will continue with poems on the slides from Day 1.<br>
 
 <span class="yellow">Essay 0 - "First Day" (Due 2/12, 22:00)</span>
 
-2/12: Rhyme
+2/12: Continuation, Rhyme
 
 
 ### Week 2: Feb 15, 17, 19 – Rhyme
@@ -31,7 +31,7 @@ We will continue with poems on the slides from Day 1.<br>
 <span class="blue" style="margin-left:0em">**Individual Conference I**</span>
 
 
-2/15: Selected sonnets
+2/15: Reflection on Essay 0
 
 2/17: Monovocalic constraints
 
@@ -187,7 +187,6 @@ Continuation with a focus on Pound, Hughes, Toomer. Discussion of the role of ed
 4/5 - Derek Walcott, Hart Crane
 
 4/7 -  Sylvia Plath, Paul Celan
-
 
 4/9 - Joseph Brodsky, Frank O'Hara
 
