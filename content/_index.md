@@ -42,7 +42,7 @@ Essay 2 – "Responding" – 3-5 pages (March 26)
 Essay 3 – "Punctum" – 3-5 pages (April 16)  
 Essay 4 – "Final" – 8-12 pages (May 19)
 
-Essays 1-3 count for 20% each, Essay 4 counts for 40%. See individual rubrics for each essay as they are released for exact grading criteria. Essays 1-3 may be revised up to a week after feedback is received; Essay 4 will go through a drafting process, but may not be revised after feedback is released. It is possible to earn an A+ in this class if and only if you receive an A+ on Essay 4. I may nominate up to two students per term to submit work to one of the Knight Institute's FWS prizes.
+Essays 1-3 count for 20% each, Essay 4 counts for 40%. See individual rubrics for each essay as they are released for exact grading criteria. Essays 1-3 may be revised multiple times up to a week after feedback is received; Essay 4 will go through a drafting process, but may not be revised after feedback is released. It is possible to earn an A+ in this class if and only if you receive an A+ on Essay 4. I may nominate up to two students per term to submit work to one of the Knight Institute's FWS prizes.
 
 Please follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html">MLA citation and style guidelines,</a> with Times New Roman font. Be sure to put commas and periods inside quotation marks: "Hello," he said / She said "hello." There is one special rule for this class: use **1.7** line spacing, not the typical double-spacing.[^1] 
 
