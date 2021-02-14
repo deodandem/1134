@@ -24,6 +24,10 @@
   </url>
   
   <url>
+    <loc>https://1134.netlify.app/docs/writing/fallindex/</loc>
+  </url>
+  
+  <url>
     <loc>https://1134.netlify.app/docs/qfa/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
@@ -61,6 +65,23 @@
   <url>
     <loc>https://1134.netlify.app/docs/writing/4/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://1134.netlify.app/docs/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://1134.netlify.app/docs/archive/fall-index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://1134.netlify.app/docs/schedule/fall/</loc>
+  </url>
+  
+  <url>
+    <loc>https://1134.netlify.app/menu/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

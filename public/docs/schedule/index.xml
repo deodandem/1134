@@ -10,5 +10,16 @@
 	<atom:link href="https://1134.netlify.app/docs/schedule/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://1134.netlify.app/docs/schedule/fall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://1134.netlify.app/docs/schedule/fall/</guid>
+      <description>COML 1134: Reading Poetry (FWS) #  Week 1: Sept 2, 4 – Introduction #   What do you notice? ↕  9/2: Introduction
+What&#39;s your relationship to reading? What does it feel like to read different kinds of texts? This week we will read five poems by A.R. Ammons, Christian Bök, H.D., Reginald Shepherd, and Juliana Spahr. What do you notice in each? 9/4: Selections from 9/2
+Make the introduction post to the Discussion Board.</description>
+    </item>
+    
   </channel>
 </rss>

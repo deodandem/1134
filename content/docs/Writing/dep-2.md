@@ -3,24 +3,27 @@ title = "Essay 2"
 description = ""
 date = "2020-08-19"
 menu = "main"
+draft="True"
 +++
 
 <div class="essay">
 
-# Essay 2 - "Speaker"
+# Essay 2 - "Ritual, Fiction"
 
 [This assignment will be updated in the next few weeks.]
 
-Due Sunday, 4/4 at 22:00; revisions due 4/16 at 22:00
+Due Friday, 4/6 at 22:00
+Revisions due 4/16 at 22:00
 
 ### Prompt
-As we have discussed in class, lyric poems may be defined in terms of their “ritual” and “fictional” elements, in terms of their use of "deixis," in terms of the "four parameters," or in terms of the "three voices." All of these terms ultimately help us discuss the simple question: "Who is speaking?" Respond to this, following a more specific sub-prompt:
-
-
+As we have discussed in class, lyric poems may be defined in terms of their “ritual” and “fictional” elements, in terms of their use of "deixis," in terms of the "four parameters," or in terms of the "three voices." Choose a poem or a group of poems and relate them to one or more of these terms. Here are some sub-prompts you may choose to address:
 <ul style="margin-left: 2em">
-<li> Discuss how the speaker-addressee relationship formed in a poem reflects and/or subverts its genre, form, historical context, and/or subject matter.
-<li> Write about a poem that seems particularly "lyrical" to you and one which seems less so; discuss why this is the case. This may help readers understand what makes some poems more poetic than others, or it may help them better appreciate the latter poem.
-<li> Write about a poem that seems particularly challenging to you and use a term (or terms) listed above to help the reader better appreciate it—this is a reader's "how-to" guide. Make sure to describe exactly what makes the poem challenging before analyzing it.
+<li> Write about a poem that seems particularly "lyrical" to you and make a case for which of the terms best describes them.
+<li> Write about a poem that seems particularly challenging to you and make a case for which of the terms best helps you understand or better appreciate it.
+<li> Choose some sonnets from a sequence and describe how the <span class="key">ritual</span> and <span class="key">fictional</span> dimensions allow this sequence to cohere and develop. You might want to argue that these two categories overlap more than the separation of terms suggests.
+<li> Identify the term that most immediately describes how your chosen poem(s) works, but then show how a less obvious term in fact applies to it and thus leads you to a more complete or well-rounded appreciation of the poem.
+<li> Identify a central point of interest in a poem, such as a conceit, or a pattern in lineation, meter, or rhyme, and show how it pertains to ritual, fiction, or the various modes of address described in  Culler or Eliot's texts.
+
 </ul>
 
 ### Specifications
@@ -74,14 +77,14 @@ As we have discussed in class, lyric poems may be defined in terms of their “r
 
 ### Grading criteria
 
-A: Satisfies all of the above.  
-A- Satisfies 1-4, some issues with items 6-13.  
-B+: Some issues with items 1-4, satisfies everything else.  
-B:  Some issues with 1-4, minor issues with 6-13.  
-B-: Some issues with 1-4, various issues with 6-13.  
+A: 15/15  
+A-: 13-14/15  
+B+: 11-12/15  
+B: 6-10/15  
+B-: Satisfies instructions 1-4 and 5 or 6  
 ≤ C+: At the instructor's discretion
 
-Submit your best work the first time around, even if that means turning in your paper slightly late (within 24 hours of the due date). The grade is assigned based on the last revision you are able to turn in before the revision deadline. You may want to use the [Knight Institute Writing Center](https://cornell.mywconline.net) for additional help.
+Submit your best work the first time around, even if that means turning in your paper slightly late (within 24 hours of the due date). The rubric is not designed to be "evaluative," but to give concrete pointers for the revision process. All essays which do not receive 15/15 should be revised. The grade is assigned based on the last revision you are able to turn in before the revision deadline. You may want to use the [Knight Institute Writing Center](https://cornell.mywconline.net) for additional help.
 
 
 
