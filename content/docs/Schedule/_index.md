@@ -38,20 +38,18 @@ We continue with the remaining poems on the slides, including an excerpt from Ch
 
 ### Week 2: Feb 15, 17, 19 – Rhyme
 
-2/15: "Susie Asado," Hip-hop Lyrics, Cowboy Poetry
+2/15: "Susie Asado," "Rhyme" (PEPP), "Repetition" (PEPP)
 <p class="descript">
-Discussion of rhyme and repetition in oral poetries. Discussion will likely include: Goddard Tuckerman, Alexander Pope, Gertrude Stein, R.A.P. Ferreira, Wally McRae 
+Discussion of Stein's poem, and how to scan through reference sources for key information.
 
-    
-
-2/17: "Rhyme" (PEPP), "Repetition" (PEPP)
+2/17: "Shearing the Sheep"
 <p class="descript">
-Discussion of how to scan through reference sources for key information, how to cite and respond to secondary sources, comparison between what we discover through discussion and how professionals write about the same ideas.
+An exercise in poetry composition. Our topic is fear. Our formal constraint is rhyme. But how do we go from vague ideas and various rules to an actual written text? Using rhymezone, the dictionary, and crowdsourced ideas about fear and related words, we'll attempt to write a poem together.
 
-2/19: Harryette Mullen
+2/19: Harryette Mullen, Christian Bök, R.A.P. Ferreira, Eminem
 <p class="descript">
+Discussion of rhyme and repetition in written and oral poetries. Discussion will likely include: Alexander Pope, Gertrude Stein, R.A.P. Ferreira, Eminem, Wally McRae, Harryette Mullen, and Christian Bök.
 
-<p class="descript">
 
 </p>
 
@@ -69,10 +67,10 @@ Discussion of how to scan through reference sources for key information, how to 
 <li>Keep a list of favorite lines mentioned in these chapters, in previous or future readings, and in poems you may have independently found. Try to figure out why you like a given line, couplet, or tercet of poetry. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?
 </ul>
 
-2/24: Selected poems by Robert Hass and A.R. Ammons
+2/24: Poems by Robert Hass and Louise Glück
 
-2/26: Selected poems by Mei-Mei Berssenbrugge, Ben Lerner
-<p class="descript">
+2/26: Poems by A.R. Ammons and Walt Whitman
+
 
 </p>
 
