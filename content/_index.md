@@ -37,9 +37,9 @@ If you're interested in buying books, check Abebooks and Powell's for discount p
 There will be five essays, 1-4 will be given a letter grade.
 
 Essay 0 – "First Day" – 1-2 pages (February 12)    
-Essay 1 – "Forms" – 3-5 pages (March 5)  
-Essay 2 – "Responding" – 3-5 pages (March 26)    
-Essay 3 – "Punctum" – 3-5 pages (April 16)  
+Essay 1 – "Rhyme, Line, Meter" – 3-5 pages (March 6)  
+Essay 2 – "Responding" – 3-5 pages (April 3)    
+Essay 3 – "Punctum" – 3-5 pages (April 23)  
 Essay 4 – "Final" – 8-12 pages (May 19)
 
 Essays 1-3 count for 20% each, Essay 4 counts for 40%. See individual rubrics for each essay as they are released for exact grading criteria. Essays 1-3 may be revised multiple times up to a week after feedback is received; Essay 4 will go through a drafting process, but may not be revised after feedback is released. It is possible to earn an A+ in this class if and only if you receive an A+ on Essay 4. I may nominate up to two students per term to submit work to one of the Knight Institute's FWS prizes.
