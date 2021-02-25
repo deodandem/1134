@@ -75,7 +75,7 @@ Discussion of rhyme and repetition in written and oral poetries. Discussion will
 </p>
 
 {{< hint db >}}
-**Discussion Board** — Draft a poem or a stanza from a poem. It could be an extension or revision of last week's post, or something new. Show four different ways of writing it on the page (using line breaks, stanza divisions, or virgules) and see if you can determine which one you prefer. Write a paragraph describing how you came up with the four arrangements and why you prefer the chosen one over the others. Cite Hass or another poem where necessary. <u>Post by 2/27 at 22:00. <b>Upload your work as a PDF attachment to the DB post; follow MLA formatting and citation rules.</b></u>
+**Discussion Board** — Draft a poem or a stanza from a poem. It could be an extension or revision of last week's post, or something new. Show three different ways of writing it on the page (using line breaks, stanza divisions, or virgules) and see if you can determine which one you prefer. Write a paragraph describing how you came up with the three arrangements and why you prefer the chosen one over the others. Cite Hass or another poem where necessary. <u>Post by 2/27 at 22:00. <b>Upload your work as a PDF attachment to the DB post; follow MLA formatting and citation rules.</b></u>
 {{< /hint >}}
 
 
