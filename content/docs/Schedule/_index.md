@@ -91,9 +91,7 @@ Discussion of rhyme and repetition in written and oral poetries. Discussion will
     
 <span class="yellow">Essay 1 "Rhyme, Line, Meter" (Due 3/7, 22:00)</span>
 
-3/5: Writing Introductions
-<p class="descript">
-    Come to class with the first paragraph of Essay 1 written. We will share first sentences and discuss best practices for beginning an essay.
+3/5: Whitman, cont.
 
 
 ### Week 5: Mar 8, 10, 12 – Sonnet
@@ -107,38 +105,43 @@ In this conference, I will give you feedback on Essay 1. The earlier you schedul
 We will take an &ldquo;inductive&rdquo; approach to the sonnet form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. Given these poems, we might ask: what do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile?  A small "reader" has been uploaded on Canvas ( > Files > Sonnet > 129-sonnets.pdf ).
 </p>
 
-3/8: *Art of the Sonnet,* selected entries
+3/8: *Art of the Sonnet,* selected sonnets
 <p class="descript">
-    We'll try to "mine" some of these entries for ideas on how to write.
+    Read the Introduction (p. 5-25) from <i>Art of the Sonnet.</i> Start reading poems from the Sonnet Reader; post poems that catch your eye in <span class="slack">#sonnet</span>. We'll pick out some quotes from the AoS Intro and look at some poems in the Sonnet reader in class. A few questions we will address: Why 14 lines? Why these rhyme schemes? Why and how did this form emerge? What are common topics addressed by the sonnet? What are its rhetorical stances and social, political, and/or aesthetic functions?
 
 3/10: No Class
 
-3/12: Baroque Sonnets
+3/12: Early Modern Sonnets
 <p class="descript">
-    Read the Introduction (p. 5-25) from <i>Art of the Sonnet.</i>
+    Continue posting sonnets in <span class="slack">#sonnet</span>, particularly those from the 19th-21st centuries. We will discuss the Early Modern sonnets (e.g., Petrarch, Shakespeare, Quevedo, Sor Juana) and look at some associated paintings. Why are death and eros such common topics, and how do these poets approach them?
+    
 
 
 ### Week 6: Mar 15, 17, 19 – Sonnet, cont.
 <p class="descript">
-This week we pay closer attention to notions like "voice," "address," and "dialogue" in order to better understand these longer poems work. We will also continue to apply the concepts encountered last week: ritual, fiction, deixis, the four parameters, and ask ourselves which of these terms seem most helpful.
-</p>
 
-3/15: Nature sonnets
 
-3/17 - New sonnets
+3/15: Sonnets from the 19th Century
+<p class="descript">
+    Read <i>Post-Petrarchism,</i> Introduction (p. 1-13) and Chapter 1 (p. 22-27). Post sonnets of interest in #sonnet.
+
+3/17: Sonnets from the 20th Century
+<p class="descript">
+    Read Chapter 1 from <i>Theory of the Lyric (p. 10-38)</i>
+
 
 <span class="yellow">Essay 1 Revisions (Due 3/19, 22:00)</span>
 
-3/19 - Ritual and Fiction
+3/19 - Sonnets from the 21st Century
 <p class="descript">
-    Read <i>Post-Petrarchism,</i> Introduction (p. 1-13) and Chapter 1 (p. 22-27)
-
 
 {{< hint db >}}
-**Discussion Board** — Write the first paragraph of Essay 2. <u>Post by 3/22 at 22:00.</u>
+**Discussion Board** — Pick a sonnet or ghazal and discuss its relationship with another poem of the same form. See if you can relate the poems with one of the concepts we learned in class, from the theoretical readings of the Encyclopedia. Your comparison may relate to the poems' differing takes on a similar topic, their enunciative apparati, the degree to which they are "hyperbolic," differing uses of ritual and fictional elements, and/or their respective takes on a similar conceit. <u>Post by 3/21 at 22:00.</u>
 {{< /hint >}}
 
 ### Week 7: Mar 22, 24, 26 – Ode
+This week we pay closer attention to notions like "voice," "address," and "dialogue" in order to better understand these longer poems work. We will also continue to apply the concepts encountered last week: ritual, fiction, deixis, the four parameters, and ask ourselves which of these terms seem most helpful.
+</p>
 
 3/22 - John Ashbery, "Self-Portrait in a Convex Mirror"
 
@@ -154,12 +157,11 @@ This week we pay closer attention to notions like "voice," "address," and "dialo
 <p class = "descript">
 Read T.S. Eliot's "The Three Voices of Poetry" prior to class.
 
-{{< hint danger >}}
-Take the mid-term survey on Canvas. Please respond by Saturday at 10 pm.
+{{< hint db >}}
+**Discussion Board** — Write a poem, preferrably a sonnet, that employs apostrophe.  <u>Post by 3/27 at 22:00.</u>
 {{< /hint >}}
 
-
-### Week 8: Mar 29, 31, Apr 2 – Theory of the Lyric
+### Week 8: Mar 29, 31, Apr 2 – Ode, cont.
 
 <span class="yellow">Essay 2 “Speaker” (Due 4/4, 22:00)</span>
 
@@ -212,7 +214,7 @@ How does the life of the poet affect your relationship to their work?
 4/16 - Frank O'Hara, John Yau 
 
 ### Week 11: Apr 19, 21, 23 — Values
-<span class="yellow">Essay 3 ("Punctum") (Due 4/23, 22:00)</span>
+<span class="yellow">Essay 3 ("Punctum") (Due 4/24, 22:00)</span>
 <p class="descript">
 Can you ascertain the values of a poet from reading their poetry?
     
