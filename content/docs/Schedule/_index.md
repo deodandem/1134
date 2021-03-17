@@ -121,19 +121,20 @@ We will take an &ldquo;inductive&rdquo; approach to the sonnet form this week by
 <p class="descript">
 
 
-3/15: Sonnets from the 19th Century
+3/15: Early Modern sonnet, cont.; Sonnets from the 19th Century
 <p class="descript">
     Read <i>Post-Petrarchism,</i> Introduction (p. 1-13) and Chapter 1 (p. 22-27). Post sonnets of interest in #sonnet.
 
-3/17: Sonnets from the 20th Century
+3/17: Sonnets from the 19th Century, cont.
 <p class="descript">
     Read Chapter 1 from <i>Theory of the Lyric (p. 10-38)</i>
 
 
 <span class="yellow">Essay 1 Revisions (Due 3/19, 22:00)</span>
 
-3/19 - Sonnets from the 21st Century
+3/19 - Sonnets from the 20th and 21st century
 <p class="descript">
+We will also discuss and apply terms from the theory readings in class.
 
 {{< hint db >}}
 **Discussion Board** — Pick a sonnet or ghazal and discuss its relationship with another poem of the same form. See if you can relate the poems with one of the concepts we learned in class, from the theoretical readings of the Encyclopedia. Your comparison may relate to the poems' differing takes on a similar topic, their enunciative apparati, the degree to which they are "hyperbolic," differing uses of ritual and fictional elements, and/or their respective takes on a similar conceit. <u>Post by 3/21 at 22:00.</u>
@@ -143,19 +144,19 @@ We will take an &ldquo;inductive&rdquo; approach to the sonnet form this week by
 This week we pay closer attention to notions like "voice," "address," and "dialogue" in order to better understand these longer poems work. We will also continue to apply the concepts encountered last week: ritual, fiction, deixis, the four parameters, and ask ourselves which of these terms seem most helpful.
 </p>
 
-3/22 - John Ashbery, "Self-Portrait in a Convex Mirror"
+3/22 - Marianne Moore, "An Octopus"
 
 <ul class="descript">
-<li> Read p. 68-76 of the Ashbery poem.
-<li> Then write a comment in <span class="slack">#ashbery</span> on a segment of the poem which felt particularly vivid, present, or clear to you and one which felt vague, abstract, or confusing. Does identifying deictics or finding instances of the four parameters at work change your understanding of that segment? Do this by 21:00 on Sunday.
-<li> Optional: Larissa Macfarquhar, <a href="https://www.newyorker.com/magazine/2005/11/07/present-waking-life">Present Waking Life: Becoming John Ashbery</a>. A copy is on Canvas in case you hit a paywall. Helpful if you're having trouble with Ashbery.
-<li> You may also want to refer to the <a href="https://en.wikipedia.org/wiki/Parmigianino#/media/File:Parmigianino_Selfportrait.jpg">Parmigianino painting</a> referred to in the poem's title.</ul>
 
 3/24 - The Three Voices
 <p class = "descript">
 Read T.S. Eliot's "The Three Voices of Poetry" prior to class.
 
-3/26 - Marianne Moore, "An Octopus" 
+3/26 - John Ashbery, "Self-Portrait in a Convex Mirror"
+<li> Read p. 68-76 of the Ashbery poem.
+<li> Then write a comment in <span class="slack">#ashbery</span> on a segment of the poem which felt particularly vivid, present, or clear to you and one which felt vague, abstract, or confusing. Does identifying deictics or finding instances of the four parameters at work change your understanding of that segment? Do this by 21:00 on Sunday.
+<li> Optional: Larissa Macfarquhar, <a href="https://www.newyorker.com/magazine/2005/11/07/present-waking-life">Present Waking Life: Becoming John Ashbery</a>. A copy is on Canvas in case you hit a paywall. Helpful if you're having trouble with Ashbery.
+<li> You may also want to refer to the <a href="https://en.wikipedia.org/wiki/Parmigianino#/media/File:Parmigianino_Selfportrait.jpg">Parmigianino painting</a> referred to in the poem's title.</ul>
 
 {{< hint db >}}
 **Discussion Board** — Write a poem, preferrably a sonnet, that employs apostrophe.  <u>Post by 3/27 at 22:00.</u>
@@ -204,31 +205,30 @@ Continuation with a focus on Pound, Hughes, Toomer. Discussion of the role of ed
 <span class="yellow">Essay 2 Revisions (Due 4/16, 22:00)</span>
 
 <p class="descript">
-How does the life of the poet affect your relationship to their work?
+How does knowing about the poet's life affect your relationship with their work?<br>Poets are subject to change, depending on class input.
 </p>
 
-4/12 - Paul Laurence Dunbar, Sylvia Plath
+4/12 - Paul Laurence Dunbar
 
-4/14 - Terrance Hayes, Cathy Park Hong 
+4/14 - Rainer Maria Rilke, Robinson Jeffers
 
 4/16 - Frank O'Hara, John Yau 
 
-### Week 11: Apr 19, 21, 23 — Values
+### Week 11: Apr 19, 21, 23 — Characters
 <span class="yellow">Essay 3 ("Punctum") (Due 4/24, 22:00)</span>
 <p class="descript">
-Can you ascertain the values of a poet from reading their poetry?
     
-4/19 - Robinson Jeffers, Rainer Maria Rilke
+4/19 -César Vallejo, Paul Celan
 
-4/21 - César Vallejo, Paul Celan
+4/21 - Claudia Rankine
 
 4/23 - No class
 
 
 
-### Week 12: Apr 26, 28, 30 -- Controversies
+### Week 12: Apr 26, 28, 30 -- Values and Controversies
 <p class="descript">
-Let's discuss a few debates that have arisen within the poetry establishment of the United States.
+Can you ascertain the values of a poet from reading their poetry?<br> What are some ways in which poets might clash and disagree?
     
 4/26: No class
 
@@ -241,7 +241,7 @@ Let's discuss a few debates that have arisen within the poetry establishment of 
 
 
 
-### Week 14: May 3, 5, 7 — Presentations
+### Week 13: May 3, 5, 7 — Presentations
 
 {{< details Guidelines close>}}
  Presentations are opportunities for you to share what you have been working on and stay accountable during the final stretch of writing for this course. Here are some constraints:
@@ -266,7 +266,7 @@ May 5:
 
 May 7: 
 
-### Week 15: May 10, 12, 14 — Presentations
+### Week 14: May 10, 12, 14 — Presentations
 
 May 10: 
 
