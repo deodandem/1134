@@ -151,27 +151,27 @@ This week we pay closer attention to notions like "voice," "address," and "dialo
 <li> Optional: Larissa Macfarquhar, <a href="https://www.newyorker.com/magazine/2005/11/07/present-waking-life">Present Waking Life: Becoming John Ashbery</a>. A copy is on Canvas in case you hit a paywall. Helpful if you're having trouble with Ashbery.
 <li> You may also want to refer to the <a href="https://en.wikipedia.org/wiki/Parmigianino#/media/File:Parmigianino_Selfportrait.jpg">Parmigianino painting</a> referred to in the poem's title.</ul>
 
-3/24 - Marianne Moore, "An Octopus" 
-
-3/26 - The Three Voices
+3/24 - The Three Voices
 <p class = "descript">
 Read T.S. Eliot's "The Three Voices of Poetry" prior to class.
+
+3/26 - Marianne Moore, "An Octopus" 
 
 {{< hint db >}}
 **Discussion Board** — Write a poem, preferrably a sonnet, that employs apostrophe.  <u>Post by 3/27 at 22:00.</u>
 {{< /hint >}}
 
-### Week 8: Mar 29, 31, Apr 2 – Ode, cont.
+### Week 8: Mar 29, 31, Apr 2 – Ode and Elegy
 
 <span class="yellow">Essay 2 “Speaker” (Due 4/4, 22:00)</span>
 
-3/29 - *Theory of the Lyric,* Introduction
+3/29 - Amiri Baraka, "Dope"
 
 
-3/31 - ABC of Reading, <a href="https://www.poetryfoundation.org/articles/69409/a-retrospect-and-a-few-donts">"A Retrospect"</a>
+3/31 - Sylvia Plath, "Daddy"
 
 
-4/2 - "American Narcissism," Louise Glück
+4/2 - Review
 
 ### Week 9: Apr 5, 7, 9 – Image
 
