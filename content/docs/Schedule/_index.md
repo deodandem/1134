@@ -144,19 +144,13 @@ We will also discuss and apply terms from the theory readings in class.
 This week we pay closer attention to notions like "voice," "address," and "dialogue" in order to better understand these longer poems work. We will also continue to apply the concepts encountered last week: ritual, fiction, deixis, the four parameters, and ask ourselves which of these terms seem most helpful.
 </p>
 
-3/22 - Marianne Moore, "An Octopus"
-
-<ul class="descript">
-
-3/24 - The Three Voices
+3/22 - Hayes and Yau (Contemporary Sonnet), The Three Voices
+<p class="descript">
+    
+3/24 - Marianne Moore, "An Octopus"
 <p class = "descript">
-Read T.S. Eliot's "The Three Voices of Poetry" prior to class.
 
 3/26 - John Ashbery, "Self-Portrait in a Convex Mirror"
-<li> Read p. 68-76 of the Ashbery poem.
-<li> Then write a comment in <span class="slack">#ashbery</span> on a segment of the poem which felt particularly vivid, present, or clear to you and one which felt vague, abstract, or confusing. Does identifying deictics or finding instances of the four parameters at work change your understanding of that segment? Do this by 21:00 on Sunday.
-<li> Optional: Larissa Macfarquhar, <a href="https://www.newyorker.com/magazine/2005/11/07/present-waking-life">Present Waking Life: Becoming John Ashbery</a>. A copy is on Canvas in case you hit a paywall. Helpful if you're having trouble with Ashbery.
-<li> You may also want to refer to the <a href="https://en.wikipedia.org/wiki/Parmigianino#/media/File:Parmigianino_Selfportrait.jpg">Parmigianino painting</a> referred to in the poem's title.</ul>
 
 {{< hint db >}}
 **Discussion Board** — Write a poem, preferrably a sonnet, that employs apostrophe.  <u>Post by 3/27 at 22:00.</u>
@@ -177,6 +171,7 @@ Read T.S. Eliot's "The Three Voices of Poetry" prior to class.
 ### Week 9: Apr 5, 7, 9 – Image
 
 <span class="blue" style="margin-left:0em">**Individual Conference II**</span><br>
+
 (Schedule by 4/2, use [calendly.com/dp625](https://calendly.com/dp625))
 
 {{< hint warning >}}
