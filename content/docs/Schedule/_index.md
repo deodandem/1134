@@ -161,12 +161,15 @@ This week we pay closer attention to notions like "voice," "address," and "dialo
 <span class="yellow">Essay 2 “Speaker” (Due 4/4, 22:00)</span>
 
 3/29 - Amiri Baraka, "Dope"
+<p class="descript">
+    See Rambsy's <a href="https://www.jstor.org/stable/40301253">"Catching Holy Ghosts: The Diverse Manifestations of Black Persona Poetry"</a>
+
+3/31 - Class Cancelled!
 
 
-3/31 - Sylvia Plath, "Daddy"
-
-
-4/2 - Review
+4/2 - Langston Hughes, "The Weary Blues"
+<p class="descript">
+    See Ramazani's <i>Poetry of Mourning,</i> Chapter 4
 
 ### Week 9: Apr 5, 7, 9 – Image
 
@@ -182,40 +185,37 @@ In this conference, I will give you feedback on Essay 2. The earlier you schedul
 We will discuss the validity of identifying poetry with photography, and practice identifying <i>puncta</i> in both photos and poems. Poets may include: Will Alexander, Paul Celan, Aimé Césaire, Emily Dickinson, Robert Hass, Mina Loy, Stéphane Mallarmé, Jean Toomer, Tomas Tranströmer, and César Vallejo.<br>
 </p>
 
-4/5 - Barthes, *Camera Lucida* (First part)
+4/5 - Sylvia Plath, "Daddy"
 <p class="descript">
-<b>Try to read half of Barthes (p. 18-30) on Saturday and the rest (p. 31-60) on Sunday.</b><br>
-Post an excerpt from Barthes that you found important or interesting <span class="slack">#punctum</span>, and/or post a photo and describe its "studium" and/or "punctum." If it's a personal photo you do not want to share, you can just post the verbal description.
-    
+     See Ramazani's <i>Poetry of Mourning,</i> Chapter 7
    
-4/7 -  Image (Modernist)
+4/7 - Barthes, *Camera Lucida* (First part)
 <p class="descript">
-We will continue to discuss the poems from last class. Review Image slides before class. If you didn't post in <span class="slack">#punctum</span> yet, please do so by posting an excerpt from <i>Camera Lucida</i> with commentary, and briefly comment on the studium+punctum of a photo or poem from the slides.
 
-4/9 - Image and Sound
+4/9 - Barthes, *Camera Lucida* (cont.)
 <p class="descript">
-Continuation with a focus on Pound, Hughes, Toomer. Discussion of the role of education, inception of 'multi-culturalism' through the University. Modernist poetry as an elite and/or didactic project. Role of black poets in the history of modernist poetry. Finally—do we focus on the visual more, or the aural?
+...With application of the terms "studium" and "punctum."
 
-### Week 10: Apr 12, 14, 16 — Characters
+### Week 10: Apr 12, 14, 16 — Image, cont.
 <span class="yellow">Essay 2 Revisions (Due 4/16, 22:00)</span>
 
 <p class="descript">
 How does knowing about the poet's life affect your relationship with their work?<br>Poets are subject to change, depending on class input.
 </p>
 
-4/12 - Paul Laurence Dunbar
+4/12 - Richard Wright, *Haiku*
 
-4/14 - Rainer Maria Rilke, Robinson Jeffers
+4/14 - Mina Loy, Vicente Huidobro
 
-4/16 - Frank O'Hara, John Yau 
+4/16 - Will Alexander, Aimé Césaire
 
-### Week 11: Apr 19, 21, 23 — Characters
+### Week 11: Apr 19, 21, 23 — Image, cont.
 <span class="yellow">Essay 3 ("Punctum") (Due 4/24, 22:00)</span>
 <p class="descript">
     
-4/19 -César Vallejo, Paul Celan
+4/19 - Mei-Mei Berssenbrugge, Arthur Sze
 
-4/21 - Claudia Rankine
+4/21 - Paul Celan, Atsuro Riley
 
 4/23 - No class
 
@@ -229,14 +229,14 @@ Can you ascertain the values of a poet from reading their poetry?<br> What are s
 
 <span class="yellow">Essay 4 Proposal (Due 4/30, 22:00)</span>
 
-4/28: Rita Dove v. Helen Vendler
+4/28: Rita Dove v. Helen Vendler, Marjorie Perloff
 <p class="descript">
 
 4/30: Rupi Kaur, Internet Poetry
 
 
 
-### Week 13: May 3, 5, 7 — Presentations
+### Week 13: May 3, 5, 7 — Characters (Presentations)
 
 {{< details Guidelines close>}}
  Presentations are opportunities for you to share what you have been working on and stay accountable during the final stretch of writing for this course. Here are some constraints:
@@ -261,7 +261,7 @@ May 5:
 
 May 7: 
 
-### Week 14: May 10, 12, 14 — Presentations
+### Week 14: May 10, 12, 14 — Characters (Presentations)
 
 May 10: 
 
