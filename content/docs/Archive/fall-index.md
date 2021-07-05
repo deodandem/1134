@@ -1,7 +1,6 @@
 ---
 type: docs
 bookHidden: true
-
 ---
 
 <div style="text-align:right">

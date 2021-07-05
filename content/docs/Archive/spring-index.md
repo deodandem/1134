@@ -1,12 +1,11 @@
 ---
-title: Schedule
 type: docs
+bookHidden: true
 ---
 
-<h1 style="text-align:center; font-family: Helvetica Neue"> Welcome to Fall 2021!</h1>
+<h1 style="text-align:center; font-family: Helvetica Neue"> Welcome to Spring 2021!</h1>
 
 <div style="text-align:center">
-    9:40-10:55, Tuesday/Thursday<br>
 Didi Chang-Park (he)<br>
 dp625@cornell.edu<br>  
 <a href="https://calendly.com/dp625" style="font-weight: bold; border: dotted; border-width: 1px; padding: 2px; border-radius: 4px; line-height: 2em;">Office Hours</a>
@@ -22,21 +21,11 @@ Poems are puzzles, or are they plants? In this class, we will respond to key que
 
 2. Writing is revising, and the best revisions arise from collaborative efforts. You will learn to approach writing as a kind of dialogue with yourself, poems, poets, peers, scholars, and the world. The essay sequence is meant to guide you toward writing a final paper that is much more meaningful and surprising than anything you could have accomplished in isolation.
 
-3. You will walk away from this course with a stronger sense of what you value and why you value it. What makes a particular poem (or topic, or song, or subject) more powerful than another one? To what extent is value dependent on personal preferences? How do these preferences come to be, and what effects do they have on the world of poetry? And how can you communicate to others the importance of what you value?
-
-## Communications
-
-* Announcements will be sent via Canvas after each class detailing the assignments for the following class. They should also arrive in your email inbox without delay.
-* Please send all course-related communication to my email, dp625@cornell.edu. Do not worry about sending too many emails!
-* If you have questions that might be relevant to others in the class, ask them via #general in Slack. If you find an error on the website, #general is a good place to bring it up, or you can private message me on Slack.
-* Do not use Slack to private message me about anything more pressing, as I tend to have notifications off and will respond more quickly to emails.
-* I am available to meet privately via Zoom, use the link calendly.com/dp625 to schedule a meeting. Open office hours will occur once per week for an hour over Zoom (use the Zoom tab in Canvas), exact time pending course survey.
-* If you are unsure about your grade on an assignment or feel concerned about your grade, do not hesitate to ask me about it; I will try to give you whatever guidance is necessary to help you improve on subsequent assignments.
-
+3. You will walk away from this course with a stronger sense of what you value and why you value it. What makes a particular poem (or topic, or song, or subject) more powerful than another one? To what extent is value dependent on personal preferences? How do these preferences come to be, and what effects do they have on the world of poetry?
 
 ## Materials
 
-All readings will be made available on Canvas, linked to the schedule on this website, or uploaded to Slack. Please do not circulate slides, handouts, scans, or any other course materials online, as some of the material may be copyrighted and only available for private, educational use.
+All readings will be made available on Canvas, linked to the schedule on this website, or uploaded to Slack. Please do not circulate slides, handouts, scans, or any other course materials online.
 
 You are encouraged to read beyond the course materials. Use the library; use JSTOR, use HathiTrust and other databases. You can check out books from other libraries using BorrowDirect if they are currently unavailable at Cornell.
 
@@ -47,11 +36,11 @@ If you're interested in buying books, check Abebooks and Powell's for discount p
 
 There will be five essays, 1-4 will be given a letter grade.
 
-Essay 0 – "First Day" – 1-2 pages (August 28)    
-Essay 1 – "Rhyme, Line, Meter" – 3-5 pages (September 24)  
-Essay 2 – "Poems in Dialogue" – 3-5 pages (October 22)    
-Essay 3 – "Studium, Punctum" – 3-5 pages (November 19)  
-Essay 4 – "Final" – 8-12 pages (December 10)
+Essay 0 – "First Day" – 1-2 pages (February 12)    
+Essay 1 – "Rhyme, Line, Meter" – 3-5 pages (March 6)  
+Essay 2 – "Responding" – 3-5 pages (April 3)    
+Essay 3 – "Punctum" – 3-5 pages (April 23)  
+Essay 4 – "Final" – 8-12 pages (May 19)
 
 Essays 1-3 count for 20% each, Essay 4 counts for 40%. See individual rubrics for each essay as they are released for exact grading criteria. Essays 1-3 may be revised multiple times up to a week after feedback is received; Essay 4 will go through a drafting process, but may not be revised after feedback is released. It is possible to earn an A+ in this class if and only if you receive an A+ on Essay 4. I may nominate up to two students per term to submit work to one of the Knight Institute's FWS prizes.
 
@@ -60,23 +49,20 @@ Please follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_styl
 
 ## Participation
 
-1. Kick-offs: Each student will be responsible for "kicking off" class discussion twice per term. One kick-off should relate to class material, and one should relate to the week's writing tasks. You may initiate a kick-off by providing some commentary on the day's readings and asking a few discussion questions (10 minutes total). If you miss a kick-off and fail to reschedule it, then your grade will be capped at an A-. The exact assignments for kick-offs will be determined at the beginning of each month.
+We use Slack to share brief responses to poems and prompts prior to (and sometimes in) class. The quality and consistency of your output on these assignments is strongly correlated with your performance on the essays, but does not directly contribute to your grade.
 
-2. Canvas discussion board posts and peer review exchanges are essential and cannot be missed. You can submit them a bit late if need be, without any penalty, but a missed assignment will lead to an A- cap on your final grade.
+Canvas discussion board posts and peer review exchanges are essential and cannot be missed. You can submit them a bit late if need be, without any penalty, but a missed assignment will lead to an A- cap on your final grade.
 
-3. We use Slack to share brief responses to poems and prompts prior to (and sometimes in) class. The quality and consistency of your output on these assignments is strongly correlated with your performance on the essays, but does not directly contribute to your grade. Use it as a forum for note-taking.
+If you miss class, send an email letting me know. You may miss up to 3 classes for any reason before your grade is capped at an A-. Missing more than six classes leads to a B+ maximum, more than nine leads to a B, etc. Arriving more than 10 minutes late three times counts as an absence. Sleeping in class will lead to a concerned email and counts as two absences, since it can be distracting to others. Please get enough sleep!
 
-4. If you miss class, send an email letting me know—it'll help you stay accountable. You may miss up to 3 classes for any reason before your grade is capped at an A-. Missing more than six classes will lead to a B+ maximum, more than nine leads to a B, etc. Arriving more than 10 minutes late three times counts as an absence. Sleeping in class will result in a concerned email from me and counts as two absences, since it can be distracting to others. Please get enough sleep!
+Try to speak up during every discussion, or at very least once a week. If you're naturally shy or have difficulty participating in impromptu discussions, send me an email with a comment or question after class. Grades are capped at an A- for students who rarely participate in or outside of class.
 
-5. Try to speak up during every discussion, or at very least once a week. If you're naturally shy or have difficulty participating in impromptu discussions, send me an email with a comment or question after class. Grades are capped at an A- for students who rarely participate in or outside of class.
+Participation-related grading caps are cumulative, so if you have missed four classes and rarely participated in class throughout the term, your grade would be capped at a B+. I will let you know how you are doing with participation (Slack, DB posts, peer review, attendance, discussions) when returning feedback for Essays 1, 2, and 3.
 
-6. At the end of the course, there will be room for student presentations. These are opportunities for you to share material with the class that we would not encounter otherwise, and to share what you've been working on for your final essay. These presentations are ungraded and entirely optional; on average just two to four students elect to present.
-
-7. Participation-related grading caps are cumulative, so if you have missed four classes and a kick-off, then your grade would be capped at a B+.
 
 ## Grading
 
-The final grade is calculated by taking the weighted average of the four essay grades and subtracting any participation-related penalties. A projection of your final grade will be appended to the feedback on Essays 1, 2, and 3.
+The final grade is calculated by taking the weighted average of the four essay grades and subtracting any participation-related penalties. 
 
 
 ## Zoom
@@ -86,7 +72,7 @@ If you need to access class online, reference the Canvas "Zoom" tab for access. 
 ## Policy
 
 * This webpage is subject to change at all times. Substantive edits will be announced via Canvas. The instructor may make exceptions to the grading policies listed above.
-* Writing submitted for this course may be read and shared among other members of the class on the Canvas site, typically for peer review exercises.
+* Writing submitted for this course may be read and shared among other members of the class with student permission, typically for peer review exercises.
 * Writing submitted for this course must have been written for this course and not another and must originate with you in form and content with all contributory sources fully and specifically acknowledged. See Cornell’s <a href="https://theuniversityfaculty.cornell.edu/academic-integrity/">Guide to Academic Integrity</a>. Penalty for a violation of the code is normally an 'F' for the term.
 * This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to the physically handicapped, visually and/or hearing impaired student; sexual harassment; discrimination based on race, ethnicity, and gender identity. Students are advised to become familiar with the respective <a href="https://www.dfa.cornell.edu/sites/default/files/vol6_4.pdf">University regulations</a> and are encouraged to bring any questions or concerns to the attention of the instructor.
 * If you have a disability-related need for this course, provide the instructor with an accommodation notification letter from Student Disability Services. Students are expected to give two weeks’ notice for requested accommodations. If you need immediate accommodations sooner, please speak to the instructor about your need by the end of the first week.
