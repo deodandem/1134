@@ -20,10 +20,10 @@ We will collectively discuss several poems, go over important class information,
 **Writing Tasks** — Think about what happens when you transfer your ideas to the page. Are you re-ordering them? Is it difficult to produce a coherent structure? What patterns do you observe in your own writing? Is there anything you'd like to change? </u>
 {{< /hint >}}
 
-
     
 <span class="yellow">Essay 0 - "First Day" (Due 8/28, 22:00)</span>
 
+<span class="yellow">Essay 0 - Peer review (Due 8/31, 22:00)</span>
 
 ### Week 2: Aug 31, Sep 2 – Rhyme
 
@@ -31,7 +31,6 @@ We will collectively discuss several poems, go over important class information,
 <p class="descript">
 We will continue discussing the poems from the slides, with an emphasis on discussing repetition and rhyme within each.<br>
 
-<span class="yellow">Essay 0 - Peer review (Due 8/31, 22:00)</span>
 
 9/2: Orality and Rhyme
 <p class="descript">
