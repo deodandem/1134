@@ -27,9 +27,8 @@ Poems are puzzles, or are they plants? In this class, we will respond to key que
 ## Communications
 
 * Announcements will be sent via Canvas after each class detailing the assignments for the following class. They should also arrive in your email inbox without delay.
-* Please send all course-related communication to my email, dp625@cornell.edu. Do not worry about sending too many emails!
+* Please send all course-related communication to my email, dp625@cornell.edu. Do not use Slack to private message me, simply because I will have my notifications off and respond much more readily to emails. Do not worry about sending too many emails! It is better to ask too many questions rather than too few.
 * If you have questions that might be relevant to others in the class, ask them via #general in Slack. If you find an error on the website, bring it up in #general.
-* Do not use Slack to private message me about anything more pressing, as I tend to have notifications off and respond more quickly to emails.
 * I am available to meet privately via Zoom; use the link calendly.com/dp625 to schedule a meeting. Open office hours will occur once per week for an hour over Zoom, through the Zoom tab in Canvas. The exact time will be set by week 2, pending course survey.
 * If you are unsure about your grade on an assignment or feel concerned about your grade, do not hesitate to ask me about it; I will try to give you whatever guidance is necessary to help you improve on subsequent assignments.
 
