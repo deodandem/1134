@@ -22,15 +22,15 @@ Poems are puzzles, or are they plants? In this class, we will respond to key que
 
 2. *Essay-writing.* You will learn to write essays which have the potential to contribute to literary scholarship, or which could lead to journalistic pursuits and other genres of writing, including the personal or "lyric" essay. Your final essay will display a complex understanding of its subject matter and incorporate detailed analysis of its primary texts. Its argument will be compellingly argued and thesis-driven, and hence follow the basic conventions of modern academic writing while still revealing an unmistakable personal style and mode of thinking.
 
-3. *Values.* What makes a particular poem (or topic, or song, or subject) more powerful than another one? How about a particular method of reading or speaking about poetry? To what extent is value dependent on personal preferences that are in turn related to my experiences and upbringing? How do these preferences come to be, and what effects do they have on the world of poetry? And how can I communicate the importance or relevance of my poetic values to others in different domains? You will be able to articulate answers to these questions by the end of the course.
+3. *Values.* What makes a particular poem (or topic, or song, or subject) more powerful than another one? How about a particular method of reading or speaking about poetry? To what extent is value dependent on personal preferences? How do these preferences come to be, and what effects do they have on the world of poetry? And how can I communicate the importance or relevance of my poetic values to others in different domains? You will be able to articulate answers to these questions by the end of the course.
 
 ## Communications
 
 * Announcements will be sent via Canvas after each class detailing the assignments for the following class. They should also arrive in your email inbox without delay.
 * Please send all course-related communication to my email, dp625@cornell.edu. Do not worry about sending too many emails!
-* If you have questions that might be relevant to others in the class, ask them via #general in Slack. If you find an error on the website, #general is a good place to bring it up, or you can private message me on Slack.
-* Do not use Slack to private message me about anything more pressing, as I tend to have notifications off and will respond more quickly to emails.
-* I am available to meet privately via Zoom, use the link calendly.com/dp625 to schedule a meeting. Open office hours will occur once per week for an hour over Zoom (use the Zoom tab in Canvas), exact time pending course survey.
+* If you have questions that might be relevant to others in the class, ask them via #general in Slack. If you find an error on the website, bring it up in #general.
+* Do not use Slack to private message me about anything more pressing, as I tend to have notifications off and respond more quickly to emails.
+* I am available to meet privately via Zoom; use the link calendly.com/dp625 to schedule a meeting. Open office hours will occur once per week for an hour over Zoom, through the Zoom tab in Canvas. The exact time will be set by week 2, pending course survey.
 * If you are unsure about your grade on an assignment or feel concerned about your grade, do not hesitate to ask me about it; I will try to give you whatever guidance is necessary to help you improve on subsequent assignments.
 
 
