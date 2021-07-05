@@ -80,7 +80,7 @@ The final grade is calculated by taking the weighted average of the four essay g
 
 ## Zoom
 
-If you need to access class online, reference the Canvas "Zoom" tab for access. Do not share the Zoom meeting information with outside parties. Keep your camera on, as it improves the quality of conversation. Mute your microphone when not speaking.
+Attendance via Zoom is no longer permissible. If you are experiencing a long-term illness or disability that keeps you from being able to attend class in person, I will consider revising this policy.
 
 ## Policy
 
