@@ -1,95 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://1134.netlify.app/docs/schedule/</loc>
-  </url>
-  
-  <url>
+    <loc>https://1134.netlify.app/docs/schedule/spring/</loc>
+  </url><url>
     <loc>https://1134.netlify.app/docs/process/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://1134.netlify.app/docs/schedule/</loc>
+  </url><url>
     <loc>https://1134.netlify.app/docs/writing/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/markup/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/resources/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/writing/fallindex/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/qfa/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/writing/0/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/writing/1/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/writing/2/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/writing/3/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/writing/4/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/archive/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/docs/archive/fall-index/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://1134.netlify.app/docs/archive/spring-index/</loc>
+  </url><url>
     <loc>https://1134.netlify.app/docs/schedule/fall/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/menu/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://1134.netlify.app/tags/</loc>
   </url>
-  
 </urlset>

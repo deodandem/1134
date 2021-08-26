@@ -72,6 +72,10 @@
     border-radius: $border-radius;
     font-size: 0.875em;
   }
+	
+	p .indented {
+		margin-left: 2em;
+	}
 
   pre {
     padding: $padding-16;
@@ -119,9 +123,11 @@
   }
 
   hr {
+		margin-top: 2.5em;
+		margin-bottom: 2.5em;
     height: $padding-1;
     border: none;
-    background: $gray-200;
+    background: black;
   }
 
   ul,

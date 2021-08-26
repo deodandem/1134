@@ -2,7 +2,6 @@
 
 // @import "plugins/numbered";
 
-
 q.descript {
   quotes: "“" "”" "‘" "’";
 }
@@ -15,6 +14,10 @@ q.descript {
     word-wrap: break-word;
 }
 
+hr {
+	width: 50%;
+	color: black;
+}
 .tooltip span {
     display:none;
 }
@@ -36,13 +39,6 @@ q.descript {
     z-index: 2;
 }
 
-ul, ol {
-    margin-left: 1em;
-}
-
-p {
-  margin-left: 2em;
-}
 
 p.descript {
   font-family: 'Garamond';

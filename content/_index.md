@@ -6,7 +6,7 @@ type: docs
 <h1 style="text-align:center; font-family: Helvetica Neue"> Welcome to Fall 2021!</h1>
 
 <div style="text-align:center">
-    9:40-10:55, Tuesday/Thursday<br>
+    9:40-10:55, Tuesday/Thursday, GS 158<br>
 Didi Chang-Park (he)<br>
 dp625@cornell.edu<br>  
 <a href="https://calendly.com/dp625" style="font-weight: bold; border: dotted; border-width: 1px; padding: 2px; border-radius: 4px; line-height: 2em;">Office Hours</a>
