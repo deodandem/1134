@@ -23,13 +23,13 @@ We will collectively discuss several poems, go over important class information,
     
 <span class="yellow">Essay 0 - "First Day" (Due 8/28, 22:00)</span>
 
-<span class="yellow">Essay 0 - Peer review (Due 8/31, 22:00)</span>
+<span class="yellow">Essay 0 - Peer review (Due 8/30, 22:00)</span>
 
 ### Week 2: Aug 31, Sep 2 – Rhyme
 
 8/31: "Rhyme" (PEPP), "Repetition" (PEPP)
 <p class="descript">
-We will continue discussing the poems from the slides, with an emphasis on discussing repetition and rhyme within each.<br>
+We will continue discussing the poems from the slides, with an emphasis on discussing repetition and rhyme within each. Read the above entries, under > Files > Encyclopedia.<br>
 
 
 9/2: Orality and Rhyme
