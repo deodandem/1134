@@ -86,7 +86,7 @@ Attendance via Zoom is no longer permissible. If you are experiencing a long-ter
 
 ## Policy
 
-* This webpage is subject to change at all times. Substantive edits will be announced via Canvas. The instructor may make exceptions to the grading policies listed above.
+* This webpage is subject to change at all times. Substantive edits will be announced via Canvas. The instructor may make exceptions to the grading policies listed above in rare circumstances, and only in ways which would apply to every student.
 * Writing submitted for this course may be read and shared among other members of the class on the Canvas site, typically for peer review exercises.
 * Writing submitted for this course must have been written for this course and not another and must originate with you in form and content with all contributory sources fully and specifically acknowledged. See Cornell’s <a href="https://theuniversityfaculty.cornell.edu/academic-integrity/">Guide to Academic Integrity</a>. Penalty for a violation of the code is normally an 'F' for the term.
 * This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to the physically handicapped, visually and/or hearing impaired student; sexual harassment; discrimination based on race, ethnicity, and gender identity. Students are advised to become familiar with the respective <a href="https://www.dfa.cornell.edu/sites/default/files/vol6_4.pdf">University regulations</a> and are encouraged to bring any questions or concerns to the attention of the instructor.
