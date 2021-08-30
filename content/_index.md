@@ -52,7 +52,7 @@ Essay 2 – "Poems in Dialogue" – 3-5 pages (October 22)
 Essay 3 – "Studium, Punctum" – 3-5 pages (November 19)  
 Essay 4 – "Final" – 8-12 pages (December 10)
 
-Essays 1-3 count for 20% each, Essay 4 counts for 40%. See individual rubrics for each essay as they are released for exact grading criteria. Essays 1-3 may be revised multiple times up to a week after feedback is received; Essay 4 will go through a drafting process, but may not be revised after feedback is released. An essay may be turned in up to 24 hours after the first deadline with no penalty. After that, the student is responsible for sending "status updates" informing the instructor of their progress. Late essays do not receive a grading penalty, but a draft turned in close to the final revision deadline will not be given an extended revision window.
+Essays 1-3 count for 20% each, Essay 4 counts for 40%. See individual rubrics for each essay as they are released for exact grading criteria. Essays 1-3 may be revised multiple times up to a week after feedback is received; Essay 4 will go through a drafting process, but may not be revised after feedback is released. An essay may be turned in up to 24 hours after the first deadline with no penalty. After that, the student is responsible for sending "status updates" informing the instructor of their progress. Late essays do not receive a penalty, but a draft turned in close to the final revision deadline will not be given an extended revision window.
 
 It is possible to earn an A+ in this class if and only if you receive an A+ on Essay 4. I may nominate up to two students per term to submit work to one of the Knight Institute's FWS prizes.
 
