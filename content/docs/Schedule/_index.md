@@ -85,7 +85,7 @@ Discussion of rhyme and repetition in written and oral poetries. Discussion will
 {{< /hint >}}
 
 
-### Week 5: Sep 21, 23 – Sonnet
+### Week 5: Sep 21, 23 – Sonnet (Early Modern)
 
 <span class="blue" style="margin-left:0em">**Individual Conference I**</span>
 
@@ -112,7 +112,7 @@ We will take an &ldquo;inductive&rdquo; approach to the sonnet form this week by
 {{< /hint >}}
     
 
-### Week 6: Sep 28, 30 – Sonnet, cont.
+### Week 6: Sep 28, 30 – Sonnet (19th-21st c)
 <p class="descript">
 
 9/28: 19th Century Sonnets
@@ -127,66 +127,64 @@ We will take an &ldquo;inductive&rdquo; approach to the sonnet form this week by
 **Writing Tasks** — How do you write an essay that involves comparison? How do you paraphrase, define, and write in response to another person's text?</u>
 {{< /hint >}}
 
-{{< hint db >}}
-**Discussion Board** — Pick a sonnet or ghazal and discuss its relationship with another poem of the same form. See if you can relate the poems with one of the concepts we learned in class, from the theoretical readings of the Encyclopedia. Your comparison may relate to the poems' differing takes on a similar topic, their enunciative apparati, the degree to which they are "hyperbolic," differing uses of ritual and fictional elements, and/or their respective takes on a similar conceit. <u>Post by 10/3 at 22:00.</u>
-{{< /hint >}}
 
 
-### Week 7: Oct 5, 7 – Ode
+### Week 7: Oct 5, 7 – Sonnet (Comparisons)
 
 <span class="yellow">Essay 1 Revisions (Due 10/8, 22:00)</span>
 
-This week we pay closer attention to notions like "voice," "address," and "dialogue" in order to better understand these longer poems work. We will also continue to apply the concepts encountered last week: ritual, fiction, deixis, the four parameters, and ask ourselves which of these terms seem most helpful.
 </p>
 
-10/5 - The Three Voices
+10/5 - Sonnets + External Readings
 <p class="descript">
     
-10/7 - Marianne Moore, "An Octopus"
+10/7 - Sonnets + External Readings, cont.
 <p class = "descript">
 
 {{< hint write >}}
 **Writing Tasks** — How do you provide context and historical breadth in an essay? How do you conduct preliminary research on a complex topic or time period? </u>
 {{< /hint >}}
 
-### Week 8: Oct 14 – Ode and Elegy
+{{< hint db >}}
+**Discussion Board** — Pick a sonnet or ghazal and discuss its relationship with another poem of the same form. See if you can relate the poems with one of the concepts we learned in class, from the theoretical readings of the Encyclopedia. Your comparison may relate to the poems' differing takes on a similar topic, their enunciative apparati, the degree to which they are "hyperbolic," differing uses of ritual and fictional elements, and/or their respective takes on a similar conceit. <u>Post by 10/3 at 22:00.</u>
+{{< /hint >}}
+
+### Week 8: Oct 14 – Review
 
 <span class="yellow">Essay 2 “Poems in Dialogue” (Due 10/22, 22:00)</span>
 
 10/12 - Fall Break, No Class
 
-10/14 - Langston Hughes, "The Weary Blues"
-<p class="descript">
-    See Ramazani's <i>Poetry of Mourning,</i> Chapter 4
+10/14 - Review: What is "Lyric"?
 
 {{< hint write >}}
 **Writing Tasks** — How do you write a strong thesis statement? </u>
 {{< /hint >}}
 
 {{< hint db >}}
-**Discussion Board** — Write a poem, preferrably a sonnet, that employs apostrophe.  <u>Post by 10/17 at 22:00.</u>
+**Discussion Board** — Update your DB post with either an introductory paragraph or notes on the poem. If you already wrote an introduction, you may want to update your thesis statement after having collected your notes.</u>
 {{< /hint >}}
 
-### Week 9: Oct 19, 21 – Image
+### Week 9: Oct 19, 21 – Apostrophe
 
 <p class="descript">
-We will discuss the validity of identifying poetry with photography, and practice identifying <i>puncta</i> in both photos and poems. Poets may include: Will Alexander, Paul Celan, Aimé Césaire, Emily Dickinson, Robert Hass, Mina Loy, Stéphane Mallarmé, Jean Toomer, Tomas Tranströmer, and César Vallejo.<br>
+We will discuss the function of apostrophe in the lyric. Does apostrophe come with ethical stakes?
 </p>
 
-10/19 - Sylvia Plath, "Daddy"
+10/19 - Keats, Césaire
 <p class="descript">
-     See Ramazani's <i>Poetry of Mourning,</i> Chapter 7
+     Read the selected poems, alongside Barbara Johnson's "Apostrophe, Animation, and Abortion"
    
-10/21 - Barthes, *Camera Lucida* (First part)
+10/21 - Hughes, Baraka, Plath
 <p class="descript">
     
 {{< hint write >}}
-**Writing Tasks** — How do you write about what moves you? </u>
+**Writing Tasks** — How do you identify a poetic "problem"?</u>
 {{< /hint >}}
 
 
 
-### Week 10: Oct 26, 28 — Image, cont.
+### Week 10: Oct 26, 28 — Image
 
 <span class="blue" style="margin-left:0em">**Individual Conference II**</span><br>
 
@@ -196,26 +194,26 @@ We will discuss the validity of identifying poetry with photography, and practic
 In this conference, I will give you feedback on Essay 2. The earlier you schedule it, the more time you have to work on revisions. The final deadline for revisions is 11/5, 22:00, but if you turn them in earlier and request it, I can provide additional rounds of feedback. You may also come up with other questions or topics to discuss during the conference.
 {{< /hint >}}
 
-10/26 - Richard Wright, *Haiku*
+10/26 - Ezra Pound, H.D., Mina Loy, William Carlos Williams
 
-10/28 - Mina Loy, Ezra Pound
+10/28 - Richard Wright, *Haiku*, Etheridge Knight
 
 ### Week 11: Nov 2, 4 — Image, Sentence
 
 <span class="yellow">Essay 2 Revisions (Due 11/5, 22:00)</span>
     
-11/2 - Paul Celan
+11/2 - Paul Celan, *Breathturn from Timestead*
 
-11/4 - Mei-Mei Berssenbrugge
+11/4 - Gertrude Stein, Harryette Mullen
 
 
 ### Week 12: Nov 9, 11 -- Sentence
 <p class="descript">
 Can you ascertain the values of a poet from reading their poetry?<br> What are some ways in which poets might clash and disagree?
     
-11/9: Ron Silliman, Gertrude Stein
+11/9: Baudelaire, *Paris Spleen*, Ponge
 
-11/11: Harryette Mullen
+11/11: Mei-Mei Berssenbrugge
 
 <p class="descript">
 
