@@ -194,22 +194,22 @@ We will discuss the function of apostrophe in the lyric. Does apostrophe come wi
 In this conference, I will give you feedback on Essay 2. The earlier you schedule it, the more time you have to work on revisions. The final deadline for revisions is 11/5, 22:00, but if you turn them in earlier and request it, I can provide additional rounds of feedback. You may also come up with other questions or topics to discuss during the conference.
 {{< /hint >}}
 
-10/26 - Ezra Pound, H.D., Mina Loy, William Carlos Williams
+10/26 - Ezra Pound, H.D., Mina Loy, William Carlos Williams, etc.
 
-10/28 - Richard Wright, *Haiku*, Etheridge Knight
+10/28 - Secondary readings: William Carlos Williams
 
-### Week 11: Nov 2, 4 — Image, Sentence
+### Week 11: Nov 2, 4 — Image, cont.
 
 <span class="yellow">Essay 2 Revisions (Due 11/5, 22:00)</span>
     
-11/2 - Paul Celan, *Breathturn from Timestead*
+11/2 - Secondary readings: H.D.
 
-11/4 - Gertrude Stein, Harryette Mullen
+11/4 - Secondary readings: Richard Wright
 
 
 ### Week 12: Nov 9, 11 -- Sentence
 <p class="descript">
-Can you ascertain the values of a poet from reading their poetry?<br> What are some ways in which poets might clash and disagree?
+Why did certain poets start to write in prose?
     
 11/9: Baudelaire, *Paris Spleen*, Ponge
 
