@@ -1,3 +1,12 @@
++++
+title = "Essay 3"
+description = ""
+date = "2020-08-19"
+menu = "main"
+draft="True"
++++
+
+
 # Essay 3 - "Studium, Punctum"
 
 Due Friday, 11/19, at 22:00; revisions due by 12/3 at 22:00
