@@ -7,7 +7,7 @@ type: docs
 
 <div style="text-align:center">
     9:40-10:55, Monday/Wednesday, Rockefeller 183<br>
-Didi Chang-Park (he)<br>
+Didi Chang-Park<br>
 dp625@cornell.edu<br>  
 <a href="https://calendly.com/dp625" style="font-weight: bold; border: dotted; border-width: 1px; padding: 2px; border-radius: 4px; line-height: 2em;">Conferences</a>
 </div>
