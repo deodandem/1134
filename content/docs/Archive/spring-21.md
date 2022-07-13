@@ -6,7 +6,7 @@ bookHidden: true
 <h1 style="text-align:center; font-family: Helvetica Neue"> Welcome to Spring 2021!</h1>
 
 <div style="text-align:center">
-Didi Chang-Park (he)<br>
+Didi Chang-Park<br>
 dp625@cornell.edu<br>  
 <a href="https://calendly.com/dp625" style="font-weight: bold; border: dotted; border-width: 1px; padding: 2px; border-radius: 4px; line-height: 2em;">Office Hours</a>
 </div>
