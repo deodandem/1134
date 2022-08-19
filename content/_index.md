@@ -7,8 +7,8 @@ type: docs
 
 <div style="text-align:center">
     9:40-10:55, Monday/Wednesday, White Hall 110<br>
-Didi Chang-Park (she)<br>
-dp625@cornell.edu<br>  
+Didi Chang-Park (she/her)<br>
+dp625@cornell.edu, KG53<br>  
 <a href="https://calendly.com/dp625" style="font-weight: bold; border: dotted; border-width: 1px; padding: 2px; border-radius: 4px; line-height: 2em;">Conferences</a>
 </div>
 
