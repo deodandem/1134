@@ -92,7 +92,7 @@ Try to speak up during every discussion, or at very least once a week. If you do
 * Announcements will be sent via Canvas after each class detailing the assignments for the following class. They should also arrive in your email inbox without delay. If an announcement contradicts what is written on the Schedule, trust the announcement.
 * Please communicate with me by email, at dp625@cornell.edu. I like to receive questions and messages and typically respond the same day. You may also use Slack to private message me, but I often keep notifications off and may respond more quickly to emails.
 * If you have questions that might be relevant to others in the class, ask them via #general in Slack. If you find an error on the website, bring it up in #general.
-* I am available to meet one-on-one at various times throughout the week. Use the link calendly.com/dp625 to schedule a meeting. Drop-in office hours will occur once a week at a time to be decided by poll. My office is at **Goldwin Smith 243.**
+* I am available to meet one-on-one at various times throughout the week. Use the link calendly.com/dp625 to schedule a meeting. Drop-in office hours will occur once a week at a time to be decided by poll. My office is **KG 53,** which is in the hall at the back of the ground level of Klarman hall, to the left side if you're approaching from Temple of Zeus.
 
 * If you are unsure about your grade on an assignment or feel concerned about your grade, do not hesitate to ask me about it; I will try to give you whatever guidance is necessary to help you improve on subsequent assignments.
 
