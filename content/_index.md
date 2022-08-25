@@ -33,7 +33,7 @@ In this section of Reading Poetry, we explore the range of associations that rea
 <div style="margin-left:2em">
 1. You are required to write five essays for this course. Essay 0 will be given a completion grade; 1-4 will be given a letter grade.
 
-Essay 0 – "Poetics" – 2-3 pages (Week 1)  
+Essay 0 – "Poetics" – 3-4 pages pages (Week 1)  
 Essay 1 – "Rhyme, Line, Meter" – 3-5 pages (Week 4)  
 Essay 2 – "Poems in Dialogue" – 3-5 pages (Week 8)    
 Essay 3 – "Literature Review" – 3-5 pages (Week 12)  
@@ -118,4 +118,4 @@ You can check out books from other libraries using BorrowDirect if they are curr
 * This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to the physically handicapped, visually and/or hearing impaired student; sexual harassment; discrimination based on race, ethnicity, and gender identity. Students are advised to become familiar with the respective <a href="https://www.dfa.cornell.edu/sites/default/files/vol6_4.pdf">University regulations</a> and are encouraged to bring any questions or concerns to the attention of the instructor.
 * If you have a disability-related need for this course, provide the instructor with an accommodation notification letter from Student Disability Services. Students are expected to give two weeks’ notice for requested accommodations. If you need immediate accommodations sooner, please speak to the instructor about your need by the end of the first week.
 
-[^1]: The total minimum page count, 2+3+3+3+8=19, converted to the standard double spacing, satisfies the 20-page minimum mandated by the Knight institute.
+[^1]: The total minimum page count, 3+3+3+3+8=20, converted to the standard double spacing, satisfies the 20-page minimum mandated by the Knight institute.
