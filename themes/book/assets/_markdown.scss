@@ -130,9 +130,14 @@
     background: black;
   }
 
-  ul,
+  ul {
+    padding-inline-start: 1em;
+    padding-top: 1em;
+  }
+
   ol {
-    padding-inline-start: $padding-16;
+    padding-inline-start: 1em;
+    padding-bottom: 1em;
   }
 
   dl {
