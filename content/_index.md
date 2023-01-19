@@ -3,10 +3,10 @@ title: Schedule
 type: docs
 ---
 
-<h1 style="text-align:center; font-family: Helvetica Neue"> Welcome to Fall 2022!</h1>
+<h1 style="text-align:center; font-family: Helvetica Neue"> Welcome to Spring 2023!</h1>
 
 <div style="text-align:center">
-    9:40-10:55, Monday/Wednesday, White Hall 110<br>
+    9:40-10:55, Tuesday/Thursday, Goldwin Smith 181<br>
 Didi Chang-Park (she/her)<br>
 dp625@cornell.edu, KG53<br>  
 <a href="https://calendly.com/dp625" style="font-weight: bold; border: dotted; border-width: 1px; padding: 2px; border-radius: 4px; line-height: 2em;">Conferences</a>
@@ -53,33 +53,46 @@ Please follow <a href="https://owl.purdue.edu/owl/research_and_citation/mla_styl
 
 ## Grading
 
-Your final grade is primarily determined by the grades you receive on your essays, and secondarily by your participation in class. Issues with lateness may affect your individual essay grades as detailed below. Issues with participation can lead to "ceilings" or "caps" on your final grade, as detailed below. The ceilings are not cumulative across categories, but the lowest ceiling will be instituted unilaterally. If you miss six classes and a discussion board post, your maximum grade for the class would be a B+, not a B, and not an A-.
-
-
-It is possible to earn an A+ in this class if and only if you receive an A+ on Essay 4. As a matter of convention, please don't ask about receiving an A+, as it is a grade that is conferred very rarely as a matter of distinction. I may nominate up to two students per term to submit work to one of the Knight Institute's FWS prizes.
-
-
-<b>Deadlines.</b> Any essay may be turned in up to 24 hours after its deadline with no penalty to the grade. After that, the student is responsible for sending a <b>daily status update</b>, by email, informing the instructor of their progress. If you miss one status update, then the instructor may apply a late penalty to the essay, meaning that its grade will be capped at an A-. A status update must include the following:
-* A note in the body of the email articulating what you're struggling with, and what you think is feasible for you to accomplish by the following day. This can include obstructions caused by another class or by other circumstances. If you haven't been able to do any work on a given day, still send a "null" report.
-   * You can replace the daily note with a meeting with me or by a meeting with the Knight Institute's writing center.
-* An attachment that shows your current work on the paper.
+Your final grade is primarily determined by the grades you receive on your essays, but issues with lateness and absence can cause your grade to be "capped" according to the rules detailed below.
 
 
 <b>Attendance.</b> 
 
-If you miss class, send an email letting me know—it'll help you stay accountable. You may miss up to 3 classes for any reason before your grade is capped at an A-. Missing more than six classes will lead to a B+ maximum, more than nine leads to a B, etc. Arriving more than 10 minutes late three times counts as an absence. Sleeping in class will result in a concerned email from me and counts as an absence, since it can be distracting to others. Please get enough sleep! If you miss more than three classes due to a documented illness or other crisis, I will consider lifting the grading cap, but you must communicate swiftly in order to avoid ambiguity regarding the reasons for your absence.
+You may miss up to 3 classes for any reason before your grade is capped at an A-. Missing 4-6 classes will lead to an A- maximum, and missing more than 7 leads to a B+ maximum. Arriving more than 10 minutes late three times counts as an absence. Please get enough sleep, and do not attend class if you are feeling unwell. If you miss more than three classes due to an illness or other crisis, I will consider lifting the grading cap, but you must have communicated your intent to miss class in advance of each absence (or shortly afterwards) for an exemption to be applicable.
 
 
 <b>Participation.</b> 
 
-Canvas discussion board posts and peer review exchanges are essential and often time-sensitive. You can submit them up to three days late without any penalty, but a missed assignment will lead to an A- cap on your final grade. This is cumulative, so missing three DB posts would result in a B ceiling.
 
-We use Slack to share brief responses to poems and prompts prior to (and sometimes in) class. You can miss five of these without penalty, after which point your grade will be capped at an A-.
+We use Piazza to share all sorts of pieces of informal writing before and during class. You can miss three of these without penalty, after which point your grade will be capped at an A-. Missing six or more will lead to a B+ maximum, and missing nine or more will lead to a B maximum.
 
-Try to speak up during every discussion, or at very least once a week. If you do not want to speak, take notes on what others are saying. There is no penalty for not speaking in class, but your final grade may be decremented for behaviors which may be distracting or disruptive.
+Try to speak during class-wide discussions at least once a week. There is no penalty for not speaking in class, but your final grade may be decremented for behaviors that are distracting or disruptive.
+
+
+<b>Deadlines.</b>
+
+Any essay may be turned in up to 24 hours after its deadline with no penalty to the grade. After that, the student is responsible for sending <b>status updates</b> informing the instructor of their progress. A status update must include (1) A note in the body of the email articulating what you're struggling with, and (2) what you think is feasible for you to accomplish by a certain deadline, set in the email (two or three days out is ideal).
+
+You can replace the emailed updates with a meeting with me or by a meeting with the Knight Institute's writing center. You can also send an attachment that shows your current work on the paper with a brief note stipulating that the document represents progress on the essay.
+
+If you miss status updates for a week, the late essay will receive a maximum grade of A-; essays more than a week late will receive a maximum grade of B+.
+
+
+<hr>
+
+"Caps" are not cumulative across categories, but the lowest cap will be instituted unilaterally. If you miss six classes (A- cap) and six Piazza posts (B+ cap), your maximum grade for the class would be a B+.
+
+As a general rule, I do not send warnings with respect to class performance unless I notice a disruption to the classroom environment. If you are unsure about your attendance status, late or missing work, and want to know where your grade stands or how to "do better," please ask; I will provide feedback and guidance.
+
+The A+ grade is not commonly given out in this course and should be thought of as a mark of distinction based on the qualities of the student's essays, and on the student's contributions to class discussions, conferences, and office hours. Do not ask about whether or not you have earned an A+ in the class or if there is something you can do to earn the grade.
+
+ I may nominate up to two students per term to submit work to one of the Knight Institute's FWS prizes. This is something you can ask about; I will make an effort to help nominees submit their best work.
+
 
 </div>
 
+
+<hr>
 
 
 
@@ -89,19 +102,22 @@ Try to speak up during every discussion, or at very least once a week. If you do
 
 ## Communications
 
-* Announcements will be sent via Canvas after each class detailing the assignments for the following class. They should also arrive in your email inbox without delay. If an announcement contradicts what is written on the Schedule, trust the announcement.
-* Please communicate with me by email, at dp625@cornell.edu. I like to receive questions and messages and typically respond the same day. You may also use Slack to private message me, but I often keep notifications off and may respond more quickly to emails.
-* If you have questions that might be relevant to others in the class, ask them via #general in Slack. If you find an error on the website, bring it up in #general.
+* Announcements will be sent via Canvas and Piazza after each class detailing the assignments for the following class. Canvas announcements are often more general and Piazza notes will include attachments to readings. All announcements should show up in your inbox without delay.
+
+
+* Please communicate with me by email, at dp625@cornell.edu. If I don't respond within two days, send a follow-up reminder.
+
+* If you have questions that might be relevant to others in the class, ask them in class or by making a post in Piazza. If you find an error on the website, bring it up in the "general" folder or send me an email directly.
+
 * I am available to meet one-on-one at various times throughout the week. Use the link calendly.com/dp625 to schedule a meeting. Drop-in office hours will occur once a week at a time to be decided by poll. My office is **KG 53,** which is in the hall at the back of the ground level of Klarman hall, to the left side if you're approaching from Temple of Zeus.
 
-* If you are unsure about your grade on an assignment or feel concerned about your grade, do not hesitate to ask me about it; I will try to give you whatever guidance is necessary to help you improve on subsequent assignments.
 
 
 ## Materials
 
-All readings will be made available on Canvas, linked to the schedule on this website, or uploaded to Slack. Please do not circulate slides, handouts, scans, or any other course materials online, as some of the material may be copyrighted and only available for private, educational use.
+All readings will be made available on Canvas or uploaded to Piazza. Please do not circulate slides, handouts, scans, or any other course materials on public file sharing websites, as some of the material may be copyrighted. 
 
-You should always bring a computer to class, so that you can access electronic materials and contribute to Slack. I highly recommend that you use the annotation functions available on your preferred PDF viewer as you read materials for class.
+You should always bring a computer to class, so that you can access PDFs and write to Piazza. I highly recommend that you use the annotation functions available on your preferred PDF viewer as you read materials for class.
 
 You are always encouraged to read beyond the course materials. Use the library; use JSTOR, use HathiTrust and other databases for academic articles and books. You may also encounter poems and writing on poems in literary magazines like the Paris Review, the LA Review of Books, The Yale Review.
 

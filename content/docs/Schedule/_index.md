@@ -5,229 +5,151 @@ bookFlatSection: false
 
 # COML 1134: Reading Poetry (FWS)
 
-### Week 1: Aug 22, 24 – Introduction
+<div style="margin-top: 50px">
 
-<p class="descript">
-We will collectively discuss several poems and the reading strategies we use when discussing them. Then, we will discuss the gap or concordance between the "poem" and the "poetic." Your task will then be to write about what the "poetic" means to you, and to follow this with a discussion of how a poem you have read or written concords with or fails to live up to your notion of the "poetic."
+### Week 1: Jan 24, 26 – Introduction
 
-8/22: What Do You Notice?
+<div class="descript" style="margin-left:30px;">
+We will collectively discuss several poems and the reading strategies we use when discussing them. Then, we will discuss the gap or concordance between the "poem" and the "poetic." Your task will then be to write about what the "poetic" means to you, and to follow this with a discussion of how a poem you have read or written concords with or fails to live up to your notion of the "poetic." The focal texts will be Louise Glück's "Education of the Poet" and Lawrence's "Preface to the <i>New Poems</i>."
 
-{{< hint db >}}
-**Discussion Board** — Introduce yourself (name, pronouns, hometown, prospective major, anything else you'd like to share) and write a brief reflection on your most recent writing course. What did you read and write? How was the experience overall? Was there anything about the course design that worked well for you or which didn't work? What would you change if you could go back in time? What do you hope to work on in this course? <u>Post by today, 8/22 at 22:00.</u>
-{{< /hint >}}
+<span class="yellow">Essay 0 - "First Day" (Due 1/27, 22:00)</span>
 
-8/24: Poem, Poet, Poetry, Poetics
+<span class="yellow">Essay 0 - Peer review (Due 1/30, 22:00)</span>
 
+</div>
 
-    
-<span class="yellow">Essay 0 - "First Day" (Due 8/26, 22:00)</span>
 
-<span class="yellow">Essay 0 - Peer review (Due 8/28, 22:00)</span>
+### Week 2: Jan 31, Feb 2 – Repetition
 
-### Week 2: Aug 29, 31 – Rhyme
+<div class="descript" style="margin-left:30px;">
+We discuss the stakes of repetition in poems and in life, as scaffolded around a selection of poems by Stein, Poe, and Swinburne, and treatises on the concept of repetition by Kierkegaard ("Repetition") and Freud ("Beyond the Pleasure Principle"). More specifically—how does repetition relate to recollection, or the inability to recollect traumatic events?
 
-8/29: "Rhyme" (PEPP), "Repetition" (PEPP)
-<p class="descript">
-We will continue discussing the poems from the slides, with an emphasis on discussing repetition and rhyme within each. Read the above entries, under > Files > Encyclopedia.<br>
 
+</div>
 
-8/31: Orality and Rhyme
-<p class="descript">
-Discussion of rhyme and repetition in written and oral poetries. Discussion will likely include: Alexander Pope, Gertrude Stein, R.A.P. Ferreira, Eminem, Wally McRae, Harryette Mullen, and Christian Bök.
+### Week 3: Feb 7, 9 – Rhyme
 
-</p>
+<div class="descript" style="margin-left:30px;">Rhyme might be understood as a more specific form of repetition, but it also plays a somewhat distinct role in the scaffolding or structure of the poem. This week, we continue to investigate the relation between rhyme and the compulsions associated with repetition, while extending this discussion to the notion that rhyme exerts a binding force at the level of the stanza—that it is an overt, artifical phenomenon that puts into question the agency of the poet in the face of linguistic constraint.
+</div>
 
-{{< hint write >}}
-**Writing Tasks** — What makes a good poem? How do you go about writing one? </u>
-{{< /hint >}}
+### Week 4: Feb 14, 16 – Meter
 
-{{< hint db >}}
-**Discussion Board** — Think about our discussions of rhyme and repetition this week and identify an idea you would like to respond to. Then, find an excerpt from the PEPP entries or a poem which addresses that idea. Finally, write a poem responding to that quotation. Here's a topical constraint: <i>Write about something you fear.</i> You may certainly begin by writing your poem first, before connecting it to a particular idea on rhyme/repetition. Regardless, write a brief paragraph afterwards sharing the quote and reflecting on your process, and how satisfied you are with your response to the cited text. <u>Post by 9/3 at 22:00.</u>
-{{< /hint >}}
+<div class="descript" style="margin-left:30px;">
+How have poets, critics, and readers learned to employ or receive the effects of "meter" in poetry over time? Prosodic patterns can create seemingly natural effects in the body of the reader-auditor, one which escape our conscious attention, but these effects are seeminly dependent on how they are brought to the fore through context and through the knowledge we produce around metrical conventions.
 
+</div>
 
-### Week 3: Sep 5, 7 – Line
+<div class="yellow" style="margin: 30px auto auto 30px; width: fit-content">Essay 1 - "Forms of Repetition" (Due 2/17, 22:00)</div>
 
-9/5: NO CLASS
+<hr style="margin: 70px auto 70px auto; width: 60px;">
 
+### Week 5: Feb 21, 23 – Voice
 
-9/7: Robert Hass: Introduction, Chapters 1-3, from *A Little Book on Form*
-<ul class="descript">
-<li>Prior to class, put in the <span class="slack">#line</span> slack channel a favorite quote from Hass or favorite quoted poem from the reading. Briefly comment on why you chose it, or not (in which case I will probably call on you in class to comment further).
-<li>Keep a list of favorite lines mentioned in these chapters, in previous or future readings, and in poems you may have independently found. Try to figure out why you like a given line, couplet, or tercet of poetry. How does it &ldquo;embody the energy of the gesture of its making&rdquo;?
-</ul>
+<div class="blue" style="margin: 30px auto 20px 30px; width: fit-content"><b>Individual Conferences (Feb 20-24)</b> <a href="https://calendly.com/dp625">[schedule]</a></div>
 
+<div class="descript" style="margin-left:30px;">
+In the past few weeks, we have treated words and sounds as the primary objects of the poem, as those objects are subject to various forms of repetition. Now we take as our object the act of address that the poem enacts. The term "voice" will act as a shorthand for this act of voicing or addressing another. What is at stake in the act of addressing a specific object from a specific subjective position in a given poem?
 
-</p>
+The focal text will be T.S. Eliot's "The Three Voices of Poetry."
 
-{{< hint db >}}
-**Discussion Board** — Draft a poem or a stanza from a poem. It could be an extension or revision of last week's post, or something new. Show three different ways of writing it on the page (using line breaks, stanza divisions, or virgules) and see if you can determine which one you prefer. Write a paragraph describing how you came up with the three arrangements and why you prefer the chosen one over the others. Cite Hass or another poem where necessary. <u>Post by 9/12 at 22:00.</u>
-{{< /hint >}}
 
+</div>
 
-### Week 4: Sep 12, 14 – Meter
+### Week 6: Mar 2 – Apostrophe (19th Century)
 
-9/12: Hass: "A Note on Stress," "How to Scan a Poem"
-<p class="descript">
-    Read these chapters, but we'll discuss some of the quoted examples.
-    
-9/14: Whitman, "Song of Myself"
-<p class="descript">
-    We'll continue discussing some poems written in a fixed meter, but also ask: are there metrical patterns in Whitman's free verse?
-    
-<span class="yellow">Essay 1 "Rhyme, Line, Meter" (Due 9/16, 22:00)</span>
+<div class="descript" style="margin-left:30px; margin: 30px auto auto 30px;">
 
-{{< hint write >}}
-**Writing Tasks** — How do you write the first paragraph of an essay? </u>
-{{< /hint >}}
 
+We will discuss the function of apostrophe in the lyric, by reading two central essays on the term: Jonathan Culler's "Apostrophe," and Barbara Johnson's "Apostrophe, Animation, and Abortion." Poems for this week will largely come from the 19th century—e.g., Keats, Shelley, Baudelaire. </div>
 
-### Week 5: Sep 19, 21 – Sonnet (Early Modern)
 
-<span class="blue" style="margin-left:0em">**Individual Conferences (Sep 19-23)**</span>
 
-(Schedule using [calendly.com/dp625](https://calendly.com/dp625))
+</div>
 
-{{< hint warning >}}
-In this conference, I will give you feedback on Essay 1. The earlier we meet, the more time you have to work on revisions. The final deadline for revisions is 3/5, 22:00, but if you turn them in earlier and request it, I can provide additional rounds of feedback. You may also come up with other questions or topics to discuss during the conference.
-{{< /hint >}}
+### Week 7: Mar 7, 9 - Apostrophe (20th Century)
 
-<p class="descript">
-We will take an &ldquo;inductive&rdquo; approach to the sonnet form this week by reading a wide range of sonnets by Petrarch, Shakespeare, Rilke, Berrigan, Toomer, Hayes, Hopkins, Sor Juana, Pessoa, and others. Given these poems, we might ask: what do sonnets do? What subjects do they gravitate toward? What makes this form so robust and versatile?  A small "reader" has been uploaded on Canvas ( > Files > Sonnet > 1134-sonnets.pdf ).
-</p>
+<div class="descript" style="margin-left:30px;">
 
-9/19: *Art of the Sonnet,* selected sonnets
-<p class="descript">
-    Read the Introduction (p. 5-25) from <i>Art of the Sonnet.</i> Start reading poems from the Sonnet Reader; post poems that catch your eye in <span class="slack">#sonnet</span>. We'll pick out some quotes from the AoS Intro and look at some poems in the Sonnet reader in class. A few questions we will address: Why 14 lines? Why these rhyme schemes? Why and how did this form emerge? What are common topics addressed by the sonnet? What are its rhetorical stances and social, political, and/or aesthetic functions?
+We will continue the discussion from last week, in relation to works by Césaire, Plath, O'Hara, and other poets from the 20th century. </div>
 
-9/21: Early Modern Sonnets
-<p class="descript">
-    Continue posting sonnets in <span class="slack">#sonnet</span>, particularly those from the 19th-21st centuries. We will discuss the Early Modern sonnets (e.g., Petrarch, Shakespeare, Quevedo, Sor Juana) and look at some associated paintings. Why are death and eros such common topics, and how do these poets approach them?
-    
-{{< hint write >}}
-**Writing Tasks** — How do you provide context and historical breadth in an essay? How do you conduct preliminary research on a complex topic or time period? </u>
-{{< /hint >}}
 
+### Week 8: Mar 14, 16 - Prosopopoeia (16th, 21st Century)
 
-### Week 6: Sep 26, 28 – Sonnet (19th-21st c)
-<p class="descript">
 
-9/26: 19th century sonnets
-<p class="descript">
-    Read <i>Post-Petrarchism,</i> Introduction (p. 1-13) and Chapter 1 (p. 22-27). Post sonnets of interest in #sonnet.
+<div class="descript" style="margin-left:30px;">
 
-9/28: 19th century sonnets, 20th-21st c sonnets
+We discuss the differences between apostrophe and prosopopoeia, in relation to sonnets from Early Modern England, and in relation to some more recent works which seem to be in dialogue with their predecessors. 
 
+<span class="yellow">Essay 2 - “Poems in Dialogue” (Due 3/17, 22:00)</span>
 
-{{< hint write >}}
-**Writing Tasks** — How do you write an essay that involves comparison? How do you paraphrase, define, and write in response to another person's text?</u>
-{{< /hint >}}
+</div>
 
-### Week 7: Oct 3, 5 – Sonnet (Comparisons)
 
-<span class="yellow">Essay 1 Revisions (Due 10/8, 22:00)</span>
 
-</p>
+<hr style="margin: 70px auto 70px auto; width: 60px;">
 
-10/3: 20th-21st century sonnets
-<p class="descript">
-    
-10/5: Sonnets + External Readings, cont.
-<p class = "descript">
+### Week 9: Mar 21, 23 – Special Topics
 
-{{< hint write >}}
-**Writing Tasks** — How do you provide context and historical breadth in an essay? How do you conduct preliminary research on a complex topic or time period? </u>
-{{< /hint >}}
 
-{{< hint db >}}
-**Discussion Board** — Pick two sonnets to discuss in relation to one another. Your comparison may relate to the poems' differing takes on a similar topic, their enunciative apparati, the degree to which they are "hyperbolic," differing uses of ritual and fictional elements, and/or their respective takes on a similar conceit. <u>Post by 10/7 at 22:00.</u>
-{{< /hint >}}
+<div class="blue" style="margin: 30px auto 20px 30px; width: fit-content"><b>Individual Conferences (Mar 20-24)</b>  <a href="https://calendly.com/dp625">[schedule]</a></div>
 
-### Week 8: Oct 10, 12 – Review
+<div class="descript" style="margin-left:30px;">
 
-<span class="yellow">Essay 2 “Poems in Dialogue” (Due 10/14, 22:00)</span>
+In this section of the course, we will return to certain concepts of interest from past weeks with a renewed focus on applying them in the new context of a specific poetic sequence or selection of poems. Or we may focus on certain special topics not covered thus far, e.g., "modernism," "theory of the lyric," "muteness," "aesthetics," "new media," "poetics of the feminine," "the prose poem," "ecopoetics," "translating poetry"...
 
-10/10: NO CLASS
 
-10/12: Review - What is "Lyric"?
+</div>
 
-{{< hint write >}}
-**Writing Tasks** — How do you write a strong thesis statement? </u>
-{{< /hint >}}
 
+### Week 10: Mar 28, 30 — Special Topics
 
 
-### Week 9: Oct 17, 19 – Apostrophe
 
+### Week 11: Spring Break 
 
-<span class="blue" style="margin-left:0em">**Individual Conferences (10/17 - 10/21)**</span><br>
+### Week 12: Apr 11, 13 — Workshop
 
-(Use [calendly.com/dp625](https://calendly.com/dp625))
+<div class="descript" style="margin-left:30px;">
 
-{{< hint warning >}}
-In this conference, I will give you feedback on Essay 2. The earlier you schedule it, the more time you have to work on revisions. The final deadline for revisions is 4/1, 22:00, but if you turn them in earlier and request it, I can provide additional rounds of feedback. You may also come up with other questions or topics to discuss during the conference.
-{{< /hint >}}
+Workshop on reading and writing about academic articles.
 
+<span class="yellow">Essay 3 - "Literature Review" (Due 4/14, 22:00)</span>
+ </div>
 
-<p class="descript">
-We will discuss the function of apostrophe in the lyric, by reading two key essays: Jonathan Culler's "Apostrophe," and Barbara Johnson's "Apostrophe, Animation, and Abortion" in relation to various poems by Baudelaire, Keats, Césaire, and Plath, among others. What are the ethical stakes associated with apostrophe?
-</p>
 
 
-    
 
-### Week 10: Oct 24, 26 — Apostrophe
+### Week 13: Apr 18, 20 — Special Topics
 
+<div class="blue" style="margin: 30px auto 20px 30px; width: fit-content"><b>Individual Conferences (Apr 17-21)</b> <a href="https://calendly.com/dp625">[schedule]</a></div>
 
-<span class="yellow">Essay 2 Revisions (Due 10/28, 22:00)</span>
 
-### Week 11: Oct 31, Nov 2 - Image
 
-10/31: Ezra Pound, H.D., Mina Loy, William Carlos Williams, etc.
+### Week 14: Apr 25, 27 — Special Topics
 
-11/2: Secondary readings: William Carlos Williams
 
 
-### Week 12: Nov 7, 9 - Image, cont.
 
-<span class="yellow">Essay 3 ("Literature Review") (Due 11/11, 22:00)</span>
 
-11/7: Secondary readings: H.D.
+<hr style="margin: 70px auto 70px auto; width: 60px;">
 
-11/9: Secondary readings: Richard Wright
 
+### Week 15: May 2, 4 — Final Work
 
-### Week 13: Nov 14, 16 - Sentence
-    
-<span class="yellow">Essay 3 Revisions (Due 11/18, 22:00)</span>
+<div class="descript" style="margin-left:30px;">
 
-11/14: Baudelaire, *Paris Spleen*, Ponge
+<span class="yellow">Final Proposal (Due 5/6, 22:00)</span>
 
-11/16: Mei-Mei Berssenbrugge
+</div>
 
+### Week 16: May 9 — Final Work
 
-### Week 14: Nov 21, 23 — Page
 
-{{< hint db >}}
-**Discussion Board** — Essay 4 Proposal. <u>Post by 11/22 at 22:00.</u>
-{{< /hint >}}
-
-<p class="descript">
-
-11/21: Mallarmé, Haroldo de Campos
-
-11/23: NO CLASS
-
-### Week 15: Nov 28, 30 - Workshop
-
-<span class="yellow">Essay 4 Drafts (Due 12/5, 22:00)</span>
-
-
-
-### Week 16: Dec 5 — Workshop
+<div class="descript" style="margin-left:30px;">
 
 Course-Teacher Evaluations due (online)
 
 
-<span class="yellow">Essay 4 “Final” (Due 12/12, 22:00)</span>  
+<span class="yellow">Essay 4 - “Final” (Due 5/12, 22:00)</span>  
 
+</div>
